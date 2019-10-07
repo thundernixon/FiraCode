@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nacute" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0143"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="600.9166666666666" y="1378.25" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="acute.case" xOffset="3.8333333333333335"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:23</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

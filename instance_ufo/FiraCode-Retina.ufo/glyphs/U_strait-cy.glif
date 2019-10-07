@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustrait-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="04AE"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="605.8125" y="1378.25" name="top"/>
+  <anchor x="36.95833333333333" y="1378.25" name="topleft"/>
+  <outline>
+    <component base="Y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

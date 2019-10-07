@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphadasia" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1F09"/>
+  <anchor x="596.0625" y="0.0" name="bottom"/>
+  <anchor x="1095.0416666666667" y="0.0" name="ogonek"/>
+  <anchor x="186.91666666666666" y="1399.2083333333333" name="top"/>
+  <anchor x="390.0625" y="1378.25" name="topleft"/>
+  <outline>
+    <component base="Alpha"/>
+    <component base="dasia" xOffset="-418.0" yOffset="-208.91666666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

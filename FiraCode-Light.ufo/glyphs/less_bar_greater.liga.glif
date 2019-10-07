@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_bar_greater.liga" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="-892" y="1275" type="line"/>
+      <point x="-1813" y="705" type="line"/>
+      <point x="-1813" y="549" type="line"/>
+      <point x="-892" y="-27" type="line"/>
+      <point x="-892" y="113" type="line"/>
+      <point x="-1707" y="625" type="line"/>
+      <point x="-892" y="1133" type="line"/>
+    </contour>
+    <contour>
+      <point x="-310" y="1274" type="line"/>
+      <point x="-310" y="1138" type="line"/>
+      <point x="510" y="625" type="line"/>
+      <point x="-310" y="115" type="line"/>
+      <point x="-310" y="-30" type="line"/>
+      <point x="616" y="549" type="line"/>
+      <point x="616" y="705" type="line"/>
+    </contour>
+    <component base="_part.bar" xOffset="-1200"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

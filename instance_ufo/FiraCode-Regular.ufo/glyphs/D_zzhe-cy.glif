@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dzzhe-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="052A"/>
+  <anchor x="600.0" y="-399.0625" name="bottom"/>
+  <anchor x="600.0" y="1376.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="-25.375" y="-294.2708333333333" type="line"/>
+      <point x="101.10416666666667" y="-294.2708333333333" type="line"/>
+      <point x="131.41666666666666" y="0.0" type="line"/>
+      <point x="178.27083333333334" y="0.0" type="line"/>
+      <point x="184.625" y="129.25" type="line"/>
+      <point x="-25.375" y="129.25" type="line"/>
+    </contour>
+    <contour>
+      <point x="604.7916666666666" y="-294.2708333333333" type="line"/>
+      <point x="734.5833333333334" y="-294.2708333333333" type="line"/>
+      <point x="734.5833333333334" y="129.25" type="line"/>
+      <point x="524.2708333333334" y="129.25" type="line"/>
+      <point x="528.0" y="0.0" type="line"/>
+      <point x="574.625" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="584.75" y="0.0" type="line"/>
+      <point x="780.2708333333334" y="0.0" type="line"/>
+      <point x="780.2708333333334" y="129.25" type="line"/>
+      <point x="565.25" y="129.25" type="line"/>
+    </contour>
+    <contour>
+      <point x="39.0625" y="0.0" type="line"/>
+      <point x="603.4166666666666" y="0.0" type="line"/>
+      <point x="603.4166666666666" y="1376.75" type="line"/>
+      <point x="204.625" y="1376.75" type="line"/>
+      <point x="171.6875" y="869.375" type="line" smooth="yes"/>
+      <point x="138.75" y="390.8958333333333"/>
+      <point x="88.9375" y="257.375"/>
+      <point x="41.104166666666664" y="129.25" type="curve"/>
+    </contour>
+    <contour>
+      <point x="179.0625" y="129.25" type="line"/>
+      <point x="259.2083333333333" y="258.0"/>
+      <point x="304.0" y="419.4166666666667"/>
+      <point x="326.625" y="862.0" type="curve" smooth="yes"/>
+      <point x="347.1041666666667" y="1243.0625" type="line"/>
+      <point x="458.2708333333333" y="1243.0625" type="line"/>
+      <point x="458.2708333333333" y="129.25" type="line"/>
+    </contour>
+    <contour>
+      <point x="570.625" y="646.9375" type="line"/>
+      <point x="705.6875" y="646.9375" type="line"/>
+      <point x="705.6875" y="0.0" type="line"/>
+      <point x="852.0" y="0.0" type="line"/>
+      <point x="852.0" y="646.9375" type="line"/>
+      <point x="904.3125" y="646.9375" type="line"/>
+      <point x="1057.0625" y="0.0" type="line"/>
+      <point x="1222.75" y="0.0" type="line"/>
+      <point x="1029.375" y="724.625" type="line"/>
+      <point x="1182.9375" y="1376.75" type="line"/>
+      <point x="1037.7291666666667" y="1376.75" type="line"/>
+      <point x="906.9375" y="790.8958333333334" type="line"/>
+      <point x="852.0" y="790.8958333333334" type="line"/>
+      <point x="852.0" y="1376.75" type="line"/>
+      <point x="705.6875" y="1376.75" type="line"/>
+      <point x="705.6875" y="790.8958333333334" type="line"/>
+      <point x="570.625" y="790.8958333333334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

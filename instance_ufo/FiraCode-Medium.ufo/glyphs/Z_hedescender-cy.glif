@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Zhedescender-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0496"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="1133.8541666666667" y="0.0" name="bottomright"/>
+  <anchor x="600.0" y="1380.25" name="top"/>
+  <outline>
+    <component base="Zhe-cy"/>
+    <component base="descStraight-cy.case" xScale="0.921875" xOffset="543.0625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/27 17:50:10</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

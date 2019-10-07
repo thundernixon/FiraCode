@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chekhakassian-cy" format="2">
+  <advance width="1200"/>
+  <unicode hex="04CC"/>
+  <anchor x="600" y="-443" name="bottom"/>
+  <anchor x="600" y="1062" name="top"/>
+  <outline>
+    <contour>
+      <point x="1052" y="1062" type="line"/>
+      <point x="736" y="1062" type="line"/>
+      <point x="736" y="658" type="line"/>
+      <point x="688" y="617"/>
+      <point x="616" y="589"/>
+      <point x="547" y="589" type="curve" smooth="yes"/>
+      <point x="466" y="589"/>
+      <point x="412" y="624"/>
+      <point x="412" y="725" type="curve" smooth="yes"/>
+      <point x="412" y="1062" type="line"/>
+      <point x="96" y="1062" type="line"/>
+      <point x="96" y="685" type="line" smooth="yes"/>
+      <point x="96" y="483"/>
+      <point x="214" y="356"/>
+      <point x="431" y="356" type="curve" smooth="yes"/>
+      <point x="557" y="356"/>
+      <point x="662" y="394"/>
+      <point x="736" y="454" type="curve"/>
+      <point x="736" y="0" type="line"/>
+      <point x="1052" y="0" type="line"/>
+    </contour>
+    <component base="descStraight-cy" xScale="-1" xOffset="1346"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

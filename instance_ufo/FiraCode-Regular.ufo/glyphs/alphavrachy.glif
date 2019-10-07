@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="alphavrachy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1FB0"/>
+  <anchor x="593.1041666666666" y="0.0" name="bottom"/>
+  <anchor x="553.0625" y="1052.75" name="top"/>
+  <outline>
+    <component base="alpha"/>
+    <component base="breve" xOffset="-46.9375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:23</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

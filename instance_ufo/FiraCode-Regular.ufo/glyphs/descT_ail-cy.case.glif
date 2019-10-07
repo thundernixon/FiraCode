@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="descTail-cy.case" format="2">
+  <advance width="1200.0"/>
+  <anchor x="642.7916666666666" y="0.0" name="_bottom"/>
+  <anchor x="412.625" y="0.0" name="_bottomleft"/>
+  <anchor x="585.1041666666666" y="0.0" name="_bottomright"/>
+  <outline>
+    <contour>
+      <point x="745.1041666666666" y="138.27083333333331" type="line"/>
+      <point x="487.25" y="138.27083333333331" type="line"/>
+      <point x="486.625" y="0.0" type="line"/>
+      <point x="523.375" y="0.0" type="line"/>
+      <point x="454.9375" y="-294.2708333333333" type="line"/>
+      <point x="590.2708333333334" y="-294.2708333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

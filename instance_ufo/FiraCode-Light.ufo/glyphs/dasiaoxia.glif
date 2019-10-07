@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasiaoxia" format="2">
+  <advance width="1200"/>
+  <unicode hex="1FDE"/>
+  <anchor x="570" y="1050" name="_top"/>
+  <anchor x="846" y="1565" name="_topleft"/>
+  <anchor x="273" y="1572" name="top"/>
+  <outline>
+    <contour>
+      <point x="701" y="1559" type="line"/>
+      <point x="602" y="1174" type="line"/>
+      <point x="697" y="1145" type="line"/>
+      <point x="822" y="1529" type="line"/>
+    </contour>
+    <component base="dasia" xOffset="-152" yOffset="-16"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

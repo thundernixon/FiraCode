@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ustrait-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="04AF"/>
+  <anchor x="600.0" y="-399.0625" name="bottom"/>
+  <anchor x="600.0" y="1052.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="517.6875" y="-423.7291666666667" type="line"/>
+      <point x="682.3125" y="-403.0625" type="line"/>
+      <point x="682.3125" y="32.583333333333336" type="line"/>
+      <point x="1084.9375" y="1052.75" type="line"/>
+      <point x="910.9375" y="1052.75" type="line"/>
+      <point x="603.6875" y="192.75" type="line"/>
+      <point x="293.1041666666667" y="1052.75" type="line"/>
+      <point x="115.0625" y="1052.75" type="line"/>
+      <point x="517.6875" y="32.895833333333336" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

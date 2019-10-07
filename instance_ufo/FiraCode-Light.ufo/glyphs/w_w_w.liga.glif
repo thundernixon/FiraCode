@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w_w_w.liga" format="2">
+  <advance width="1200"/>
+  <anchor x="-1800" y="0" name="bottom"/>
+  <anchor x="-1800" y="1050" name="top"/>
+  <outline>
+    <contour>
+      <point x="866" y="1050" type="line"/>
+      <point x="711" y="76" type="line"/>
+      <point x="541" y="916" type="line"/>
+      <point x="362" y="916" type="line"/>
+      <point x="152" y="76" type="line"/>
+      <point x="11" y="916" type="line"/>
+      <point x="-174" y="916" type="line"/>
+      <point x="-340" y="76" type="line"/>
+      <point x="-497" y="916" type="line"/>
+      <point x="-681" y="916" type="line"/>
+      <point x="-852" y="76" type="line"/>
+      <point x="-1018" y="916" type="line"/>
+      <point x="-1203" y="916" type="line"/>
+      <point x="-1372" y="76" type="line"/>
+      <point x="-1539" y="916" type="line"/>
+      <point x="-1718" y="916" type="line"/>
+      <point x="-1903" y="76" type="line"/>
+      <point x="-2058" y="1050" type="line"/>
+      <point x="-2194" y="1050" type="line"/>
+      <point x="-1992" y="0" type="line"/>
+      <point x="-1793" y="0" type="line"/>
+      <point x="-1633" y="790" type="line"/>
+      <point x="-1498" y="0" type="line"/>
+      <point x="-1256" y="0" type="line"/>
+      <point x="-1113" y="790" type="line"/>
+      <point x="-975" y="0" type="line"/>
+      <point x="-741" y="0" type="line"/>
+      <point x="-593" y="790" type="line"/>
+      <point x="-459" y="0" type="line"/>
+      <point x="-217" y="0" type="line"/>
+      <point x="-88" y="790" type="line"/>
+      <point x="35" y="0" type="line"/>
+      <point x="268" y="0" type="line"/>
+      <point x="447" y="790" type="line"/>
+      <point x="592" y="0" type="line"/>
+      <point x="800" y="0" type="line"/>
+      <point x="990" y="1050" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

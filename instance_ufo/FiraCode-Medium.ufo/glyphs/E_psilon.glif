@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilon" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0395"/>
+  <anchor x="646.7083333333334" y="0.0" name="bottom"/>
+  <anchor x="955.4375" y="0.0" name="ogonek"/>
+  <anchor x="641.4375" y="1380.25" name="top"/>
+  <anchor x="206.25" y="1380.25" name="topleft"/>
+  <outline>
+    <component base="E"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="429.0416666666667" y="146.0" type="curve" smooth="yes"/>
+      <point x="429.0416666666667" y="51.020833333333336"/>
+      <point x="503.0208333333333" y="-24.958333333333336"/>
+      <point x="598.0625" y="-24.958333333333336" type="curve" smooth="yes"/>
+      <point x="695.0416666666666" y="-24.958333333333336"/>
+      <point x="768.9583333333334" y="51.020833333333336"/>
+      <point x="768.9583333333334" y="146.0" type="curve" smooth="yes"/>
+      <point x="768.9583333333334" y="237.04166666666666"/>
+      <point x="695.0416666666666" y="314.25"/>
+      <point x="598.0625" y="314.25" type="curve" smooth="yes"/>
+      <point x="503.0208333333333" y="314.25"/>
+      <point x="429.0416666666667" y="237.04166666666666"/>
+    </contour>
+    <contour>
+      <point x="429.0416666666667" y="862.1875" type="curve" smooth="yes"/>
+      <point x="429.0416666666667" y="768.8541666666666"/>
+      <point x="503.0208333333333" y="691.9375"/>
+      <point x="598.0625" y="691.9375" type="curve" smooth="yes"/>
+      <point x="695.0416666666666" y="691.9375"/>
+      <point x="768.9583333333334" y="768.8541666666666"/>
+      <point x="768.9583333333334" y="862.1875" type="curve" smooth="yes"/>
+      <point x="768.9583333333334" y="955.8125"/>
+      <point x="695.0416666666666" y="1030.8541666666667"/>
+      <point x="598.0625" y="1030.8541666666667" type="curve" smooth="yes"/>
+      <point x="503.0208333333333" y="1030.8541666666667"/>
+      <point x="429.0416666666667" y="955.8125"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

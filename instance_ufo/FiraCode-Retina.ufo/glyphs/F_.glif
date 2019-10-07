@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0046"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="600.0" y="1378.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="464.9166666666667" y="1221.75" type="line"/>
+      <point x="1071.0416666666667" y="1221.75" type="line"/>
+      <point x="1094.0625" y="1378.25" type="line"/>
+      <point x="267.0208333333333" y="1378.25" type="line"/>
+      <point x="267.0208333333333" y="0.0" type="line"/>
+      <point x="464.9166666666667" y="0.0" type="line"/>
+      <point x="464.9166666666667" y="602.9583333333334" type="line"/>
+      <point x="996.125" y="602.9583333333334" type="line"/>
+      <point x="996.125" y="757.875" type="line"/>
+      <point x="464.9166666666667" y="757.875" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

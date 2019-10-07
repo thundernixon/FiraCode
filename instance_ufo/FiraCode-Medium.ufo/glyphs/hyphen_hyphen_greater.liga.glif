@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen_hyphen_greater.liga" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="406.1458333333333" y="1258.7083333333333" type="line"/>
+      <point x="250.41666666666666" y="1125.75" type="line"/>
+      <point x="480.97916666666663" y="873.125" type="line" smooth="yes"/>
+      <point x="546.25" y="801.8541666666666"/>
+      <point x="583.75" y="763.4375"/>
+      <point x="651.0208333333334" y="720.9791666666666" type="curve"/>
+      <point x="-2162.875" y="720.9791666666666" type="line"/>
+      <point x="-2162.875" y="531.0208333333334" type="line"/>
+      <point x="650.4166666666666" y="531.0208333333334" type="line"/>
+      <point x="589.0208333333334" y="490.875"/>
+      <point x="535.5833333333333" y="439.125"/>
+      <point x="480.97916666666663" y="378.875" type="curve" smooth="yes"/>
+      <point x="250.41666666666666" y="126.25" type="line"/>
+      <point x="406.1458333333333" y="-6.708333333333336" type="line"/>
+      <point x="973.2916666666666" y="626.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

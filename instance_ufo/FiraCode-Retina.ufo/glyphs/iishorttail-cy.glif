@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iishorttail-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="048B"/>
+  <outline>
+    <contour>
+      <point x="974.1875" y="1054.25" type="line"/>
+      <point x="750.0" y="1054.25" type="line"/>
+      <point x="331.0833333333333" y="178.125" type="line"/>
+      <point x="347.9375" y="258.9166666666667"/>
+      <point x="362.125" y="423.08333333333337"/>
+      <point x="362.125" y="586.9583333333334" type="curve" smooth="yes"/>
+      <point x="362.125" y="1054.25" type="line"/>
+      <point x="177.14583333333334" y="1054.25" type="line"/>
+      <point x="177.14583333333334" y="0.0" type="line"/>
+      <point x="399.0416666666667" y="0.0" type="line"/>
+      <point x="812.1875" y="877.1458333333334" type="line"/>
+      <point x="801.1666666666666" y="803.75"/>
+      <point x="788.8541666666666" y="652.9791666666666"/>
+      <point x="788.8541666666666" y="467.8125" type="curve" smooth="yes"/>
+      <point x="788.8541666666666" y="0.0" type="line"/>
+      <point x="974.1875" y="0.0" type="line"/>
+    </contour>
+    <component base="breve-cy" xOffset="-26.125"/>
+    <component base="descTail-cy" xOffset="401.8125"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/28 17:56:51</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

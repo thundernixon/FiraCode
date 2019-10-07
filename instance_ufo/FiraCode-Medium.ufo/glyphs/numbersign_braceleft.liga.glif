@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_braceleft.liga" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="-138.25" y="904.9791666666666" type="line"/>
+      <point x="606.875" y="904.9791666666666" type="line"/>
+      <point x="606.875" y="1065.5833333333333" type="line"/>
+      <point x="-117.4375" y="1065.5833333333333" type="line"/>
+      <point x="-73.6875" y="1380.25" type="line"/>
+      <point x="-261.8541666666667" y="1380.25" type="line"/>
+      <point x="-303.6875" y="1065.5833333333333" type="line"/>
+      <point x="-558.4166666666666" y="1065.5833333333333" type="line"/>
+      <point x="-514.1458333333334" y="1380.25" type="line"/>
+      <point x="-702.875" y="1380.25" type="line"/>
+      <point x="-744.1458333333334" y="1065.5833333333333" type="line"/>
+      <point x="-913.4375" y="1065.5833333333333" type="line"/>
+      <point x="-913.4375" y="904.9791666666666" type="line"/>
+      <point x="-765.4375" y="904.9791666666666" type="line"/>
+      <point x="-822.7083333333334" y="479.75" type="line"/>
+      <point x="-987.4375" y="479.75" type="line"/>
+      <point x="-987.4375" y="320.1458333333333" type="line"/>
+      <point x="-844.0" y="320.1458333333333" type="line"/>
+      <point x="-885.75" y="0.0" type="line"/>
+      <point x="-697.5833333333334" y="0.0" type="line"/>
+      <point x="-655.75" y="320.1458333333333" type="line"/>
+      <point x="-402.9791666666667" y="320.1458333333333" type="line"/>
+      <point x="-445.2916666666667" y="0.0" type="line"/>
+      <point x="-257.125" y="0.0" type="line"/>
+      <point x="-216.25" y="320.1458333333333" type="line"/>
+      <point x="606.875" y="320.1458333333333" type="line"/>
+      <point x="606.875" y="479.75" type="line"/>
+      <point x="-194.0" y="479.75" type="line"/>
+    </contour>
+    <contour>
+      <point x="-635.0208333333334" y="479.75" type="line"/>
+      <point x="-578.7083333333334" y="904.9791666666666" type="line"/>
+      <point x="-324.9791666666667" y="904.9791666666666" type="line"/>
+      <point x="-382.25" y="479.75" type="line"/>
+    </contour>
+    <component base="braceleft"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

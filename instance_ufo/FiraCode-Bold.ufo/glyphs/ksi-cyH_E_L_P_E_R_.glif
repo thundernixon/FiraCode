@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ksi-cyHELPER" format="2">
+  <advance width="1200"/>
+  <anchor x="584" y="1062" name="top"/>
+  <outline>
+    <contour>
+      <point x="428" y="-453" type="curve"/>
+      <point x="514" y="-265" type="line"/>
+      <point x="464" y="-239"/>
+      <point x="439" y="-214"/>
+      <point x="439" y="-182" type="curve" smooth="yes"/>
+      <point x="439" y="-139"/>
+      <point x="468" y="-117"/>
+      <point x="674" y="-66" type="curve" smooth="yes"/>
+      <point x="922" y="-5"/>
+      <point x="1075" y="72"/>
+      <point x="1075" y="284" type="curve" smooth="yes"/>
+      <point x="1075" y="462"/>
+      <point x="950" y="570"/>
+      <point x="738" y="570" type="curve" smooth="yes"/>
+      <point x="664" y="570" type="line"/>
+      <point x="1015" y="840" type="line"/>
+      <point x="1015" y="1062" type="line"/>
+      <point x="152" y="1062" type="line"/>
+      <point x="152" y="834" type="line"/>
+      <point x="649" y="834" type="line"/>
+      <point x="297" y="545" type="line"/>
+      <point x="297" y="360" type="line"/>
+      <point x="620" y="360" type="line" smooth="yes"/>
+      <point x="702" y="360"/>
+      <point x="735" y="337"/>
+      <point x="735" y="288" type="curve" smooth="yes"/>
+      <point x="735" y="220"/>
+      <point x="680" y="190"/>
+      <point x="462" y="134" type="curve" smooth="yes"/>
+      <point x="210" y="72"/>
+      <point x="123" y="-14"/>
+      <point x="123" y="-148" type="curve" smooth="yes"/>
+      <point x="123" y="-289"/>
+      <point x="242" y="-385"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

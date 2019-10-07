@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rho" format="2">
+  <advance width="1200"/>
+  <unicode hex="03C1"/>
+  <anchor x="600" y="-386" name="bottom"/>
+  <anchor x="610" y="1050" name="top"/>
+  <outline>
+    <contour>
+      <point x="610" y="1069" type="curve" smooth="yes"/>
+      <point x="347" y="1069"/>
+      <point x="203" y="888"/>
+      <point x="203" y="538" type="curve" smooth="yes"/>
+      <point x="203" y="-418" type="line"/>
+      <point x="327" y="-401" type="line"/>
+      <point x="327" y="104" type="line"/>
+      <point x="400" y="22"/>
+      <point x="496" y="-20"/>
+      <point x="617" y="-20" type="curve" smooth="yes"/>
+      <point x="900" y="-20"/>
+      <point x="1029" y="237"/>
+      <point x="1029" y="525" type="curve" smooth="yes"/>
+      <point x="1029" y="869"/>
+      <point x="910" y="1069"/>
+    </contour>
+    <contour>
+      <point x="606" y="965" type="curve" smooth="yes"/>
+      <point x="801" y="965"/>
+      <point x="889" y="810"/>
+      <point x="889" y="527" type="curve" smooth="yes"/>
+      <point x="889" y="252"/>
+      <point x="787" y="93"/>
+      <point x="596" y="93" type="curve" smooth="yes"/>
+      <point x="485" y="93"/>
+      <point x="386" y="146"/>
+      <point x="327" y="236" type="curve"/>
+      <point x="327" y="519" type="line" smooth="yes"/>
+      <point x="327" y="795"/>
+      <point x="398" y="965"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

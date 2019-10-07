@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slash_greater.liga" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="-19" y="1409" type="line"/>
+      <point x="-159" y="1182" type="line"/>
+      <point x="789" y="628" type="line"/>
+      <point x="139" y="246" type="line"/>
+      <point x="282" y="31" type="line"/>
+      <point x="1061" y="515" type="line"/>
+      <point x="1061" y="741" type="line"/>
+    </contour>
+    <component base="slash" xOffset="-1000"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

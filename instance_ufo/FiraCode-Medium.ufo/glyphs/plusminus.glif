@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plusminus" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="00B1"/>
+  <outline>
+    <contour>
+      <point x="700.4166666666666" y="1091.125" type="line"/>
+      <point x="499.5833333333333" y="1091.125" type="line"/>
+      <point x="499.5833333333333" y="786.7083333333334" type="line"/>
+      <point x="206.25" y="786.7083333333334" type="line"/>
+      <point x="206.25" y="608.5625" type="line"/>
+      <point x="499.5833333333333" y="608.5625" type="line"/>
+      <point x="499.5833333333333" y="334.1458333333333" type="line"/>
+      <point x="700.4166666666666" y="334.1458333333333" type="line"/>
+      <point x="700.4166666666666" y="608.5625" type="line"/>
+      <point x="993.75" y="608.5625" type="line"/>
+      <point x="993.75" y="786.7083333333334" type="line"/>
+      <point x="700.4166666666666" y="786.7083333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="993.75" y="181.02083333333334" type="line"/>
+      <point x="206.25" y="181.02083333333334" type="line"/>
+      <point x="206.25" y="0.0" type="line"/>
+      <point x="993.75" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

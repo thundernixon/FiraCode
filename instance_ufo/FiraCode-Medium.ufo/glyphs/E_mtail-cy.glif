@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Emtail-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="04CD"/>
+  <outline>
+    <contour>
+      <point x="993.4375" y="1380.25" type="line"/>
+      <point x="714.4166666666666" y="1380.25" type="line"/>
+      <point x="559.0208333333334" y="455.0208333333333" type="line"/>
+      <point x="394.70833333333337" y="1380.25" type="line"/>
+      <point x="117.125" y="1380.25" type="line"/>
+      <point x="39.125" y="0.0" type="line"/>
+      <point x="247.29166666666669" y="0.0" type="line"/>
+      <point x="273.58333333333337" y="670.4166666666666" type="line" smooth="yes"/>
+      <point x="280.9791666666667" y="861.75"/>
+      <point x="277.2916666666667" y="1063.2916666666667"/>
+      <point x="270.875" y="1172.7083333333333" type="curve"/>
+      <point x="453.0208333333333" y="242.70833333333334" type="line"/>
+      <point x="655.0208333333334" y="242.70833333333334" type="line"/>
+      <point x="826.25" y="1172.7083333333333" type="line"/>
+      <point x="820.3125" y="1062.875"/>
+      <point x="817.0208333333334" y="873.8541666666666"/>
+      <point x="826.4166666666666" y="671.5833333333334" type="curve" smooth="yes"/>
+      <point x="858.7083333333334" y="0.0" type="line"/>
+      <point x="1071.4375" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1228.4166666666667" y="200.97916666666669" type="line"/>
+      <point x="912.7083333333334" y="200.97916666666669" type="line"/>
+      <point x="914.3125" y="0.0" type="line"/>
+      <point x="954.5625" y="0.0" type="line"/>
+      <point x="881.75" y="-314.9791666666667" type="line"/>
+      <point x="1056.25" y="-314.9791666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

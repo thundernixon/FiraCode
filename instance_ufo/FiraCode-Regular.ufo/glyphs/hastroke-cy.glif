@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hastroke-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="04FF"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="600.0" y="1052.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="302.75" y="0.0" type="line"/>
+      <point x="600.625" y="471.7291666666667" type="line"/>
+      <point x="882.7916666666666" y="0.0" type="line"/>
+      <point x="1088.9375" y="0.0" type="line"/>
+      <point x="700.5833333333334" y="563.0625" type="line"/>
+      <point x="1041.1041666666667" y="1052.75" type="line"/>
+      <point x="848.625" y="1052.75" type="line"/>
+      <point x="600.625" y="642.2708333333334" type="line"/>
+      <point x="358.625" y="1052.75" type="line"/>
+      <point x="158.9375" y="1052.75" type="line"/>
+      <point x="499.7291666666667" y="555.6875" type="line"/>
+      <point x="111.0625" y="0.0" type="line"/>
+    </contour>
+    <component base="hyphen" xScale="1.084375" yScale="0.8156249999999999" xOffset="-52.479166666666664" yOffset="53.0625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/28 18:03:05</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

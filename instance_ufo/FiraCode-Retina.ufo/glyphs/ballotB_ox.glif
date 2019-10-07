@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ballotBox" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="2610"/>
+  <outline>
+    <contour>
+      <point x="1142.1875" y="1082.1875" type="line"/>
+      <point x="57.8125" y="1082.1875" type="line"/>
+      <point x="57.8125" y="-2.1875" type="line"/>
+      <point x="1142.1875" y="-2.1875" type="line"/>
+    </contour>
+    <contour>
+      <point x="963.8125" y="923.8125" type="line"/>
+      <point x="963.8125" y="156.1875" type="line"/>
+      <point x="236.1875" y="156.1875" type="line"/>
+      <point x="236.1875" y="923.8125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/21 14:40:55</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KoppaArchaic" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="03D8"/>
+  <anchor x="600.0" y="-399.0625" name="bottom"/>
+  <anchor x="600.0" y="1376.75" name="top"/>
+  <anchor x="210.58333333333334" y="1376.75" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="515.6875" y="-402.2708333333333" type="line"/>
+      <point x="686.625" y="-402.2708333333333" type="line"/>
+      <point x="686.625" y="0.0" type="line"/>
+      <point x="515.6875" y="0.0" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

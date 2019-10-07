@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eltail-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="04C5"/>
+  <outline>
+    <contour>
+      <point x="990.9166666666666" y="1378.25" type="line"/>
+      <point x="333.875" y="1378.25" type="line"/>
+      <point x="261.875" y="799.0416666666666" type="line" smooth="yes"/>
+      <point x="194.95833333333334" y="258.25"/>
+      <point x="124.91666666666667" y="197.14583333333334"/>
+      <point x="29.083333333333332" y="117.875" type="curve"/>
+      <point x="113.8125" y="-25.145833333333336" type="line"/>
+      <point x="309.1458333333333" y="99.75"/>
+      <point x="387.0416666666667" y="193.75"/>
+      <point x="462.9583333333333" y="834.8541666666666" type="curve" smooth="yes"/>
+      <point x="506.8541666666667" y="1212.8541666666667" type="line"/>
+      <point x="793.0833333333334" y="1212.8541666666667" type="line"/>
+      <point x="793.0833333333334" y="0.0" type="line"/>
+      <point x="990.9166666666666" y="0.0" type="line"/>
+    </contour>
+    <component base="descTail-cy.case" xOffset="463.9375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

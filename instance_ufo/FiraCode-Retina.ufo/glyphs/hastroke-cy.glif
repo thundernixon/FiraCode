@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hastroke-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="04FF"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="600.0" y="1054.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="316.25" y="0.0" type="line"/>
+      <point x="599.875" y="462.8541666666667" type="line"/>
+      <point x="869.0416666666666" y="0.0" type="line"/>
+      <point x="1099.8125" y="0.0" type="line"/>
+      <point x="715.0833333333334" y="564.1875" type="line"/>
+      <point x="1050.9791666666667" y="1054.25" type="line"/>
+      <point x="835.875" y="1054.25" type="line"/>
+      <point x="599.875" y="651.1458333333334" type="line"/>
+      <point x="369.875" y="1054.25" type="line"/>
+      <point x="145.8125" y="1054.25" type="line"/>
+      <point x="484.8541666666667" y="556.0625" type="line"/>
+      <point x="100.1875" y="0.0" type="line"/>
+    </contour>
+    <component base="hyphen" xScale="1.103125" yScale="0.796875" xOffset="-63.10416666666667" yOffset="66.1875"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/28 18:03:05</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

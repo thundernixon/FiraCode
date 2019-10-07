@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="1140.875" y="1382.4166666666667" type="line"/>
+      <point x="929.8541666666666" y="1382.4166666666667" type="line"/>
+      <point x="844.4166666666666" y="848.4166666666666" type="line"/>
+      <point x="746.3125" y="1382.4166666666667" type="line"/>
+      <point x="5.583333333333329" y="1382.4166666666667" type="line"/>
+      <point x="5.583333333333329" y="1247.75" type="line"/>
+      <point x="189.58333333333331" y="1247.75" type="line"/>
+      <point x="189.58333333333331" y="594.3125" type="line"/>
+      <point x="348.5625" y="594.3125" type="line"/>
+      <point x="348.5625" y="1247.75" type="line"/>
+      <point x="534.6458333333334" y="1247.75" type="line"/>
+      <point x="509.2916666666667" y="594.3125" type="line"/>
+      <point x="654.9791666666666" y="594.3125" type="line"/>
+      <point x="667.125" y="985.0208333333333" type="line" smooth="yes"/>
+      <point x="669.125" y="1071.6875"/>
+      <point x="668.5625" y="1144.4166666666667"/>
+      <point x="660.1458333333334" y="1220.4166666666667" type="curve"/>
+      <point x="666.7083333333334" y="1220.4166666666667" type="line"/>
+      <point x="772.0" y="693.5833333333334" type="line"/>
+      <point x="914.875" y="693.5833333333334" type="line"/>
+      <point x="1004.7083333333334" y="1220.4166666666667" type="line"/>
+      <point x="1011.75" y="1220.4166666666667" type="line"/>
+      <point x="1003.8541666666666" y="1140.4166666666667"/>
+      <point x="1004.25" y="1067.6875"/>
+      <point x="1006.25" y="983.5833333333333" type="curve" smooth="yes"/>
+      <point x="1020.3125" y="594.3125" type="line"/>
+      <point x="1169.75" y="594.3125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

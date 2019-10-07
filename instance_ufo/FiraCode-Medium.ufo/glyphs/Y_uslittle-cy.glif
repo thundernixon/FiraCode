@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yuslittle-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0466"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="600.0" y="1380.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="17.291666666666664" y="0.0" type="line"/>
+      <point x="242.70833333333334" y="0.0" type="line"/>
+      <point x="596.0" y="1217.5833333333333" type="line"/>
+      <point x="949.8541666666666" y="0.0" type="line"/>
+      <point x="1183.75" y="0.0" type="line"/>
+      <point x="744.4166666666666" y="1380.25" type="line"/>
+      <point x="456.1458333333333" y="1380.25" type="line"/>
+    </contour>
+    <contour>
+      <point x="501.125" y="-0.5625" type="line"/>
+      <point x="693.6875" y="-0.5625" type="line"/>
+      <point x="693.6875" y="585.2916666666666" type="line"/>
+      <point x="501.125" y="585.2916666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="334.3125" y="545.0208333333334" type="line"/>
+      <point x="861.2916666666666" y="545.0208333333334" type="line"/>
+      <point x="811.4375" y="722.1458333333334" type="line"/>
+      <point x="383.6875" y="722.1458333333334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

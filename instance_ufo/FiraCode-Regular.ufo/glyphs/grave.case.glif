@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="grave.case" format="2">
+  <advance width="1200.0"/>
+  <anchor x="599.2083333333334" y="1376.75" name="_top"/>
+  <outline>
+    <contour>
+      <point x="460.9375" y="1818.8958333333333" type="line"/>
+      <point x="367.375" y="1674.625" type="line"/>
+      <point x="778.9375" y="1511.25" type="line"/>
+      <point x="830.2708333333334" y="1601.1041666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

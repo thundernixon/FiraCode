@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright_numbersign.liga" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="797.25" y="912.2708333333334" type="line"/>
+      <point x="974.0" y="912.2708333333334" type="line"/>
+      <point x="974.0" y="1043.4166666666667" type="line"/>
+      <point x="813.6875" y="1043.4166666666667" type="line"/>
+      <point x="860.9375" y="1376.75" type="line"/>
+      <point x="717.1041666666666" y="1376.75" type="line"/>
+      <point x="672.9375" y="1043.4166666666667" type="line"/>
+      <point x="379.4166666666667" y="1043.4166666666667" type="line"/>
+      <point x="426.8958333333333" y="1376.75" type="line"/>
+      <point x="283.375" y="1376.75" type="line"/>
+      <point x="238.89583333333334" y="1043.4166666666667" type="line"/>
+      <point x="-456.625" y="1043.4166666666667" type="line"/>
+      <point x="-456.625" y="912.2708333333334" type="line"/>
+      <point x="221.6875" y="912.2708333333334" type="line"/>
+      <point x="161.20833333333334" y="469.25" type="line"/>
+      <point x="-456.625" y="469.25" type="line"/>
+      <point x="-456.625" y="339.1041666666667" type="line"/>
+      <point x="144.0" y="339.1041666666667" type="line"/>
+      <point x="98.75" y="0.0" type="line"/>
+      <point x="242.58333333333334" y="0.0" type="line"/>
+      <point x="286.75" y="339.1041666666667" type="line"/>
+      <point x="577.7291666666666" y="339.1041666666667" type="line"/>
+      <point x="532.7916666666666" y="0.0" type="line"/>
+      <point x="676.625" y="0.0" type="line"/>
+      <point x="719.25" y="339.1041666666667" type="line"/>
+      <point x="900.0" y="339.1041666666667" type="line"/>
+      <point x="900.0" y="469.25" type="line"/>
+      <point x="738.0" y="469.25" type="line"/>
+    </contour>
+    <contour>
+      <point x="304.2708333333333" y="469.25" type="line"/>
+      <point x="363.2083333333333" y="912.2708333333334" type="line"/>
+      <point x="655.7291666666666" y="912.2708333333334" type="line"/>
+      <point x="595.25" y="469.25" type="line"/>
+    </contour>
+    <component base="bracketright" xOffset="-1200.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

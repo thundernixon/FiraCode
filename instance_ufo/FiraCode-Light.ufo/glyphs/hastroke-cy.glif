@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hastroke-cy" format="2">
+  <advance width="1200"/>
+  <unicode hex="04FF"/>
+  <anchor x="600" y="0" name="bottom"/>
+  <anchor x="600" y="1050" name="top"/>
+  <outline>
+    <contour>
+      <point x="278" y="0" type="line"/>
+      <point x="602" y="488" type="line"/>
+      <point x="908" y="0" type="line"/>
+      <point x="1069" y="0" type="line"/>
+      <point x="674" y="561" type="line"/>
+      <point x="1023" y="1050" type="line"/>
+      <point x="872" y="1050" type="line"/>
+      <point x="602" y="626" type="line"/>
+      <point x="338" y="1050" type="line"/>
+      <point x="183" y="1050" type="line"/>
+      <point x="527" y="555" type="line"/>
+      <point x="131" y="0" type="line"/>
+    </contour>
+    <component base="hyphen" xScale="1.05" yScale="0.85" xOffset="-33" yOffset="29"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/28 18:03:05</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

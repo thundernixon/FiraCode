@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciitilde_asciitilde.liga" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="770.1458333333334" y="788.25" type="line"/>
+      <point x="717.5833333333334" y="690.5625"/>
+      <point x="660.0" y="623.5833333333334"/>
+      <point x="579.6875" y="623.5833333333334" type="curve" smooth="yes"/>
+      <point x="458.25" y="623.5833333333334"/>
+      <point x="389.75" y="823.5833333333334"/>
+      <point x="190.875" y="823.5833333333334" type="curve" smooth="yes"/>
+      <point x="-8.0" y="823.5833333333334"/>
+      <point x="-62.875" y="623.5833333333334"/>
+      <point x="-184.3125" y="623.5833333333334" type="curve" smooth="yes"/>
+      <point x="-305.75" y="623.5833333333334"/>
+      <point x="-374.25" y="823.5833333333334"/>
+      <point x="-573.125" y="823.5833333333334" type="curve" smooth="yes"/>
+      <point x="-751.6875" y="823.5833333333334"/>
+      <point x="-843.5833333333334" y="681.2916666666666"/>
+      <point x="-911.6875" y="545.4375" type="curve"/>
+      <point x="-770.1458333333334" y="478.4166666666667" type="line"/>
+      <point x="-718.1458333333334" y="574.4166666666666"/>
+      <point x="-663.4375" y="642.5625"/>
+      <point x="-579.6875" y="642.5625" type="curve" smooth="yes"/>
+      <point x="-455.8541666666667" y="642.5625"/>
+      <point x="-380.0" y="442.5625"/>
+      <point x="-190.875" y="442.5625" type="curve" smooth="yes"/>
+      <point x="-1.75" y="442.5625"/>
+      <point x="60.0" y="642.5625"/>
+      <point x="184.3125" y="642.5625" type="curve" smooth="yes"/>
+      <point x="308.1458333333333" y="642.5625"/>
+      <point x="384.0" y="442.5625"/>
+      <point x="573.125" y="442.5625" type="curve" smooth="yes"/>
+      <point x="749.6875" y="442.5625"/>
+      <point x="842.9791666666666" y="578.3125"/>
+      <point x="911.6875" y="719.75" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

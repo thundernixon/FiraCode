@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_dollar.liga" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="493.6875" y="1702.4166666666667" type="line"/>
+      <point x="348.9791666666667" y="1702.4166666666667" type="line"/>
+      <point x="348.9791666666667" y="1428.7083333333333" type="line"/>
+      <point x="102.41666666666667" y="1404.1458333333333"/>
+      <point x="-31.020833333333336" y="1224.1458333333333"/>
+      <point x="-31.020833333333336" y="1043.125" type="curve" smooth="yes"/>
+      <point x="-31.020833333333336" y="856.0"/>
+      <point x="94.0" y="736.875"/>
+      <point x="348.9791666666667" y="652.4166666666666" type="curve"/>
+      <point x="348.9791666666667" y="69.125" type="line"/>
+      <point x="222.3125" y="67.02083333333334"/>
+      <point x="111.85416666666666" y="89.4375"/>
+      <point x="-100.5625" y="214.3125" type="curve"/>
+      <point x="-100.5625" y="-16.3125" type="line"/>
+      <point x="75.85416666666666" y="-112.25"/>
+      <point x="166.3125" y="-139.29166666666669"/>
+      <point x="348.9791666666667" y="-140.3125" type="curve"/>
+      <point x="348.9791666666667" y="-312.9791666666667" type="line"/>
+      <point x="493.6875" y="-312.9791666666667" type="line"/>
+      <point x="493.6875" y="-131.58333333333334" type="line"/>
+      <point x="769.125" y="-99.75"/>
+      <point x="942.25" y="117.125"/>
+      <point x="942.25" y="359.8541666666667" type="curve" smooth="yes"/>
+      <point x="942.25" y="594.9791666666666"/>
+      <point x="720.0" y="743.0208333333334"/>
+      <point x="493.6875" y="817.6875" type="curve"/>
+      <point x="493.6875" y="1242.875" type="line"/>
+      <point x="586.7083333333334" y="1232.5625"/>
+      <point x="730.7083333333334" y="1179.0208333333333"/>
+      <point x="962.0" y="1037.2916666666667" type="curve"/>
+      <point x="962.0" y="1266.0" type="line"/>
+      <point x="811.4375" y="1362.7083333333333"/>
+      <point x="655.2916666666666" y="1414.3125"/>
+      <point x="493.6875" y="1429.75" type="curve"/>
+    </contour>
+    <contour>
+      <point x="493.6875" y="599.4375" type="line"/>
+      <point x="625.75" y="541.2916666666666"/>
+      <point x="717.6875" y="451.2916666666667"/>
+      <point x="717.6875" y="341.6875" type="curve" smooth="yes"/>
+      <point x="717.6875" y="181.6875"/>
+      <point x="607.75" y="98.70833333333334"/>
+      <point x="493.6875" y="75.4375" type="curve"/>
+    </contour>
+    <contour>
+      <point x="348.9791666666667" y="1239.4375" type="curve"/>
+      <point x="348.9791666666667" y="868.1458333333334" type="line"/>
+      <point x="217.58333333333334" y="923.8541666666666"/>
+      <point x="187.29166666666669" y="975.75"/>
+      <point x="187.29166666666669" y="1058.5625" type="curve" smooth="yes"/>
+      <point x="187.29166666666669" y="1152.7083333333333"/>
+      <point x="250.25" y="1222.5625"/>
+    </contour>
+    <contour>
+      <point x="-180.875" y="1217.6875" type="line"/>
+      <point x="-978.0" y="722.7083333333334" type="line"/>
+      <point x="-978.0" y="531.2916666666666" type="line"/>
+      <point x="-100.5625" y="-16.3125" type="line"/>
+      <point x="-100.5625" y="214.3125" type="line"/>
+      <point x="-785.0208333333334" y="626.5625" type="line"/>
+      <point x="-223.75" y="965.8541666666666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater_colon.liga" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="-870" y="1177" type="line"/>
+      <point x="-870" y="1049" type="line"/>
+      <point x="-49" y="625" type="line"/>
+      <point x="-870" y="201" type="line"/>
+      <point x="-870" y="76" type="line"/>
+      <point x="61" y="549" type="line"/>
+      <point x="61" y="702" type="line"/>
+    </contour>
+    <component base="colon" yOffset="122"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

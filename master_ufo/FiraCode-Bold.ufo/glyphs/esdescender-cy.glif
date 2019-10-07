@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="esdescender-cy" format="2">
+  <advance width="1200"/>
+  <unicode hex="04AB"/>
+  <anchor x="678" y="0" name="bottom"/>
+  <anchor x="678" y="0" name="bottomAttach"/>
+  <anchor x="688" y="1036" name="top"/>
+  <outline>
+    <component base="c"/>
+    <component base="descRound-cy" xOffset="82"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

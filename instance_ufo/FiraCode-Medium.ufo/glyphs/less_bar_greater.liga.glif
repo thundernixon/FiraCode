@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_bar_greater.liga" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="-921.6875" y="1289.5833333333333" type="line"/>
+      <point x="-1838.0" y="722.7083333333334" type="line"/>
+      <point x="-1838.0" y="531.2916666666666" type="line"/>
+      <point x="-921.6875" y="-38.97916666666667" type="line"/>
+      <point x="-921.6875" y="191.125" type="line"/>
+      <point x="-1645.0208333333333" y="626.5625" type="line"/>
+      <point x="-921.6875" y="1064.25" type="line"/>
+    </contour>
+    <contour>
+      <point x="-280.3125" y="1290.1458333333333" type="line"/>
+      <point x="-280.3125" y="1061.4375" type="line"/>
+      <point x="446.9791666666667" y="626.5625" type="line"/>
+      <point x="-280.3125" y="186.875" type="line"/>
+      <point x="-280.3125" y="-40.41666666666667" type="line"/>
+      <point x="639.4375" y="531.2916666666666" type="line"/>
+      <point x="639.4375" y="723.75" type="line"/>
+    </contour>
+    <component base="_part.bar" xOffset="-1200.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

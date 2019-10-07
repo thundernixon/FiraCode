@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nu" format="2">
+  <advance width="1200"/>
+  <unicode hex="03BD"/>
+  <anchor x="600" y="0" name="bottom"/>
+  <anchor x="600" y="1050" name="top"/>
+  <outline>
+    <contour>
+      <point x="492" y="0" type="curve"/>
+      <point x="653" y="0" type="line"/>
+      <point x="1077" y="1040" type="line"/>
+      <point x="948" y="1069" type="line"/>
+      <point x="586" y="122" type="line"/>
+      <point x="495" y="487"/>
+      <point x="372" y="877"/>
+      <point x="207" y="1067" type="curve"/>
+      <point x="73" y="1016" type="line"/>
+      <point x="243" y="867"/>
+      <point x="403" y="363"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

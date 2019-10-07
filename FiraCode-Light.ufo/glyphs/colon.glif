@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon" format="2">
+  <advance width="1200"/>
+  <unicode hex="003A"/>
+  <outline>
+    <contour>
+      <point x="451" y="129" type="curve" smooth="yes"/>
+      <point x="451" y="45"/>
+      <point x="514" y="-20"/>
+      <point x="597" y="-20" type="curve" smooth="yes"/>
+      <point x="683" y="-20"/>
+      <point x="747" y="45"/>
+      <point x="747" y="129" type="curve" smooth="yes"/>
+      <point x="747" y="208"/>
+      <point x="683" y="276"/>
+      <point x="597" y="276" type="curve" smooth="yes"/>
+      <point x="514" y="276"/>
+      <point x="451" y="208"/>
+    </contour>
+    <contour>
+      <point x="451" y="859" type="curve" smooth="yes"/>
+      <point x="451" y="777"/>
+      <point x="514" y="710"/>
+      <point x="597" y="710" type="curve" smooth="yes"/>
+      <point x="683" y="710"/>
+      <point x="747" y="777"/>
+      <point x="747" y="859" type="curve" smooth="yes"/>
+      <point x="747" y="942"/>
+      <point x="683" y="1005"/>
+      <point x="597" y="1005" type="curve" smooth="yes"/>
+      <point x="514" y="1005"/>
+      <point x="451" y="942"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

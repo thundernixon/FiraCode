@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciicircum_equal.liga" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="-17" y="956" type="line"/>
+      <point x="-356" y="1528" type="line"/>
+      <point x="-644" y="1528" type="line"/>
+      <point x="-1022" y="894" type="line"/>
+      <point x="-710" y="894" type="line"/>
+      <point x="-502" y="1292" type="line"/>
+      <point x="-187" y="709" type="line"/>
+      <point x="954" y="709" type="line"/>
+      <point x="954" y="956" type="line"/>
+    </contour>
+    <contour>
+      <point x="-187" y="290" type="line"/>
+      <point x="954" y="290" type="line"/>
+      <point x="954" y="535" type="line"/>
+      <point x="-187" y="535" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

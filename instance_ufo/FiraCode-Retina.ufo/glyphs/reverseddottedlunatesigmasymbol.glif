@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="reverseddottedlunatesigmasymbol" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="037D"/>
+  <anchor x="493.875" y="531.9375" name="center"/>
+  <outline>
+    <component base="reversedlunatesigmasymbol"/>
+    <component base="dotaccentcomb" xScale="0.9925020833333333" yScale="0.9925020833333333" xOffset="-103.52083333333333" yOffset="-781.8958333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:23</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

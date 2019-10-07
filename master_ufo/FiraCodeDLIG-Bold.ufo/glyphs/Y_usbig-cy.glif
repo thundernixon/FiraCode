@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yusbig-cy" format="2">
+  <advance width="1200"/>
+  <unicode hex="046A"/>
+  <anchor x="600" y="0" name="bottom"/>
+  <anchor x="600" y="1386" name="top"/>
+  <outline>
+    <contour>
+      <point x="6" y="0" type="line"/>
+      <point x="265" y="0" type="line"/>
+      <point x="416" y="620" type="line"/>
+      <point x="475" y="620" type="line"/>
+      <point x="475" y="0" type="line"/>
+      <point x="725" y="0" type="line"/>
+      <point x="725" y="620" type="line"/>
+      <point x="781" y="620" type="line"/>
+      <point x="931" y="0" type="line"/>
+      <point x="1194" y="0" type="line"/>
+      <point x="963" y="803" type="line"/>
+      <point x="230" y="803" type="line"/>
+    </contour>
+    <contour>
+      <point x="449" y="658" type="line"/>
+      <point x="743" y="660" type="line"/>
+      <point x="1051" y="1207" type="line"/>
+      <point x="1051" y="1386" type="line"/>
+      <point x="881" y="1386" type="line"/>
+      <point x="598" y="803" type="line"/>
+      <point x="302" y="1386" type="line"/>
+      <point x="133" y="1386" type="line"/>
+      <point x="133" y="1207" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="1201" type="line"/>
+      <point x="986" y="1201" type="line"/>
+      <point x="986" y="1386" type="line"/>
+      <point x="295" y="1386" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

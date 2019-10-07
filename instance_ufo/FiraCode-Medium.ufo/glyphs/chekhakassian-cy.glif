@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chekhakassian-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="04CC"/>
+  <anchor x="600.0" y="-415.6875" name="bottom"/>
+  <anchor x="600.0" y="1056.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="1006.0" y="1056.25" type="line"/>
+      <point x="782.0" y="1056.25" type="line"/>
+      <point x="782.0" y="618.7083333333334" type="line"/>
+      <point x="724.4166666666666" y="557.5833333333334"/>
+      <point x="620.3125" y="518.5625"/>
+      <point x="530.7083333333334" y="518.5625" type="curve" smooth="yes"/>
+      <point x="422.875" y="518.5625"/>
+      <point x="366.0" y="566.9791666666666"/>
+      <point x="366.0" y="692.4166666666666" type="curve" smooth="yes"/>
+      <point x="366.0" y="1056.25" type="line"/>
+      <point x="142.0" y="1056.25" type="line"/>
+      <point x="142.0" y="664.875" type="line" smooth="yes"/>
+      <point x="142.0" y="466.7083333333333"/>
+      <point x="251.85416666666666" y="347.8541666666667"/>
+      <point x="460.7083333333333" y="347.8541666666667" type="curve" smooth="yes"/>
+      <point x="589.5833333333334" y="347.8541666666667"/>
+      <point x="705.125" y="391.125"/>
+      <point x="782.0" y="458.3125" type="curve"/>
+      <point x="782.0" y="0.0" type="line"/>
+      <point x="1006.0" y="0.0" type="line"/>
+    </contour>
+    <component base="descStraight-cy" xScale="-1.0" xOffset="1354.1458333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

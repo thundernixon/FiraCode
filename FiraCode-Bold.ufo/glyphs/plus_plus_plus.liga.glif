@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus_plus_plus.liga" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="-469" y="503" type="line"/>
+      <point x="267" y="503" type="line"/>
+      <point x="267" y="92" type="line"/>
+      <point x="531" y="92" type="line"/>
+      <point x="531" y="503" type="line"/>
+      <point x="934" y="503" type="line"/>
+      <point x="934" y="747" type="line"/>
+      <point x="531" y="747" type="line"/>
+      <point x="531" y="1158" type="line"/>
+      <point x="267" y="1158" type="line"/>
+      <point x="267" y="747" type="line"/>
+      <point x="-469" y="747" type="line"/>
+      <point x="-469" y="1158" type="line"/>
+      <point x="-733" y="1158" type="line"/>
+      <point x="-733" y="747" type="line"/>
+      <point x="-1469" y="747" type="line"/>
+      <point x="-1469" y="1158" type="line"/>
+      <point x="-1733" y="1158" type="line"/>
+      <point x="-1733" y="747" type="line"/>
+      <point x="-2134" y="747" type="line"/>
+      <point x="-2134" y="503" type="line"/>
+      <point x="-1733" y="503" type="line"/>
+      <point x="-1733" y="92" type="line"/>
+      <point x="-1469" y="92" type="line"/>
+      <point x="-1469" y="503" type="line"/>
+      <point x="-733" y="503" type="line"/>
+      <point x="-733" y="92" type="line"/>
+      <point x="-469" y="92" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

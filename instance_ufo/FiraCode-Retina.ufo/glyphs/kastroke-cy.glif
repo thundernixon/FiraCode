@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kastroke-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="049F"/>
+  <outline>
+    <contour>
+      <point x="735.0416666666666" y="566.125" type="line"/>
+      <point x="1080.0625" y="1054.25" type="line"/>
+      <point x="871.875" y="1054.25" type="line"/>
+      <point x="579.875" y="631.8125" type="line"/>
+      <point x="418.9166666666667" y="631.8125" type="line"/>
+      <point x="418.9166666666667" y="1500.8541666666667" type="line"/>
+      <point x="226.91666666666666" y="1478.1875" type="line"/>
+      <point x="226.91666666666666" y="0.0" type="line"/>
+      <point x="418.9166666666667" y="0.0" type="line"/>
+      <point x="418.9166666666667" y="483.8125" type="line"/>
+      <point x="575.75" y="483.8125" type="line"/>
+      <point x="905.8125" y="0.0" type="line"/>
+      <point x="1131.0208333333333" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="226.97916666666666" y="1276.25" type="line"/>
+      <point x="68.91666666666666" y="1276.25" type="line"/>
+      <point x="68.91666666666666" y="1133.875" type="line"/>
+      <point x="418.9791666666667" y="1133.875" type="line"/>
+      <point x="708.1875" y="1133.875" type="line"/>
+      <point x="708.1875" y="1276.25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

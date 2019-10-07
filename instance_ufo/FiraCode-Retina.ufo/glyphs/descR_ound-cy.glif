@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="descRound-cy" format="2">
+  <advance width="1200.0"/>
+  <anchor x="592.125" y="0.0" name="_bottom"/>
+  <outline>
+    <contour>
+      <point x="528.1875" y="50.1875" type="curve"/>
+      <point x="493.8125" y="0.0" type="line"/>
+      <point x="620.8541666666666" y="-71.08333333333333"/>
+      <point x="675.875" y="-160.95833333333334"/>
+      <point x="675.875" y="-247.04166666666666" type="curve" smooth="yes"/>
+      <point x="675.875" y="-315.0208333333333"/>
+      <point x="638.0" y="-358.9583333333333"/>
+      <point x="561.9375" y="-358.9583333333333" type="curve" smooth="yes"/>
+      <point x="497.0833333333333" y="-358.9583333333333"/>
+      <point x="456.25" y="-339.1458333333333"/>
+      <point x="425.0208333333333" y="-322.8541666666667" type="curve"/>
+      <point x="377.8125" y="-434.0" type="line"/>
+      <point x="423.0208333333333" y="-460.25"/>
+      <point x="484.8541666666667" y="-484.0"/>
+      <point x="574.9583333333334" y="-484.0" type="curve" smooth="yes"/>
+      <point x="734.25" y="-484.0"/>
+      <point x="833.75" y="-393.875"/>
+      <point x="833.75" y="-259.0833333333333" type="curve" smooth="yes"/>
+      <point x="833.75" y="-112.91666666666667"/>
+      <point x="711.0208333333334" y="-10.0625"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

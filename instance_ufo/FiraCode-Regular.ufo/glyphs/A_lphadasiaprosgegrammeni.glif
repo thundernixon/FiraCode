@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphadasiaprosgegrammeni" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1F89"/>
+  <anchor x="745.0625" y="-376.9375" name="bottom"/>
+  <anchor x="1096.7916666666667" y="0.0" name="ogonek"/>
+  <anchor x="201.41666666666666" y="1395.9583333333333" name="top"/>
+  <anchor x="395.6875" y="1376.75" name="topleft"/>
+  <outline>
+    <component base="Alphadasia"/>
+    <component base="ypogegrammenicomb" xOffset="125.6875"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Alphatonos</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:23</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

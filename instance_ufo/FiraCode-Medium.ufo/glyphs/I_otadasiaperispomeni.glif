@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iotadasiaperispomeni" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1F3F"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="736.5625" y="0.0" name="ogonek"/>
+  <anchor x="-191.16666666666669" y="1403.5416666666667" name="top"/>
+  <anchor x="164.97916666666666" y="1380.25" name="topleft"/>
+  <outline>
+    <component base="Iota"/>
+    <component base="dasiaperispomeni" xOffset="-787.7291666666666" yOffset="-385.33333333333337"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Iotatonos</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:23</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

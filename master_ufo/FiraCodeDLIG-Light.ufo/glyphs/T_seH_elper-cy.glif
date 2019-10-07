@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="TseHelper-cy" format="2">
+  <advance width="1200"/>
+  <anchor x="600" y="0" name="bottom"/>
+  <anchor x="1034" y="0" name="bottomright"/>
+  <outline>
+    <contour>
+      <point x="186" y="0" type="line"/>
+      <point x="1014" y="0" type="line"/>
+      <point x="1014" y="1374" type="line"/>
+      <point x="887" y="1374" type="line"/>
+      <point x="887" y="111" type="line"/>
+      <point x="313" y="111" type="line"/>
+      <point x="313" y="1374" type="line"/>
+      <point x="186" y="1374" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

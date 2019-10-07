@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ghestroke-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0492"/>
+  <anchor x="420.2083333333333" y="0.0" name="bottom"/>
+  <anchor x="521.4166666666666" y="0.0" name="bottomright"/>
+  <anchor x="758.1666666666666" y="1376.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="821.4166666666666" y="866.0" type="line"/>
+      <point x="332.75" y="866.0" type="line"/>
+      <point x="132.27083333333334" y="866.0" type="line"/>
+      <point x="132.27083333333334" y="733.2083333333334" type="line"/>
+      <point x="506.5833333333333" y="733.2083333333334" type="line"/>
+      <point x="821.4166666666666" y="733.2083333333334" type="line"/>
+    </contour>
+    <component base="Ge-cy" xOffset="60.791666666666664"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>com.schriftgestaltung.componentsLocked</key>
+      <array>
+        <true/>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

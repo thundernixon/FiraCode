@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxHeavyQuadrupleDashVertical" format="2">
+  <advance width="1200"/>
+  <unicode hex="250B"/>
+  <outline>
+    <contour>
+      <point x="360" y="1244" type="line"/>
+      <point x="360" y="748" type="line"/>
+      <point x="840" y="748" type="line"/>
+      <point x="840" y="1244" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="588" type="line"/>
+      <point x="360" y="92" type="line"/>
+      <point x="840" y="92" type="line"/>
+      <point x="840" y="588" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="1900" type="line"/>
+      <point x="360" y="1404" type="line"/>
+      <point x="840" y="1404" type="line"/>
+      <point x="840" y="1900" type="line"/>
+    </contour>
+    <contour>
+      <point x="360" y="-68" type="line"/>
+      <point x="360" y="-564" type="line"/>
+      <point x="840" y="-564" type="line"/>
+      <point x="840" y="-68" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/21 17:51:34</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

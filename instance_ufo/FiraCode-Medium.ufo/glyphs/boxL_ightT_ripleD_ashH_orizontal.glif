@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxLightTripleDashHorizontal" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="2504"/>
+  <outline>
+    <contour>
+      <point x="320.0" y="780.0" type="line"/>
+      <point x="80.0" y="780.0" type="line"/>
+      <point x="80.0" y="620.0" type="line"/>
+      <point x="320.0" y="620.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="720.0" y="780.0" type="line"/>
+      <point x="480.0" y="780.0" type="line"/>
+      <point x="480.0" y="620.0" type="line"/>
+      <point x="720.0" y="620.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1120.0" y="780.0" type="line"/>
+      <point x="880.0" y="780.0" type="line"/>
+      <point x="880.0" y="620.0" type="line"/>
+      <point x="1120.0" y="620.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/21 17:02:04</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="KaiSymbol" format="2">
+  <advance width="1200"/>
+  <unicode hex="03CF"/>
+  <anchor x="600" y="-443" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="829" y="251" type="line"/>
+      <point x="829" y="0" type="line"/>
+      <point x="1164" y="0" type="line"/>
+      <point x="1164" y="251" type="line"/>
+    </contour>
+    <contour>
+      <point x="429" y="0" type="line"/>
+      <point x="429" y="1386" type="line"/>
+      <point x="101" y="1386" type="line"/>
+      <point x="101" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="439" y="740" type="line"/>
+      <point x="779" y="0" type="line"/>
+      <point x="1149" y="0" type="line"/>
+      <point x="769" y="764" type="line"/>
+      <point x="1111" y="1386" type="line"/>
+      <point x="777" y="1386" type="line"/>
+    </contour>
+    <component base="hookHELPER.case" xOffset="374"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="enghe-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="04A5"/>
+  <outline>
+    <contour>
+      <point x="927.75" y="881.5833333333334" type="line"/>
+      <point x="1180.9791666666667" y="881.5833333333334" type="line"/>
+      <point x="1209.2916666666667" y="1056.25" type="line"/>
+      <point x="704.3125" y="1056.25" type="line"/>
+    </contour>
+    <contour>
+      <point x="704.3125" y="0.0" type="line"/>
+      <point x="928.3125" y="0.0" type="line"/>
+      <point x="928.3125" y="1056.25" type="line"/>
+      <point x="704.3125" y="1056.25" type="line"/>
+      <point x="704.3125" y="625.8541666666666" type="line"/>
+      <point x="367.0208333333333" y="625.8541666666666" type="line"/>
+      <point x="367.0208333333333" y="1056.25" type="line"/>
+      <point x="143.02083333333331" y="1056.25" type="line"/>
+      <point x="143.02083333333331" y="0.0" type="line"/>
+      <point x="367.0208333333333" y="0.0" type="line"/>
+      <point x="367.0208333333333" y="451.75" type="line"/>
+      <point x="704.3125" y="451.75" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

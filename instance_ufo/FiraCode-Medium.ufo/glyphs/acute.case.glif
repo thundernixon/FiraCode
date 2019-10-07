@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute.case" format="2">
+  <advance width="1200.0"/>
+  <anchor x="600.4166666666666" y="1380.25" name="_top"/>
+  <outline>
+    <contour>
+      <point x="761.6875" y="1847.0208333333333" type="line"/>
+      <point x="352.25" y="1624.1458333333333" type="line"/>
+      <point x="408.5625" y="1507.75" type="line"/>
+      <point x="853.8541666666666" y="1668.5625" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicrondasiavaria" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1F4B"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="-125.85416666666666" y="1392.0" name="top"/>
+  <anchor x="210.58333333333334" y="1376.75" name="topleft"/>
+  <outline>
+    <component base="Omicron"/>
+    <component base="dasiavaria" xOffset="-781.1041666666666" yOffset="-210.9375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

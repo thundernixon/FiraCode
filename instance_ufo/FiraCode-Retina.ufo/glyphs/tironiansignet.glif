@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tironiansignet" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="204A"/>
+  <outline>
+    <contour>
+      <point x="490.25" y="-426.8541666666667" type="line"/>
+      <point x="1001.0833333333334" y="908.0625" type="line"/>
+      <point x="1001.0833333333334" y="1054.25" type="line"/>
+      <point x="176.0625" y="1054.25" type="line"/>
+      <point x="176.0625" y="895.0416666666666" type="line"/>
+      <point x="803.1458333333334" y="895.0416666666666" type="line"/>
+      <point x="314.25" y="-369.0833333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

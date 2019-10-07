@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="checkmark" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="2713"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="600.0" y="1386.0" name="top"/>
+  <outline>
+    <contour>
+      <point x="556.9583333333334" y="211.08333333333334" type="line"/>
+      <point x="329.9375" y="867.9375" type="line"/>
+      <point x="132.25" y="867.9375" type="line"/>
+      <point x="445.75" y="0.0" type="line"/>
+      <point x="670.0" y="0.0" type="line"/>
+      <point x="1109.9375" y="1378.25" type="line"/>
+      <point x="917.0416666666666" y="1378.25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

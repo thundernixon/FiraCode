@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_exclam.liga" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="632.5625" y="480.7083333333333" type="line"/>
+      <point x="751.4375" y="1380.25" type="line"/>
+      <point x="523.75" y="1380.25" type="line"/>
+      <point x="404.3125" y="480.7083333333333" type="line"/>
+    </contour>
+    <contour>
+      <point x="588.0" y="0.0" type="line"/>
+      <point x="626.0" y="268.3125" type="line"/>
+      <point x="358.3125" y="268.3125" type="line"/>
+      <point x="320.3125" y="0.0" type="line"/>
+    </contour>
+    <component base="numbersign" xOffset="-1000.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

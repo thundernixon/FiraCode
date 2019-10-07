@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaverticalstroke-cy" format="2">
+  <advance width="1200"/>
+  <unicode hex="049D"/>
+  <anchor x="600" y="0" name="bottom"/>
+  <anchor x="600" y="1050" name="top"/>
+  <outline>
+    <contour>
+      <point x="230" y="0" type="line"/>
+      <point x="362" y="0" type="line"/>
+      <point x="362" y="494" type="line"/>
+      <point x="459" y="494" type="line"/>
+      <point x="459" y="243" type="line"/>
+      <point x="549" y="243" type="line"/>
+      <point x="549" y="494" type="line"/>
+      <point x="611" y="494" type="line"/>
+      <point x="987" y="0" type="line"/>
+      <point x="1128" y="0" type="line"/>
+      <point x="714" y="567" type="line"/>
+      <point x="1065" y="1050" type="line"/>
+      <point x="927" y="1050" type="line"/>
+      <point x="611" y="627" type="line"/>
+      <point x="549" y="627" type="line"/>
+      <point x="549" y="857" type="line"/>
+      <point x="459" y="857" type="line"/>
+      <point x="459" y="627" type="line"/>
+      <point x="362" y="627" type="line"/>
+      <point x="362" y="1050" type="line"/>
+      <point x="230" y="1050" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

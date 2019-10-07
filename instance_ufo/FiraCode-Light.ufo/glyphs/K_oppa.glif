@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Koppa" format="2">
+  <advance width="1200"/>
+  <unicode hex="03DE"/>
+  <anchor x="600" y="0" name="bottom"/>
+  <anchor x="600" y="1374" name="top"/>
+  <outline>
+    <contour>
+      <point x="434" y="0" type="line"/>
+      <point x="588" y="0" type="line"/>
+      <point x="1047" y="634" type="line"/>
+      <point x="941" y="699" type="line"/>
+    </contour>
+    <contour>
+      <point x="186" y="634" type="line"/>
+      <point x="1046" y="634" type="line"/>
+      <point x="1018" y="753" type="line"/>
+      <point x="157" y="753" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="689" type="line"/>
+      <point x="767" y="1374" type="line"/>
+      <point x="613" y="1374" type="line"/>
+      <point x="157" y="753" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

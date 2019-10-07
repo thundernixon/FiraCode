@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="De-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0414"/>
+  <anchor x="600.0" y="-406.1875" name="bottom"/>
+  <anchor x="600.0" y="1378.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="1030.9166666666667" y="1378.25" type="line"/>
+      <point x="327.0833333333333" y="1378.25" type="line"/>
+      <point x="277.0416666666667" y="976.1875" type="line" smooth="yes"/>
+      <point x="204.91666666666666" y="406.9583333333333"/>
+      <point x="187.04166666666666" y="266.9583333333333"/>
+      <point x="80.95833333333333" y="160.97916666666669" type="curve"/>
+      <point x="180.91666666666666" y="0.0" type="line"/>
+      <point x="948.8541666666666" y="-0.0625" type="line"/>
+      <point x="1030.9166666666667" y="160.97916666666669" type="line"/>
+    </contour>
+    <contour>
+      <point x="834.25" y="1217.9375" type="line"/>
+      <point x="834.25" y="160.97916666666669" type="line"/>
+      <point x="263.0416666666667" y="160.97916666666669" type="line"/>
+      <point x="385.9375" y="270.9166666666667"/>
+      <point x="411.8125" y="431.75"/>
+      <point x="472.125" y="970.25" type="curve" smooth="yes"/>
+      <point x="499.0416666666667" y="1217.9375" type="line"/>
+    </contour>
+    <component base="descStraight-cy.case" xOffset="411.0416666666667"/>
+    <component base="descStraight-cy.case" xScale="-1.0" xOffset="719.0833333333334"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

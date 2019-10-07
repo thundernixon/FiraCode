@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen_greater_greater.liga" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="-139" y="1216" type="line"/>
+      <point x="-240" y="1132" type="line"/>
+      <point x="89" y="770" type="line" smooth="yes"/>
+      <point x="136" y="718"/>
+      <point x="135" y="715"/>
+      <point x="184" y="684" type="curve"/>
+      <point x="-2141" y="684" type="line"/>
+      <point x="-2141" y="568" type="line"/>
+      <point x="185" y="568" type="line"/>
+      <point x="147" y="544"/>
+      <point x="117" y="511"/>
+      <point x="89" y="482" type="curve" smooth="yes"/>
+      <point x="-240" y="120" type="line"/>
+      <point x="-139" y="36" type="line"/>
+      <point x="386" y="626" type="line"/>
+    </contour>
+    <component base="_part.arrowhead"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

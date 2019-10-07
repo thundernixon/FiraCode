@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Sampi" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="03E0"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="600.0" y="1380.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="947.2916666666666" y="0.0" type="line"/>
+      <point x="1165.125" y="0.0" type="line"/>
+      <point x="646.5625" y="1380.25" type="line"/>
+      <point x="448.875" y="1380.25" type="line"/>
+      <point x="568.1458333333334" y="1093.4375" type="line"/>
+    </contour>
+    <contour>
+      <point x="34.875" y="0.0" type="line"/>
+      <point x="258.0" y="0.0" type="line"/>
+      <point x="686.9791666666666" y="1215.0208333333333" type="line"/>
+      <point x="528.875" y="1253.6875" type="line"/>
+    </contour>
+    <contour>
+      <point x="419.2916666666667" y="3.4375" type="line"/>
+      <point x="598.25" y="0.0" type="line"/>
+      <point x="840.1458333333334" y="793.125" type="line"/>
+      <point x="693.6875" y="826.1458333333334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

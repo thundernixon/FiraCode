@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegadasiaprosgegrammeni" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1FA9"/>
+  <anchor x="751.9375" y="-381.8125" name="bottom"/>
+  <anchor x="-36.0" y="1399.2083333333333" name="top"/>
+  <anchor x="206.79166666666666" y="1378.25" name="topleft"/>
+  <outline>
+    <component base="Omegadasia"/>
+    <component base="ypogegrammenicomb" xOffset="131.8125"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:23</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

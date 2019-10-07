@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ypogegrammenicomb" format="2">
+  <unicode hex="0345"/>
+  <anchor x="470.0" y="0.0" name="_bottom"/>
+  <anchor x="619.375" y="-376.9375" name="bottom"/>
+  <outline>
+    <contour>
+      <point x="612.75" y="-376.9375" type="curve" smooth="yes"/>
+      <point x="705.7291666666666" y="-376.9375"/>
+      <point x="766.7916666666666" y="-338.3125"/>
+      <point x="808.0" y="-306.7916666666667" type="curve"/>
+      <point x="741.4166666666666" y="-218.58333333333334" type="line"/>
+      <point x="705.1041666666666" y="-240.89583333333334"/>
+      <point x="677.1041666666666" y="-253.20833333333334"/>
+      <point x="628.625" y="-253.20833333333334" type="curve" smooth="yes"/>
+      <point x="572.3125" y="-253.20833333333334"/>
+      <point x="543.6875" y="-225.20833333333334"/>
+      <point x="543.6875" y="-168.58333333333334" type="curve" smooth="yes"/>
+      <point x="543.6875" y="-77.0625" type="line"/>
+      <point x="394.0" y="-77.0625" type="line"/>
+      <point x="394.0" y="-172.27083333333334" type="line" smooth="yes"/>
+      <point x="394.0" y="-295.0625"/>
+      <point x="475.2083333333333" y="-376.9375"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1200</integer>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

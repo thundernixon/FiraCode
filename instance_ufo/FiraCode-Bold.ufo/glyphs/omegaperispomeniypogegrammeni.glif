@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="omegaperispomeniypogegrammeni" format="2">
+  <advance width="1200"/>
+  <unicode hex="1FF7"/>
+  <anchor x="752" y="-407" name="bottom"/>
+  <anchor x="614" y="1497" name="top"/>
+  <outline>
+    <component base="omega"/>
+    <component base="perispomenicomb"/>
+    <component base="ypogegrammenicomb" xOffset="128"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

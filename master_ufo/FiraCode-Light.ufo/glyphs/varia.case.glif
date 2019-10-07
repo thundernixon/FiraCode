@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="varia.case" format="2">
+  <advance width="1200"/>
+  <anchor x="764" y="1374" name="_topleft"/>
+  <outline>
+    <contour>
+      <point x="657" y="1398" type="line"/>
+      <point x="488" y="1374" type="line"/>
+      <point x="621" y="1001" type="line"/>
+      <point x="730" y="1017" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

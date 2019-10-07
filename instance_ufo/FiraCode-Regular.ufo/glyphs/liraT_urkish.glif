@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="liraTurkish" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="20BA"/>
+  <outline>
+    <contour>
+      <point x="288.75" y="0.0" type="line"/>
+      <point x="584.0" y="0.0" type="line" smooth="yes"/>
+      <point x="884.75" y="0.0"/>
+      <point x="1038.8958333333333" y="133.20833333333334"/>
+      <point x="1118.8958333333333" y="359.1041666666667" type="curve"/>
+      <point x="988.3125" y="411.7291666666667" type="line"/>
+      <point x="899.1041666666666" y="214.625"/>
+      <point x="784.9375" y="152.3125"/>
+      <point x="590.2708333333334" y="152.3125" type="curve" smooth="yes"/>
+      <point x="463.2083333333333" y="152.3125" type="line"/>
+      <point x="462.5833333333333" y="1376.75" type="line"/>
+      <point x="288.75" y="1376.75" type="line"/>
+    </contour>
+    <contour>
+      <point x="174.3125" y="363.375" type="line"/>
+      <point x="838.8958333333334" y="670.75" type="line"/>
+      <point x="789.25" y="778.75" type="line"/>
+      <point x="126.89583333333334" y="469.0625" type="line"/>
+    </contour>
+    <contour>
+      <point x="178.625" y="644.3125" type="line"/>
+      <point x="841.2083333333334" y="954.0" type="line"/>
+      <point x="791.25" y="1062.0" type="line"/>
+      <point x="126.89583333333334" y="754.625" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

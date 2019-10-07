@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="napostrophe" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0149"/>
+  <anchor x="627.5833333333334" y="0.0" name="bottom"/>
+  <anchor x="626.1458333333334" y="1056.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="123.75" y="1512.1458333333333" type="curve" smooth="yes"/>
+      <point x="52.5625" y="1512.1458333333333"/>
+      <point x="-3.8541666666666714" y="1458.0"/>
+      <point x="-3.8541666666666714" y="1389.0208333333333" type="curve" smooth="yes"/>
+      <point x="-3.8541666666666714" y="1345.4375"/>
+      <point x="18.874999999999996" y="1310.7083333333333"/>
+      <point x="49.125" y="1285.5833333333333" type="curve"/>
+      <point x="-4.416666666666668" y="1068.5625" type="line"/>
+      <point x="117.125" y="1068.5625" type="line"/>
+      <point x="199.125" y="1236.7083333333333" type="line" smooth="yes"/>
+      <point x="237.75" y="1316.3125"/>
+      <point x="249.4375" y="1350.0"/>
+      <point x="249.4375" y="1389.0208333333333" type="curve" smooth="yes"/>
+      <point x="249.4375" y="1459.6875"/>
+      <point x="194.97916666666666" y="1512.1458333333333"/>
+    </contour>
+    <component base="n" xOffset="25.583333333333336"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

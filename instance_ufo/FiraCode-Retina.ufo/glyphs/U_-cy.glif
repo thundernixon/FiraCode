@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0423"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="620.0" y="1378.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="1169.1458333333333" y="1378.25" type="line"/>
+      <point x="968.25" y="1378.25" type="line"/>
+      <point x="625.875" y="501.0416666666667" type="line"/>
+      <point x="248.91666666666669" y="1378.25" type="line"/>
+      <point x="42.95833333333333" y="1378.25" type="line"/>
+      <point x="492.9791666666667" y="376.9791666666667" type="line"/>
+      <point x="567.9791666666666" y="376.9791666666667" type="line"/>
+      <point x="492.4166666666667" y="213.08333333333334"/>
+      <point x="418.8125" y="155.75"/>
+      <point x="209.04166666666666" y="128.0" type="curve"/>
+      <point x="238.1875" y="-24.958333333333336" type="line"/>
+      <point x="542.8541666666666" y="10.854166666666666"/>
+      <point x="656.25" y="128.91666666666666"/>
+      <point x="759.0208333333334" y="378.0" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/27 17:36:58</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

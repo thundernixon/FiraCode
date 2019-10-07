@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Archaicsampi" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0372"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="600.0" y="1378.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="501.875" y="0.0" type="line"/>
+      <point x="700.0625" y="0.0" type="line"/>
+      <point x="700.0625" y="1210.9791666666667" type="line"/>
+      <point x="1136.0625" y="1210.9791666666667" type="line"/>
+      <point x="1136.0625" y="1378.25" type="line"/>
+      <point x="65.9375" y="1378.25" type="line"/>
+      <point x="65.9375" y="1210.9791666666667" type="line"/>
+      <point x="501.875" y="1210.9791666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="65.9375" y="837.75" type="line"/>
+      <point x="233.08333333333334" y="837.75" type="line"/>
+      <point x="233.08333333333334" y="1272.9166666666667" type="line"/>
+      <point x="65.9375" y="1272.9166666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="968.9166666666666" y="839.0416666666666" type="line"/>
+      <point x="1136.0625" y="839.0416666666666" type="line"/>
+      <point x="1136.0625" y="1274.1875" type="line"/>
+      <point x="968.9166666666666" y="1274.1875" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

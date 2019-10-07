@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <real>1477.8333333333333</real>
+    <key>capHeight</key>
+    <real>1376.75</real>
+    <key>copyright</key>
+    <string>Copyright 2012-2015 The Fira Code Project Authors (https://github.com/tonsky/FiraCode)</string>
+    <key>descender</key>
+    <real>-398.8333333333333</real>
+    <key>familyName</key>
+    <string>Fira Code</string>
+    <key>guidelines</key>
+    <array/>
+    <key>italicAngle</key>
+    <integer>0</integer>
+    <key>openTypeHeadCreated</key>
+    <string>2018/09/30 15:05:11</string>
+    <key>openTypeHheaAscender</key>
+    <integer>1980</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-644</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDesigner</key>
+    <string>Carrois Corporate, Edenspiekermann AG, Nikita Prokopov</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>http://tonsky.me</string>
+    <key>openTypeNameLicense</key>
+    <string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://scripts.sil.org/OFL</string>
+    <key>openTypeNameManufacturer</key>
+    <string>Carrois Corporate, Edenspiekermann AG, Nikita Prokopov</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>http://tonsky.me</string>
+    <key>openTypeOS2Panose</key>
+    <array>
+      <integer>2</integer>
+      <integer>11</integer>
+      <integer>8</integer>
+      <integer>9</integer>
+      <integer>5</integer>
+      <integer>0</integer>
+      <integer>0</integer>
+      <integer>2</integer>
+      <integer>0</integer>
+      <integer>4</integer>
+    </array>
+    <key>openTypeOS2Selection</key>
+    <array>
+      <integer>7</integer>
+    </array>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>1980</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-644</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>0</integer>
+    <key>openTypeOS2VendorID</key>
+    <string>CTDB</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>2164</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>1000</integer>
+    <key>postscriptBlueValues</key>
+    <array>
+      <real>-26.125</real>
+      <integer>0</integer>
+      <real>1052.75</real>
+      <real>1080.4166666666667</real>
+      <real>1376.75</real>
+      <real>1404.4166666666667</real>
+      <real>1477.8333333333333</real>
+      <real>1503.9583333333333</real>
+    </array>
+    <key>postscriptFamilyBlues</key>
+    <array/>
+    <key>postscriptFamilyOtherBlues</key>
+    <array/>
+    <key>postscriptIsFixedPitch</key>
+    <true/>
+    <key>postscriptOtherBlues</key>
+    <array>
+      <real>-426.5</real>
+      <real>-398.8333333333333</real>
+    </array>
+    <key>postscriptStemSnapH</key>
+    <array>
+      <real>138.41666666666666</real>
+    </array>
+    <key>postscriptStemSnapV</key>
+    <array>
+      <integer>168</integer>
+    </array>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-100</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>50</integer>
+    <key>postscriptWeightName</key>
+    <string>Normal</string>
+    <key>styleMapFamilyName</key>
+    <string>Fira Code</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>styleName</key>
+    <string>Regular</string>
+    <key>trademark</key>
+    <string>Fira Mono is a trademark of The Mozilla Corporation.</string>
+    <key>unitsPerEm</key>
+    <real>2000.0</real>
+    <key>versionMajor</key>
+    <integer>1</integer>
+    <key>versionMinor</key>
+    <integer>207</integer>
+    <key>xHeight</key>
+    <real>1052.75</real>
+  </dict>
+</plist>

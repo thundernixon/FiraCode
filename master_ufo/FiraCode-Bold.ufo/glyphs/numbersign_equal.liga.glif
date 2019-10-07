@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_equal.liga" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="-234" y="752" type="line"/>
+      <point x="-85" y="752" type="line"/>
+      <point x="-85" y="962" type="line"/>
+      <point x="-206" y="962" type="line"/>
+      <point x="-152" y="1386" type="line"/>
+      <point x="-413" y="1386" type="line"/>
+      <point x="-467" y="962" type="line"/>
+      <point x="-658" y="962" type="line"/>
+      <point x="-603" y="1386" type="line"/>
+      <point x="-866" y="1386" type="line"/>
+      <point x="-918" y="962" type="line"/>
+      <point x="-1071" y="962" type="line"/>
+      <point x="-1071" y="752" type="line"/>
+      <point x="-946" y="752" type="line"/>
+      <point x="-976" y="527" type="line"/>
+      <point x="-1123" y="527" type="line"/>
+      <point x="-1123" y="320" type="line"/>
+      <point x="-1004" y="320" type="line"/>
+      <point x="-1046" y="0" type="line"/>
+      <point x="-785" y="0" type="line"/>
+      <point x="-741" y="320" type="line"/>
+      <point x="-551" y="320" type="line"/>
+      <point x="-595" y="0" type="line"/>
+      <point x="-334" y="0" type="line"/>
+      <point x="-290" y="320" type="line"/>
+      <point x="-137" y="320" type="line"/>
+      <point x="-137" y="527" type="line"/>
+      <point x="-262" y="527" type="line"/>
+    </contour>
+    <contour>
+      <point x="-716" y="527" type="line"/>
+      <point x="-685" y="752" type="line"/>
+      <point x="-495" y="752" type="line"/>
+      <point x="-525" y="527" type="line"/>
+    </contour>
+    <contour>
+      <point x="956" y="936" type="line"/>
+      <point x="44" y="936" type="line"/>
+      <point x="44" y="732" type="line"/>
+      <point x="956" y="732" type="line"/>
+    </contour>
+    <contour>
+      <point x="904" y="547" type="line"/>
+      <point x="-8" y="547" type="line"/>
+      <point x="-8" y="340" type="line"/>
+      <point x="904" y="340" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

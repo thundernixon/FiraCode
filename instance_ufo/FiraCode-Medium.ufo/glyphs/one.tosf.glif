@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.tosf" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="796.875" y="1132.9791666666667" type="line"/>
+      <point x="599.2916666666666" y="1132.9791666666667" type="line"/>
+      <point x="179.75" y="875.8541666666666" type="line"/>
+      <point x="275.2916666666667" y="720.3125" type="line"/>
+      <point x="575.125" y="900.875" type="line"/>
+      <point x="575.125" y="130.5625" type="line"/>
+      <point x="796.875" y="130.5625" type="line"/>
+    </contour>
+    <contour>
+      <point x="1068.875" y="174.14583333333334" type="line"/>
+      <point x="242.70833333333331" y="174.14583333333334" type="line"/>
+      <point x="242.70833333333331" y="0.0" type="line"/>
+      <point x="1068.875" y="0.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/21 14:59:05</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

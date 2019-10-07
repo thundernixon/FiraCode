@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="imacron" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="012B"/>
+  <anchor x="763.1458333333334" y="0.0" name="ogonek"/>
+  <anchor x="601.875" y="1054.25" name="top"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="macron" xOffset="1.875"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

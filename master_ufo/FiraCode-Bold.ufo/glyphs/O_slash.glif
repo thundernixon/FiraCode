@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance width="1200"/>
+  <unicode hex="00D8"/>
+  <anchor x="600" y="0" name="bottom"/>
+  <anchor x="600" y="1386" name="top"/>
+  <outline>
+    <contour>
+      <point x="600" y="1421" type="curve" smooth="yes"/>
+      <point x="237" y="1421"/>
+      <point x="45" y="1133"/>
+      <point x="45" y="694" type="curve" smooth="yes"/>
+      <point x="45" y="244"/>
+      <point x="256" y="-34"/>
+      <point x="600" y="-34" type="curve" smooth="yes"/>
+      <point x="963" y="-34"/>
+      <point x="1155" y="254"/>
+      <point x="1155" y="694" type="curve" smooth="yes"/>
+      <point x="1155" y="1143"/>
+      <point x="944" y="1421"/>
+    </contour>
+    <contour>
+      <point x="761" y="1606" type="line"/>
+      <point x="695" y="1386" type="line"/>
+      <point x="681" y="1235" type="line"/>
+      <point x="413" y="324" type="line"/>
+      <point x="303" y="125" type="line"/>
+      <point x="217" y="-153" type="line"/>
+      <point x="439" y="-218" type="line"/>
+      <point x="505" y="8" type="line"/>
+      <point x="539" y="203" type="line"/>
+      <point x="797" y="1088" type="line"/>
+      <point x="907" y="1300" type="line"/>
+      <point x="983" y="1541" type="line"/>
+    </contour>
+    <contour>
+      <point x="600" y="1188" type="curve" smooth="yes"/>
+      <point x="768" y="1188"/>
+      <point x="831" y="1042"/>
+      <point x="831" y="694" type="curve" smooth="yes"/>
+      <point x="831" y="351"/>
+      <point x="768" y="200"/>
+      <point x="600" y="200" type="curve" smooth="yes"/>
+      <point x="434" y="200"/>
+      <point x="369" y="346"/>
+      <point x="369" y="694" type="curve" smooth="yes"/>
+      <point x="369" y="1040"/>
+      <point x="436" y="1188"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

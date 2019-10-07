@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater_equal.ss01" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="-581.0416666666666" y="204.85416666666666" type="line"/>
+      <point x="-514.9166666666666" y="54.0" type="line"/>
+      <point x="583.0416666666666" y="542.125" type="line"/>
+      <point x="516.8541666666666" y="686.9791666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="-581.0416666666666" y="1051.1458333333333" type="line"/>
+      <point x="516.8541666666666" y="569.0208333333334" type="line"/>
+      <point x="583.0416666666666" y="542.125" type="line"/>
+      <point x="583.0416666666666" y="713.875" type="line"/>
+      <point x="-514.9166666666666" y="1202.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="583.0416666666666" y="-79.02083333333333" type="line"/>
+      <point x="-555.9375" y="-79.02083333333333" type="line"/>
+      <point x="-555.9375" y="-241.8125" type="line"/>
+      <point x="583.0416666666666" y="-241.8125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/21 14:41:38</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

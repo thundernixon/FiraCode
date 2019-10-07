@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kahook-cy" format="2">
+  <advance width="1200"/>
+  <unicode hex="04C3"/>
+  <anchor x="600" y="-443" name="bottom"/>
+  <anchor x="600" y="1386" name="top"/>
+  <outline>
+    <contour>
+      <point x="104" y="0" type="line"/>
+      <point x="432" y="0" type="line"/>
+      <point x="432" y="583" type="line"/>
+      <point x="731" y="583" type="line"/>
+      <point x="800" y="710" type="line"/>
+      <point x="1177" y="1386" type="line"/>
+      <point x="859" y="1386" type="line"/>
+      <point x="561" y="821" type="line"/>
+      <point x="432" y="821" type="line"/>
+      <point x="432" y="1386" type="line"/>
+      <point x="104" y="1386" type="line"/>
+    </contour>
+    <contour>
+      <point x="808" y="0" type="line"/>
+      <point x="1136" y="0" type="line"/>
+      <point x="1136" y="404" type="line" smooth="yes"/>
+      <point x="1136" y="700"/>
+      <point x="998" y="821"/>
+      <point x="721" y="821" type="curve"/>
+      <point x="647" y="583" type="line"/>
+      <point x="761" y="583"/>
+      <point x="808" y="524"/>
+      <point x="808" y="400" type="curve" smooth="yes"/>
+    </contour>
+    <component base="hookHELPER.case" xOffset="346"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/27 17:53:12</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="komidzje-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0507"/>
+  <anchor x="600.0" y="-399.0625" name="bottom"/>
+  <anchor x="600.0" y="1052.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="229.375" y="409.0625" type="line"/>
+      <point x="555.375" y="409.0625" type="line"/>
+      <point x="797.25" y="441.4166666666667"/>
+      <point x="936.75" y="540.0"/>
+      <point x="936.75" y="734.2708333333334" type="curve" smooth="yes"/>
+      <point x="936.75" y="943.25"/>
+      <point x="781.6875" y="1052.75"/>
+      <point x="502.7916666666667" y="1052.75" type="curve" smooth="yes"/>
+      <point x="152.625" y="1052.75" type="line"/>
+      <point x="152.9375" y="922.625" type="line"/>
+      <point x="500.625" y="922.625" type="line" smooth="yes"/>
+      <point x="674.3125" y="922.625"/>
+      <point x="760.75" y="867.0625"/>
+      <point x="760.75" y="735.2083333333334" type="curve" smooth="yes"/>
+      <point x="760.75" y="593.4166666666666"/>
+      <point x="673.0625" y="540.7916666666666"/>
+      <point x="530.3125" y="540.7916666666666" type="curve" smooth="yes"/>
+      <point x="229.375" y="540.7916666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="808.8958333333334" y="0.0" type="line"/>
+      <point x="998.7916666666666" y="0.0" type="line"/>
+      <point x="677.7291666666666" y="479.6875" type="line"/>
+      <point x="516.5833333333334" y="459.4166666666667" type="line"/>
+    </contour>
+    <component base="descStraight-cy" xOffset="379.0625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

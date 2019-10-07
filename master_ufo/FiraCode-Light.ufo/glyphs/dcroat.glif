@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dcroat" format="2">
+  <advance width="1200"/>
+  <unicode hex="0111"/>
+  <anchor x="617" y="0" name="bottom"/>
+  <anchor x="617" y="526" name="center"/>
+  <anchor x="617" y="1475" name="top"/>
+  <anchor x="1067" y="1475" name="topright"/>
+  <outline>
+    <contour>
+      <point x="998" y="1317" type="line"/>
+      <point x="502" y="1317" type="line"/>
+      <point x="502" y="1198" type="line"/>
+      <point x="874" y="1198" type="line"/>
+      <point x="1155" y="1198" type="line"/>
+      <point x="1155" y="1317" type="line"/>
+    </contour>
+    <component base="d" xOffset="17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

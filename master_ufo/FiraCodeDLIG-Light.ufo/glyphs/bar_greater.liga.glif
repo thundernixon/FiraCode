@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bar_greater.liga" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="-476" y="1425" type="line"/>
+      <point x="-600" y="1425" type="line"/>
+      <point x="-600" y="-181" type="line"/>
+      <point x="-476" y="-181" type="line"/>
+      <point x="689" y="549" type="line"/>
+      <point x="689" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="-476" y="-36" type="line"/>
+      <point x="-476" y="1288" type="line"/>
+      <point x="583" y="625" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

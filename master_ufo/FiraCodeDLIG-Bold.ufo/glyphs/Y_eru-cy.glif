@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Yeru-cy" format="2">
+  <advance width="1200"/>
+  <unicode hex="042B"/>
+  <anchor x="600" y="0" name="bottom"/>
+  <anchor x="600" y="1386" name="top"/>
+  <outline>
+    <contour>
+      <point x="310" y="1386" type="line"/>
+      <point x="43" y="1386" type="line"/>
+      <point x="43" y="0" type="line"/>
+      <point x="333" y="0" type="line" smooth="yes"/>
+      <point x="637" y="0"/>
+      <point x="837" y="144"/>
+      <point x="837" y="473" type="curve" smooth="yes"/>
+      <point x="837" y="776"/>
+      <point x="649" y="924"/>
+      <point x="329" y="924" type="curve" smooth="yes"/>
+      <point x="310" y="924" type="line"/>
+    </contour>
+    <contour>
+      <point x="357" y="703" type="line" smooth="yes"/>
+      <point x="490" y="703"/>
+      <point x="557" y="628"/>
+      <point x="557" y="471" type="curve" smooth="yes"/>
+      <point x="557" y="282"/>
+      <point x="477" y="226"/>
+      <point x="337" y="226" type="curve" smooth="yes"/>
+      <point x="310" y="226" type="line"/>
+      <point x="310" y="703" type="line"/>
+    </contour>
+    <contour>
+      <point x="1157" y="1386" type="line"/>
+      <point x="890" y="1386" type="line"/>
+      <point x="890" y="0" type="line"/>
+      <point x="1157" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

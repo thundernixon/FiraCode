@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlaut" format="2">
+  <advance width="1200"/>
+  <unicode hex="02DD"/>
+  <anchor x="524" y="1050" name="_top"/>
+  <outline>
+    <contour>
+      <point x="289" y="1325" type="line"/>
+      <point x="382" y="1279" type="line"/>
+      <point x="560" y="1596" type="line"/>
+      <point x="431" y="1658" type="line"/>
+    </contour>
+    <contour>
+      <point x="617" y="1323" type="line"/>
+      <point x="706" y="1274" type="line"/>
+      <point x="912" y="1589" type="line"/>
+      <point x="785" y="1658" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="927.75" y="909.1458333333334" type="line"/>
+      <point x="1100.0" y="909.1458333333334" type="line"/>
+      <point x="1100.0" y="1052.9166666666667" type="line"/>
+      <point x="946.0625" y="1052.9166666666667" type="line"/>
+      <point x="991.8125" y="1378.25" type="line"/>
+      <point x="828.9791666666666" y="1378.25" type="line"/>
+      <point x="785.8125" y="1052.9166666666667" type="line"/>
+      <point x="508.9166666666667" y="1052.9166666666667" type="line"/>
+      <point x="555.0208333333334" y="1378.25" type="line"/>
+      <point x="392.125" y="1378.25" type="line"/>
+      <point x="349.0208333333333" y="1052.9166666666667" type="line"/>
+      <point x="174.0625" y="1052.9166666666667" type="line"/>
+      <point x="174.0625" y="909.1458333333334" type="line"/>
+      <point x="330.0625" y="909.1458333333334" type="line"/>
+      <point x="270.9583333333333" y="473.75" type="line"/>
+      <point x="100.0625" y="473.75" type="line"/>
+      <point x="100.0625" y="330.9791666666667" type="line"/>
+      <point x="252.0" y="330.9791666666667" type="line"/>
+      <point x="208.25" y="0.0" type="line"/>
+      <point x="371.0833333333333" y="0.0" type="line"/>
+      <point x="414.25" y="330.9791666666667" type="line"/>
+      <point x="688.8541666666666" y="330.9791666666667" type="line"/>
+      <point x="645.0416666666666" y="0.0" type="line"/>
+      <point x="807.875" y="0.0" type="line"/>
+      <point x="849.75" y="330.9791666666667" type="line"/>
+      <point x="1026.0" y="330.9791666666667" type="line"/>
+      <point x="1026.0" y="473.75" type="line"/>
+      <point x="870.0" y="473.75" type="line"/>
+    </contour>
+    <contour>
+      <point x="433.1458333333333" y="473.75" type="line"/>
+      <point x="490.9583333333333" y="909.1458333333334" type="line"/>
+      <point x="766.8541666666666" y="909.1458333333334" type="line"/>
+      <point x="707.75" y="473.75" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hbar" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="1054.4166666666667" y="1380.25" type="line"/>
+      <point x="822.25" y="1380.25" type="line"/>
+      <point x="822.25" y="816.4166666666666" type="line"/>
+      <point x="377.75" y="816.4166666666666" type="line"/>
+      <point x="377.75" y="1380.25" type="line"/>
+      <point x="145.58333333333331" y="1380.25" type="line"/>
+      <point x="145.58333333333331" y="0.0" type="line"/>
+      <point x="377.75" y="0.0" type="line"/>
+      <point x="377.75" y="630.4166666666666" type="line"/>
+      <point x="822.25" y="630.4166666666666" type="line"/>
+      <point x="822.25" y="0.0" type="line"/>
+      <point x="1054.4166666666667" y="0.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1196.0" y="1162.875" type="line"/>
+      <point x="4.0" y="1162.875" type="line"/>
+      <point x="4.0" y="1011.0208333333334" type="line"/>
+      <point x="1196.0" y="1011.0208333333334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/27 17:29:31</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

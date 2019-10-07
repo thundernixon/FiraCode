@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceright" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="007D"/>
+  <outline>
+    <contour>
+      <point x="297.0625" y="1670.75" type="curve"/>
+      <point x="297.0625" y="1538.625" type="line"/>
+      <point x="444.2708333333333" y="1538.625"/>
+      <point x="560.8958333333334" y="1501.0625"/>
+      <point x="548.5833333333334" y="1379.25" type="curve" smooth="yes"/>
+      <point x="506.7916666666667" y="968.625" type="line" smooth="yes"/>
+      <point x="489.7291666666667" y="801.2083333333334"/>
+      <point x="558.3125" y="725.0625"/>
+      <point x="716.2708333333334" y="697.6875" type="curve"/>
+      <point x="552.5833333333334" y="674.625"/>
+      <point x="488.9583333333333" y="608.5833333333334"/>
+      <point x="506.7916666666667" y="431.375" type="curve" smooth="yes"/>
+      <point x="548.5833333333334" y="20.75" type="line" smooth="yes"/>
+      <point x="560.8958333333334" y="-103.375"/>
+      <point x="443.7291666666667" y="-138.625"/>
+      <point x="297.0625" y="-138.625" type="curve"/>
+      <point x="297.0625" y="-270.75" type="line"/>
+      <point x="521.6875" y="-270.75"/>
+      <point x="729.5208333333334" y="-204.58333333333334"/>
+      <point x="703.375" y="40.89583333333333" type="curve" smooth="yes"/>
+      <point x="662.5833333333334" y="421.25" type="line" smooth="yes"/>
+      <point x="648.125" y="557.0625"/>
+      <point x="719.25" y="632.8958333333334"/>
+      <point x="965.1041666666666" y="632.8958333333334" type="curve"/>
+      <point x="965.1041666666666" y="767.1041666666666" type="line"/>
+      <point x="718.7916666666666" y="767.1041666666666"/>
+      <point x="648.125" y="840.625"/>
+      <point x="662.5833333333334" y="977.2083333333334" type="curve" smooth="yes"/>
+      <point x="703.375" y="1358.7916666666667" type="line" smooth="yes"/>
+      <point x="729.8333333333334" y="1604.8958333333333"/>
+      <point x="521.6875" y="1670.75"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/28 18:46:15</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

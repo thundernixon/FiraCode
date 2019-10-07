@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="apostrophemod" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="02BC"/>
+  <outline>
+    <contour>
+      <point x="584.875" y="1504.9791666666667" type="curve" smooth="yes"/>
+      <point x="512.5625" y="1504.9791666666667"/>
+      <point x="455.5833333333333" y="1450.3125"/>
+      <point x="455.5833333333333" y="1379.6875" type="curve" smooth="yes"/>
+      <point x="455.5833333333333" y="1335.5833333333333"/>
+      <point x="478.3125" y="1301.2916666666667"/>
+      <point x="509.125" y="1275.125" type="curve"/>
+      <point x="457.75" y="1065.8541666666667" type="line"/>
+      <point x="579.8541666666666" y="1065.8541666666667" type="line"/>
+      <point x="658.5625" y="1226.25" type="line" smooth="yes"/>
+      <point x="697.75" y="1306.4166666666667"/>
+      <point x="711.6875" y="1344.0"/>
+      <point x="711.6875" y="1382.4166666666667" type="curve" smooth="yes"/>
+      <point x="711.6875" y="1451.4375"/>
+      <point x="656.1458333333334" y="1504.9791666666667"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhedescender-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0497"/>
+  <outline>
+    <contour>
+      <point x="525.375" y="0.0" type="line"/>
+      <point x="674.625" y="0.0" type="line"/>
+      <point x="674.625" y="492.75" type="line"/>
+      <point x="782.8958333333334" y="492.75" type="line"/>
+      <point x="980.75" y="0.0" type="line"/>
+      <point x="1151.375" y="0.0" type="line"/>
+      <point x="916.5833333333334" y="565.375" type="line"/>
+      <point x="1132.5833333333333" y="1052.75" type="line"/>
+      <point x="967.1041666666666" y="1052.75" type="line"/>
+      <point x="786.8958333333334" y="624.5833333333334" type="line"/>
+      <point x="674.625" y="624.5833333333334" type="line"/>
+      <point x="674.625" y="1052.75" type="line"/>
+      <point x="525.375" y="1052.75" type="line"/>
+      <point x="525.375" y="624.5833333333334" type="line"/>
+      <point x="413.1041666666667" y="624.5833333333334" type="line"/>
+      <point x="238.58333333333334" y="1052.75" type="line"/>
+      <point x="67.41666666666667" y="1052.75" type="line"/>
+      <point x="283.1041666666667" y="565.375" type="line"/>
+      <point x="48.3125" y="0.0" type="line"/>
+      <point x="213.375" y="0.0" type="line"/>
+      <point x="413.25" y="492.75" type="line"/>
+      <point x="525.375" y="492.75" type="line"/>
+    </contour>
+    <contour>
+      <point x="1202.9375" y="137.41666666666666" type="line"/>
+      <point x="986.3125" y="137.41666666666666" type="line"/>
+      <point x="980.75" y="0.0" type="line"/>
+      <point x="1052.2708333333333" y="0.0" type="line"/>
+      <point x="1081.25" y="-294.2708333333333" type="line"/>
+      <point x="1202.9375" y="-294.2708333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

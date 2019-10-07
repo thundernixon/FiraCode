@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal.dnom" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="879" y="545" type="line"/>
+      <point x="321" y="545" type="line"/>
+      <point x="321" y="380" type="line"/>
+      <point x="879" y="380" type="line"/>
+    </contour>
+    <contour>
+      <point x="879" y="286" type="line"/>
+      <point x="321" y="286" type="line"/>
+      <point x="321" y="123" type="line"/>
+      <point x="879" y="123" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yuslittleiotified-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0469"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="600.0" y="1052.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="695.7291666666666" y="0.0" type="line"/>
+      <point x="832.3125" y="0.0" type="line"/>
+      <point x="832.3125" y="499.25" type="line"/>
+      <point x="695.7291666666666" y="499.25" type="line"/>
+    </contour>
+    <contour>
+      <point x="104.3125" y="0.0" type="line"/>
+      <point x="269.375" y="0.0" type="line"/>
+      <point x="269.375" y="409.4166666666667" type="line"/>
+      <point x="1022.2708333333334" y="409.4166666666667" type="line"/>
+      <point x="1022.2708333333334" y="548.3125" type="line"/>
+      <point x="269.375" y="548.3125" type="line"/>
+      <point x="269.375" y="1052.75" type="line"/>
+      <point x="104.3125" y="1052.75" type="line"/>
+    </contour>
+    <contour>
+      <point x="352.625" y="0.0" type="line"/>
+      <point x="508.3125" y="0.0" type="line"/>
+      <point x="767.0625" y="920.0" type="line"/>
+      <point x="1024.7916666666667" y="0.0" type="line"/>
+      <point x="1187.7291666666667" y="0.0" type="line"/>
+      <point x="874.9375" y="1052.75" type="line"/>
+      <point x="668.75" y="1052.75" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

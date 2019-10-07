@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Komitje-cy" format="2">
+  <advance width="1200"/>
+  <unicode hex="050E"/>
+  <anchor x="600" y="0" name="bottom"/>
+  <anchor x="600" y="1386" name="top"/>
+  <outline>
+    <contour>
+      <point x="333" y="724" type="line"/>
+      <point x="661" y="724" type="line"/>
+      <point x="661" y="1140" type="line"/>
+      <point x="973" y="1140" type="line"/>
+      <point x="1007" y="1386" type="line"/>
+      <point x="24" y="1386" type="line"/>
+      <point x="24" y="1140" type="line"/>
+      <point x="333" y="1140" type="line"/>
+    </contour>
+    <contour>
+      <point x="724" y="-34" type="curve" smooth="yes"/>
+      <point x="982" y="-34"/>
+      <point x="1159" y="134"/>
+      <point x="1159" y="493" type="curve" smooth="yes"/>
+      <point x="1159" y="600"/>
+      <point x="1155" y="680"/>
+      <point x="1147" y="758" type="curve"/>
+      <point x="837" y="758" type="line"/>
+      <point x="843" y="678"/>
+      <point x="847" y="594"/>
+      <point x="847" y="491" type="curve" smooth="yes"/>
+      <point x="847" y="294"/>
+      <point x="815" y="200"/>
+      <point x="734" y="200" type="curve" smooth="yes"/>
+      <point x="690" y="200"/>
+      <point x="661" y="227"/>
+      <point x="661" y="300" type="curve" smooth="yes"/>
+      <point x="661" y="724" type="line"/>
+      <point x="335" y="724" type="line"/>
+      <point x="335" y="381" type="line" smooth="yes"/>
+      <point x="335" y="98"/>
+      <point x="505" y="-34"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

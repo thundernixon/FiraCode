@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hyphen_less.liga" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="-983" y="503" type="line"/>
+      <point x="457" y="503" type="line"/>
+      <point x="457" y="749" type="line"/>
+      <point x="-983" y="749" type="line"/>
+    </contour>
+    <component base="_part.arrowhead" xScale="-1" xOffset="1193"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="softhyphen" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="00AD"/>
+  <outline>
+    <contour>
+      <point x="287.7291666666667" y="553.1041666666666" type="line"/>
+      <point x="912.2708333333334" y="553.1041666666666" type="line"/>
+      <point x="912.2708333333334" y="698.8958333333334" type="line"/>
+      <point x="287.7291666666667" y="698.8958333333334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilonpsilivaria" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1F1A"/>
+  <anchor x="649.0416666666666" y="0.0" name="bottom"/>
+  <anchor x="955.9375" y="0.0" name="ogonek"/>
+  <anchor x="-281.75" y="1386.3125" name="top"/>
+  <anchor x="220.25" y="1378.25" name="topleft"/>
+  <outline>
+    <component base="Epsilon"/>
+    <component base="psilivaria" xOffset="-717.875" yOffset="-221.8125"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Epsilontonos</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>E</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:23</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

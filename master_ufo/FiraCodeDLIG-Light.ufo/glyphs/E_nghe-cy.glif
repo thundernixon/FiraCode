@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Enghe-cy" format="2">
+  <advance width="1200"/>
+  <unicode hex="04A4"/>
+  <outline>
+    <contour>
+      <point x="899" y="1374" type="line"/>
+      <point x="911" y="1264" type="line"/>
+      <point x="1189" y="1264" type="line"/>
+      <point x="1201" y="1374" type="line"/>
+    </contour>
+    <contour>
+      <point x="787" y="0" type="line"/>
+      <point x="914" y="0" type="line"/>
+      <point x="914" y="1374" type="line"/>
+      <point x="787" y="1374" type="line"/>
+      <point x="787" y="776" type="line"/>
+      <point x="284" y="776" type="line"/>
+      <point x="284" y="1374" type="line"/>
+      <point x="156" y="1374" type="line"/>
+      <point x="156" y="0" type="line"/>
+      <point x="284" y="0" type="line"/>
+      <point x="284" y="676" type="line"/>
+      <point x="787" y="676" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus.dnom" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="666.3125" y="574.0" type="line"/>
+      <point x="536.0" y="574.0" type="line"/>
+      <point x="536.0" y="393.7291666666667" type="line"/>
+      <point x="364.8958333333333" y="393.7291666666667" type="line"/>
+      <point x="364.8958333333333" y="270.5833333333333" type="line"/>
+      <point x="536.0" y="270.5833333333333" type="line"/>
+      <point x="536.0" y="92.0" type="line"/>
+      <point x="666.3125" y="92.0" type="line"/>
+      <point x="666.3125" y="270.5833333333333" type="line"/>
+      <point x="835.1041666666666" y="270.5833333333333" type="line"/>
+      <point x="835.1041666666666" y="393.7291666666667" type="line"/>
+      <point x="666.3125" y="393.7291666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

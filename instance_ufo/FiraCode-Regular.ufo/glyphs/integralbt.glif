@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="integralbt" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="2321"/>
+  <outline>
+    <contour>
+      <point x="665.7291666666666" y="2000.0" type="line"/>
+      <point x="504.2708333333333" y="2000.0" type="line"/>
+      <point x="504.2708333333333" y="-145.6875" type="line"/>
+      <point x="504.2708333333333" y="-233.20833333333334"/>
+      <point x="458.625" y="-284.0"/>
+      <point x="375.25" y="-284.0" type="curve" smooth="yes"/>
+      <point x="320.9375" y="-284.0"/>
+      <point x="274.7916666666667" y="-276.3125"/>
+      <point x="208.79166666666666" y="-246.3125" type="curve"/>
+      <point x="154.625" y="-371.375" type="line"/>
+      <point x="234.625" y="-406.75"/>
+      <point x="286.625" y="-423.7291666666667"/>
+      <point x="385.7291666666667" y="-423.7291666666667" type="curve" smooth="yes"/>
+      <point x="560.625" y="-423.7291666666667"/>
+      <point x="665.7291666666666" y="-332.7916666666667"/>
+      <point x="665.7291666666666" y="-146.79166666666666" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

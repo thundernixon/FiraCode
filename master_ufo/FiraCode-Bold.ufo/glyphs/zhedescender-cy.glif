@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhedescender-cy" format="2">
+  <advance width="1200"/>
+  <unicode hex="0497"/>
+  <outline>
+    <contour>
+      <point x="493" y="0" type="line"/>
+      <point x="707" y="0" type="line"/>
+      <point x="707" y="465" type="line"/>
+      <point x="759" y="465" type="line"/>
+      <point x="916" y="0" type="line"/>
+      <point x="1193" y="0" type="line"/>
+      <point x="969" y="570" type="line"/>
+      <point x="1185" y="1062" type="line"/>
+      <point x="917" y="1062" type="line"/>
+      <point x="763" y="640" type="line"/>
+      <point x="707" y="640" type="line"/>
+      <point x="707" y="1062" type="line"/>
+      <point x="493" y="1062" type="line"/>
+      <point x="493" y="640" type="line"/>
+      <point x="437" y="640" type="line"/>
+      <point x="291" y="1062" type="line"/>
+      <point x="15" y="1062" type="line"/>
+      <point x="233" y="570" type="line"/>
+      <point x="9" y="0" type="line"/>
+      <point x="292" y="0" type="line"/>
+      <point x="441" y="465" type="line"/>
+      <point x="493" y="465" type="line"/>
+    </contour>
+    <contour>
+      <point x="1233" y="233" type="line"/>
+      <point x="873" y="233" type="line"/>
+      <point x="916" y="0" type="line"/>
+      <point x="996" y="0" type="line"/>
+      <point x="1035" y="-349" type="line"/>
+      <point x="1233" y="-349" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

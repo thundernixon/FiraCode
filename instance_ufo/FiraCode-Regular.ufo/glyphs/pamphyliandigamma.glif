@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pamphyliandigamma" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0377"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="600.0" y="1052.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="190.58333333333334" y="0.0" type="line"/>
+      <point x="395.4166666666667" y="0.0" type="line"/>
+      <point x="846.2708333333334" y="852.8958333333334" type="line"/>
+      <point x="984.9375" y="1052.75" type="line"/>
+      <point x="787.4166666666666" y="1052.75" type="line"/>
+      <point x="338.0" y="198.45833333333334" type="line"/>
+      <point x="350.6458333333333" y="295.3958333333333"/>
+      <point x="358.3125" y="425.875"/>
+      <point x="358.3125" y="561.2083333333334" type="curve" smooth="yes"/>
+      <point x="358.3125" y="1052.75" type="line"/>
+      <point x="190.58333333333334" y="1052.75" type="line"/>
+    </contour>
+    <contour>
+      <point x="1018.7916666666666" y="-23.208333333333332" type="curve"/>
+      <point x="1077.1041666666667" y="104.27083333333333" type="line"/>
+      <point x="1011.4166666666666" y="133.72916666666666"/>
+      <point x="984.9375" y="166.79166666666666"/>
+      <point x="984.9375" y="273.2083333333333" type="curve" smooth="yes"/>
+      <point x="984.9375" y="1052.75" type="line"/>
+      <point x="846.2708333333334" y="852.8958333333334" type="line"/>
+      <point x="826.5833333333334" y="650.7708333333334"/>
+      <point x="809.1041666666666" y="407.4166666666667"/>
+      <point x="809.1041666666666" y="288.0" type="curve" smooth="yes"/>
+      <point x="809.1041666666666" y="113.41666666666667"/>
+      <point x="863.375" y="19.416666666666668"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/28 18:15:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

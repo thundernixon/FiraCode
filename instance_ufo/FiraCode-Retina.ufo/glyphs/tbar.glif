@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tbar" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0167"/>
+  <anchor x="739.0833333333334" y="0.0" name="bottom"/>
+  <anchor x="600.0" y="528.125" name="center"/>
+  <anchor x="486.9583333333333" y="1304.0" name="top"/>
+  <anchor x="665.0833333333334" y="1524.125" name="topright"/>
+  <outline>
+    <contour>
+      <point x="922.9583333333334" y="707.1458333333334" type="line"/>
+      <point x="390.9583333333333" y="707.1458333333334" type="line"/>
+      <point x="173.875" y="707.1458333333334" type="line"/>
+      <point x="173.875" y="566.9166666666666" type="line"/>
+      <point x="582.9583333333334" y="566.9166666666666" type="line"/>
+      <point x="922.9583333333334" y="566.9166666666666" type="line"/>
+    </contour>
+    <component base="t"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

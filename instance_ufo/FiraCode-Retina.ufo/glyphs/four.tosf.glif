@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.tosf" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="520.9791666666666" y="1149.1458333333333" type="line"/>
+      <point x="120.1875" y="210.97916666666666" type="line"/>
+      <point x="120.1875" y="78.95833333333333" type="line"/>
+      <point x="1097.75" y="78.95833333333333" type="line"/>
+      <point x="1097.75" y="226.0625" type="line"/>
+      <point x="322.0" y="226.0625" type="line"/>
+      <point x="681.9375" y="1082.25" type="line"/>
+    </contour>
+    <contour>
+      <point x="906.9583333333334" y="587.875" type="line"/>
+      <point x="750.3333333333334" y="587.875" type="line"/>
+      <point x="724.1875" y="194.0625" type="line"/>
+      <point x="725.6041666666666" y="-214.95833333333334" type="line"/>
+      <point x="906.9583333333334" y="-214.95833333333334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/28 18:26:18</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

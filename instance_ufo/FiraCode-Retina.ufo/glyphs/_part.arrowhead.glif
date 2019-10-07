@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.arrowhead" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="408.9791666666667" y="1245.0416666666667" type="line"/>
+      <point x="271.0833333333333" y="1127.75" type="line"/>
+      <point x="728.9583333333334" y="626.0" type="line"/>
+      <point x="271.0833333333333" y="124.25" type="line"/>
+      <point x="408.9791666666667" y="6.958333333333332" type="line"/>
+      <point x="962.9583333333334" y="626.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+    </dict>
+  </lib>
+</glyph>

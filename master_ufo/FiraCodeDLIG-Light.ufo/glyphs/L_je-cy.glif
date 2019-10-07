@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lje-cy" format="2">
+  <advance width="1200"/>
+  <unicode hex="0409"/>
+  <anchor x="600" y="0" name="bottom"/>
+  <anchor x="600" y="1374" name="top"/>
+  <outline>
+    <contour>
+      <point x="705" y="1374" type="line"/>
+      <point x="221" y="1374" type="line"/>
+      <point x="155" y="621" type="line" smooth="yes"/>
+      <point x="121" y="224"/>
+      <point x="75" y="149"/>
+      <point x="13" y="75" type="curve"/>
+      <point x="94" y="-17" type="line"/>
+      <point x="201" y="70"/>
+      <point x="253" y="128"/>
+      <point x="295" y="625" type="curve" smooth="yes"/>
+      <point x="347" y="1251" type="line"/>
+      <point x="557" y="1251" type="line"/>
+      <point x="557" y="0" type="line"/>
+      <point x="724" y="0" type="line" smooth="yes"/>
+      <point x="1019" y="0"/>
+      <point x="1200" y="119"/>
+      <point x="1200" y="435" type="curve" smooth="yes"/>
+      <point x="1200" y="724"/>
+      <point x="1040" y="851"/>
+      <point x="705" y="851" type="curve"/>
+    </contour>
+    <contour>
+      <point x="739" y="738" type="line" smooth="yes"/>
+      <point x="936" y="738"/>
+      <point x="1046" y="664"/>
+      <point x="1046" y="433" type="curve" smooth="yes"/>
+      <point x="1046" y="166"/>
+      <point x="929" y="119"/>
+      <point x="735" y="119" type="curve" smooth="yes"/>
+      <point x="705" y="119" type="line"/>
+      <point x="705" y="738" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

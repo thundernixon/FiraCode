@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ksi-cyHELPER" format="2">
+  <advance width="1200.0"/>
+  <anchor x="565.9375" y="1378.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="454.9583333333333" y="-430.9791666666667" type="curve"/>
+      <point x="524.9166666666666" y="-306.9166666666667" type="line"/>
+      <point x="430.9791666666667" y="-259.1458333333333"/>
+      <point x="379.1458333333333" y="-215.9375"/>
+      <point x="379.1458333333333" y="-163.9375" type="curve" smooth="yes"/>
+      <point x="379.1458333333333" y="-106.85416666666667"/>
+      <point x="425.875" y="-82.91666666666667"/>
+      <point x="619.8125" y="-57.8125" type="curve" smooth="yes"/>
+      <point x="848.125" y="-27.75"/>
+      <point x="1042.1875" y="105.02083333333333"/>
+      <point x="1042.1875" y="360.0" type="curve"/>
+      <point x="836.0" y="362.9791666666667" type="line"/>
+      <point x="836.0" y="191.9375"/>
+      <point x="717.0833333333334" y="114.95833333333334"/>
+      <point x="514.0" y="88.95833333333334" type="curve" smooth="yes"/>
+      <point x="285.0416666666667" y="59.8125"/>
+      <point x="183.08333333333334" y="-12.1875"/>
+      <point x="183.08333333333334" y="-147.14583333333334" type="curve" smooth="yes"/>
+      <point x="183.08333333333334" y="-264.0625"/>
+      <point x="274.125" y="-355.875"/>
+    </contour>
+    <contour>
+      <point x="1042.1875" y="360.0" type="line"/>
+      <point x="1042.1875" y="606.1875"/>
+      <point x="889.8125" y="755.0208333333334"/>
+      <point x="590.8541666666666" y="754.9166666666666" type="curve"/>
+      <point x="495.0833333333333" y="754.9166666666666" type="line"/>
+      <point x="328.9166666666667" y="613.0416666666666" type="line"/>
+      <point x="546.9791666666666" y="613.0416666666666" type="line" smooth="yes"/>
+      <point x="738.0" y="613.0416666666666"/>
+      <point x="836.0" y="542.9583333333334"/>
+      <point x="836.0" y="362.9791666666667" type="curve"/>
+    </contour>
+    <contour>
+      <point x="328.9166666666667" y="613.0416666666666" type="line"/>
+      <point x="475.0833333333333" y="678.1875" type="line"/>
+      <point x="974.0" y="1219.75" type="line"/>
+      <point x="974.0" y="1378.25" type="line"/>
+      <point x="157.8125" y="1378.25" type="line"/>
+      <point x="157.8125" y="1216.8541666666667" type="line"/>
+      <point x="742.25" y="1216.8541666666667" type="line"/>
+      <point x="328.9166666666667" y="750.125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

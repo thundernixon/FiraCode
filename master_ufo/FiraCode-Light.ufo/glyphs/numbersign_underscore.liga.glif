@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_underscore.liga" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="-335" y="-243" type="line"/>
+      <point x="-260" y="354" type="line"/>
+      <point x="-71" y="354" type="line"/>
+      <point x="-71" y="461" type="line"/>
+      <point x="-244" y="461" type="line"/>
+      <point x="-182" y="918" type="line"/>
+      <point x="3" y="918" type="line"/>
+      <point x="3" y="1026" type="line"/>
+      <point x="-169" y="1026" type="line"/>
+      <point x="-119" y="1374" type="line"/>
+      <point x="-228" y="1374" type="line"/>
+      <point x="-274" y="1026" type="line"/>
+      <point x="-598" y="1026" type="line"/>
+      <point x="-548" y="1374" type="line"/>
+      <point x="-656" y="1374" type="line"/>
+      <point x="-703" y="1026" type="line"/>
+      <point x="-890" y="1026" type="line"/>
+      <point x="-890" y="918" type="line"/>
+      <point x="-717" y="918" type="line"/>
+      <point x="-780" y="461" type="line"/>
+      <point x="-964" y="461" type="line"/>
+      <point x="-964" y="354" type="line"/>
+      <point x="-794" y="354" type="line"/>
+      <point x="-842" y="0" type="line"/>
+      <point x="-733" y="0" type="line"/>
+      <point x="-687" y="354" type="line"/>
+      <point x="-366" y="354" type="line"/>
+      <point x="-457" y="-360" type="line"/>
+      <point x="1100" y="-360" type="line"/>
+      <point x="1100" y="-243" type="line"/>
+    </contour>
+    <contour>
+      <point x="-672" y="461" type="line"/>
+      <point x="-611" y="918" type="line"/>
+      <point x="-288" y="918" type="line"/>
+      <point x="-351" y="461" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

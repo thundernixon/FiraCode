@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Tcedilla" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0162"/>
+  <anchor x="598.0" y="0.0" name="bottom"/>
+  <anchor x="716.125" y="0.0" name="bottomright"/>
+  <anchor x="600.0" y="690.125" name="center"/>
+  <anchor x="598.0" y="1378.25" name="top"/>
+  <outline>
+    <component base="T"/>
+    <component base="cedilla.case" xOffset="19.145833333333336"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

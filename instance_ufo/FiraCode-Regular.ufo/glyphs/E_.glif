@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0045"/>
+  <anchor x="650.7916666666666" y="0.0" name="bottom"/>
+  <anchor x="956.3125" y="0.0" name="ogonek"/>
+  <anchor x="642.3125" y="1376.75" name="top"/>
+  <anchor x="230.75" y="1376.75" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="424.5833333333333" y="1235.25" type="line"/>
+      <point x="1012.75" y="1235.25" type="line"/>
+      <point x="1033.4166666666667" y="1376.75" type="line"/>
+      <point x="250.75" y="1376.75" type="line"/>
+      <point x="250.75" y="0.0" type="line"/>
+      <point x="1051.375" y="0.0" type="line"/>
+      <point x="1051.375" y="139.41666666666666" type="line"/>
+      <point x="424.5833333333333" y="139.41666666666666" type="line"/>
+      <point x="424.5833333333333" y="628.3125" type="line"/>
+      <point x="935.4166666666666" y="628.3125" type="line"/>
+      <point x="935.4166666666666" y="771.2083333333334" type="line"/>
+      <point x="424.5833333333333" y="771.2083333333334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

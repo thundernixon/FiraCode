@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SigmaLunateReversedSymbol" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="03FD"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="473.1041666666667" y="691.2083333333334" name="center"/>
+  <anchor x="600.0" y="1376.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="504.0" y="1399.4166666666667" type="curve" smooth="yes"/>
+      <point x="323.25" y="1399.4166666666667"/>
+      <point x="204.75" y="1352.2708333333333"/>
+      <point x="85.25" y="1265.375" type="curve"/>
+      <point x="166.75" y="1152.0" type="line"/>
+      <point x="276.625" y="1224.7916666666667"/>
+      <point x="385.7291666666667" y="1254.3125"/>
+      <point x="490.3125" y="1254.3125" type="curve" smooth="yes"/>
+      <point x="737.25" y="1254.3125"/>
+      <point x="893.2083333333334" y="1110.0"/>
+      <point x="893.2083333333334" y="689.0625" type="curve" smooth="yes"/>
+      <point x="893.2083333333334" y="278.75"/>
+      <point x="709.1041666666666" y="125.72916666666666"/>
+      <point x="474.625" y="125.72916666666666" type="curve" smooth="yes"/>
+      <point x="321.2083333333333" y="125.72916666666666"/>
+      <point x="227.72916666666666" y="180.79166666666666"/>
+      <point x="154.58333333333334" y="241.10416666666666" type="curve"/>
+      <point x="64.9375" y="126.79166666666667" type="line"/>
+      <point x="148.89583333333334" y="45.375"/>
+      <point x="280.9375" y="-23.208333333333332"/>
+      <point x="477.2083333333333" y="-23.208333333333332" type="curve" smooth="yes"/>
+      <point x="812.5833333333334" y="-23.208333333333332"/>
+      <point x="1073.4166666666667" y="226.9375"/>
+      <point x="1073.4166666666667" y="689.0625" type="curve" smooth="yes"/>
+      <point x="1073.4166666666667" y="1153.0625"/>
+      <point x="854.0" y="1399.4166666666667"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

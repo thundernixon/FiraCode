@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="digamma" format="2">
+  <advance width="1200"/>
+  <unicode hex="03DD"/>
+  <anchor x="600" y="-443" name="bottom"/>
+  <anchor x="600" y="1062" name="top"/>
+  <outline>
+    <contour>
+      <point x="598" y="1062" type="line" smooth="yes"/>
+      <point x="325" y="1062"/>
+      <point x="182" y="894"/>
+      <point x="182" y="677" type="curve" smooth="yes"/>
+      <point x="182" y="-445" type="line"/>
+      <point x="498" y="-400" type="line"/>
+      <point x="498" y="670" type="line" smooth="yes"/>
+      <point x="498" y="771"/>
+      <point x="550" y="825"/>
+      <point x="637" y="825" type="curve" smooth="yes"/>
+      <point x="1048" y="825" type="line"/>
+      <point x="1079" y="1062" type="line"/>
+    </contour>
+    <contour>
+      <point x="932" y="238" type="curve"/>
+      <point x="1005" y="443" type="line"/>
+      <point x="943" y="481"/>
+      <point x="874" y="499"/>
+      <point x="766" y="499" type="curve" smooth="yes"/>
+      <point x="331" y="499" type="line"/>
+      <point x="331" y="270" type="line"/>
+      <point x="748" y="270" type="line" smooth="yes"/>
+      <point x="824" y="270"/>
+      <point x="880" y="258"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/28 18:16:45</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

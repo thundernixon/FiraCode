@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sigma" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="03C3"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="600.0" y="1054.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="644.9791666666666" y="1067.0833333333333" type="curve"/>
+      <point x="319.0208333333333" y="1067.0833333333333"/>
+      <point x="136.95833333333334" y="852.25"/>
+      <point x="136.95833333333334" y="526.0" type="curve" smooth="yes"/>
+      <point x="136.95833333333334" y="191.08333333333334"/>
+      <point x="304.125" y="-24.958333333333336"/>
+      <point x="600.0" y="-24.958333333333336" type="curve" smooth="yes"/>
+      <point x="893.2916666666666" y="-24.958333333333336"/>
+      <point x="1059.8125" y="187.97916666666666"/>
+      <point x="1059.8125" y="527.0833333333334" type="curve" smooth="yes"/>
+      <point x="1059.8125" y="743.0833333333334"/>
+      <point x="972.1875" y="878.1875"/>
+      <point x="857.875" y="935.0416666666666" type="curve"/>
+      <point x="708.0" y="935.0208333333334" type="line"/>
+      <point x="792.9583333333334" y="871.875"/>
+      <point x="855.8125" y="753.875"/>
+      <point x="855.8125" y="527.9375" type="curve" smooth="yes"/>
+      <point x="855.8125" y="254.95833333333334"/>
+      <point x="768.9791666666666" y="128.25"/>
+      <point x="600.0" y="128.25" type="curve" smooth="yes"/>
+      <point x="429.0208333333333" y="128.25"/>
+      <point x="340.25" y="254.95833333333334"/>
+      <point x="340.25" y="526.0" type="curve" smooth="yes"/>
+      <point x="340.25" y="869.0833333333334"/>
+      <point x="504.9583333333333" y="930.9583333333334"/>
+      <point x="747.0208333333334" y="924.9583333333334" type="curve"/>
+      <point x="841.875" y="923.0208333333334" type="line"/>
+      <point x="1124.0" y="903.0208333333334" type="line"/>
+      <point x="1124.0" y="1055.5416666666667" type="line"/>
+      <point x="989.0208333333334" y="1061.6666666666667"/>
+      <point x="797.875" y="1067.0833333333333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/28 18:10:48</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

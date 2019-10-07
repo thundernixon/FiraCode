@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_colon.liga_rem" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="482.7916666666667" y="391.25" type="curve" smooth="yes"/>
+      <point x="482.7916666666667" y="299.375"/>
+      <point x="555.2083333333334" y="228.27083333333334"/>
+      <point x="643.6875" y="228.27083333333334" type="curve" smooth="yes"/>
+      <point x="739.1041666666666" y="228.27083333333334"/>
+      <point x="808.75" y="299.375"/>
+      <point x="807.2083333333334" y="391.25" type="curve" smooth="yes"/>
+      <point x="804.8958333333334" y="478.2708333333333"/>
+      <point x="739.1041666666666" y="552.0"/>
+      <point x="643.6875" y="552.0" type="curve" smooth="yes"/>
+      <point x="555.2083333333334" y="552.0"/>
+      <point x="482.7916666666667" y="478.2708333333333"/>
+    </contour>
+    <contour>
+      <point x="553.25" y="955.0625" type="curve" smooth="yes"/>
+      <point x="553.25" y="865.7291666666666"/>
+      <point x="622.5833333333334" y="792.3125"/>
+      <point x="713.375" y="792.3125" type="curve" smooth="yes"/>
+      <point x="807.25" y="792.3125"/>
+      <point x="876.8958333333334" y="865.7291666666666"/>
+      <point x="876.8958333333334" y="955.0625" type="curve" smooth="yes"/>
+      <point x="876.8958333333334" y="1044.9375"/>
+      <point x="807.25" y="1115.7291666666667"/>
+      <point x="713.375" y="1115.7291666666667" type="curve" smooth="yes"/>
+      <point x="622.5833333333334" y="1115.7291666666667"/>
+      <point x="553.25" y="1044.9375"/>
+    </contour>
+    <component base="numbersign" xOffset="-1000.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/21 14:39:44</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

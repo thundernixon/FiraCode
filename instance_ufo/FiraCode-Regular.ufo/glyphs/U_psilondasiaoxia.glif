@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilondasiaoxia" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1F5D"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="-490.1666666666667" y="1384.4375" name="top"/>
+  <anchor x="47.208333333333336" y="1376.75" name="topleft"/>
+  <outline>
+    <component base="Upsilon"/>
+    <component base="dasiaoxia" xOffset="-838.7916666666666" yOffset="-210.9375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

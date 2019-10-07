@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psiliperispomeni" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1FCF"/>
+  <anchor x="561.8541666666666" y="1056.25" name="_top"/>
+  <anchor x="944.875" y="1765.5833333333333" name="_topleft"/>
+  <anchor x="607.8541666666666" y="1787.4375" name="top"/>
+  <outline>
+    <contour>
+      <point x="500.3125" y="1156.25" type="line"/>
+      <point x="619.125" y="1156.25" type="line"/>
+      <point x="662.4166666666666" y="1232.7083333333333" type="line" smooth="yes"/>
+      <point x="708.25" y="1315.8541666666667"/>
+      <point x="720.4166666666666" y="1351.5833333333333"/>
+      <point x="720.4166666666666" y="1391.125" type="curve" smooth="yes"/>
+      <point x="720.4166666666666" y="1462.3125"/>
+      <point x="666.875" y="1516.4166666666667"/>
+      <point x="593.125" y="1516.4166666666667" type="curve" smooth="yes"/>
+      <point x="519.2916666666666" y="1516.4166666666667"/>
+      <point x="464.3125" y="1461.75"/>
+      <point x="464.3125" y="1391.125" type="curve" smooth="yes"/>
+      <point x="464.3125" y="1342.1458333333333"/>
+      <point x="486.5625" y="1307.8541666666667"/>
+      <point x="535.0208333333334" y="1279.6875" type="curve"/>
+    </contour>
+    <component base="perispomeni" xOffset="-7.75" yOffset="228.3125"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

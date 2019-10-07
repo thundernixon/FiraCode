@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Adieresis-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="04D2"/>
+  <anchor x="596.0625" y="0.0" name="bottom"/>
+  <anchor x="1095.0416666666667" y="0.0" name="ogonek"/>
+  <anchor x="600.0" y="1378.25" name="top"/>
+  <anchor x="390.0625" y="1378.25" name="topleft"/>
+  <outline>
+    <component base="A"/>
+    <component base="dieresis.case" xOffset="-0.9583333333333339"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

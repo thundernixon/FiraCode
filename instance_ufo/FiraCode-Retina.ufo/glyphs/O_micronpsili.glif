@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omicronpsili" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1F48"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="38.041666666666664" y="1398.5625" name="top"/>
+  <anchor x="207.08333333333334" y="1378.25" name="topleft"/>
+  <outline>
+    <component base="Omicron"/>
+    <component base="psili" xOffset="-567.7708333333334" yOffset="-209.5625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Omicrontonos</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>O</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:23</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

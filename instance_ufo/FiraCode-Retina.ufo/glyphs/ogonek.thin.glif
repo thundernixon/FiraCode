@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonek.thin" format="2">
+  <advance width="1200.0"/>
+  <anchor x="820.9791666666666" y="0.0" name="_ogonek"/>
+  <outline>
+    <contour>
+      <point x="795.0416666666666" y="39.083333333333336" type="line"/>
+      <point x="534.9166666666666" y="-4.25"/>
+      <point x="392.9583333333333" y="-111.04166666666666"/>
+      <point x="392.9583333333333" y="-261.9375" type="curve" smooth="yes"/>
+      <point x="392.9583333333333" y="-380.25"/>
+      <point x="491.0833333333333" y="-466.9583333333333"/>
+      <point x="645.875" y="-466.9583333333333" type="curve" smooth="yes"/>
+      <point x="697.0416666666666" y="-466.9583333333333"/>
+      <point x="731.75" y="-460.9583333333333"/>
+      <point x="770.9791666666666" y="-452.25" type="curve"/>
+      <point x="789.8125" y="-309.8125" type="line"/>
+      <point x="742.25" y="-319.75"/>
+      <point x="710.25" y="-323.8125"/>
+      <point x="668.25" y="-323.8125" type="curve" smooth="yes"/>
+      <point x="586.9166666666666" y="-323.8125"/>
+      <point x="556.125" y="-287.9375"/>
+      <point x="556.125" y="-227.75" type="curve" smooth="yes"/>
+      <point x="556.125" y="-155.14583333333334"/>
+      <point x="598.1875" y="-86.95833333333333"/>
+      <point x="800.9791666666666" y="0.0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

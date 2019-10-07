@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Komide-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0500"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="600.0" y="1378.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="605.875" y="0.0" type="curve" smooth="yes"/>
+      <point x="1024.125" y="0.0" type="line"/>
+      <point x="1024.125" y="1378.25" type="line"/>
+      <point x="825.9375" y="1378.25" type="line"/>
+      <point x="825.9375" y="863.75" type="line"/>
+      <point x="618.25" y="863.75" type="line" smooth="yes"/>
+      <point x="294.1875" y="863.75"/>
+      <point x="88.97916666666666" y="702.9791666666666"/>
+      <point x="88.97916666666666" y="426.125" type="curve" smooth="yes"/>
+      <point x="88.97916666666666" y="136.1875"/>
+      <point x="308.9791666666667" y="0.0"/>
+    </contour>
+    <contour>
+      <point x="611.1458333333334" y="156.97916666666669" type="line" smooth="yes"/>
+      <point x="430.9583333333333" y="156.97916666666669"/>
+      <point x="299.75" y="225.08333333333334"/>
+      <point x="299.75" y="426.125" type="curve" smooth="yes"/>
+      <point x="299.75" y="622.9166666666666"/>
+      <point x="416.9166666666667" y="710.1875"/>
+      <point x="616.9791666666666" y="710.1875" type="curve" smooth="yes"/>
+      <point x="825.9375" y="710.1875" type="line"/>
+      <point x="825.9375" y="156.97916666666669" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

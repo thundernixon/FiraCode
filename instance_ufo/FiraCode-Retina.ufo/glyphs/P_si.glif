@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Psi" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="03A8"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="600.0" y="1378.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="503.1458333333333" y="0.0" type="line"/>
+      <point x="699.1458333333334" y="0.0" type="line"/>
+      <point x="699.1458333333334" y="382.8541666666667" type="line"/>
+      <point x="1022.9166666666666" y="413.9375"/>
+      <point x="1174.125" y="598.9166666666666"/>
+      <point x="1174.125" y="856.9791666666666" type="curve" smooth="yes"/>
+      <point x="1174.125" y="1378.25" type="line"/>
+      <point x="981.0833333333334" y="1378.25" type="line"/>
+      <point x="981.0833333333334" y="864.1875" type="line" smooth="yes"/>
+      <point x="981.0833333333334" y="673.0208333333334"/>
+      <point x="907.0416666666666" y="563.1458333333334"/>
+      <point x="694.0" y="540.25" type="curve"/>
+      <point x="694.0" y="1378.25" type="line"/>
+      <point x="508.0" y="1378.25" type="line"/>
+      <point x="508.0" y="538.25" type="line"/>
+      <point x="288.9583333333333" y="561.0833333333334"/>
+      <point x="218.91666666666669" y="672.9583333333334"/>
+      <point x="218.91666666666669" y="864.1875" type="curve" smooth="yes"/>
+      <point x="218.91666666666669" y="1378.25" type="line"/>
+      <point x="25.875" y="1378.25" type="line"/>
+      <point x="25.875" y="856.9791666666666" type="line" smooth="yes"/>
+      <point x="25.875" y="599.0208333333334"/>
+      <point x="173.14583333333334" y="409.9375"/>
+      <point x="503.1458333333333" y="380.8541666666667" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

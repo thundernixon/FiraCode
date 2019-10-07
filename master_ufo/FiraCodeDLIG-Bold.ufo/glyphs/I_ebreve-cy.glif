@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Iebreve-cy" format="2">
+  <advance width="1200"/>
+  <unicode hex="04D6"/>
+  <anchor x="640" y="0" name="bottom"/>
+  <anchor x="954" y="0" name="ogonek"/>
+  <anchor x="640" y="1386" name="top"/>
+  <anchor x="166" y="1386" name="topleft"/>
+  <outline>
+    <component base="Ie-cy"/>
+    <component base="breve-cy.case" xOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:23</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

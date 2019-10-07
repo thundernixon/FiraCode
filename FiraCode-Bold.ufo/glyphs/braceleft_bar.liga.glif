@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="braceleft_bar.liga" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="-245" y="1647" type="line"/>
+      <point x="-613" y="1647"/>
+      <point x="-684" y="1536"/>
+      <point x="-688" y="1261" type="curve" smooth="yes"/>
+      <point x="-692" y="1025" type="line" smooth="yes"/>
+      <point x="-694" y="873"/>
+      <point x="-798" y="828"/>
+      <point x="-967" y="828" type="curve"/>
+      <point x="-967" y="572" type="line"/>
+      <point x="-796" y="572"/>
+      <point x="-692" y="527"/>
+      <point x="-692" y="375" type="curve" smooth="yes"/>
+      <point x="-692" y="122" type="line" smooth="yes"/>
+      <point x="-692" y="-150"/>
+      <point x="-613" y="-247"/>
+      <point x="-245" y="-247" type="curve"/>
+      <point x="136" y="-247" type="line"/>
+      <point x="136" y="-14" type="line"/>
+      <point x="-245" y="-14" type="line"/>
+      <point x="-365" y="-14"/>
+      <point x="-400" y="13"/>
+      <point x="-400" y="113" type="curve" smooth="yes"/>
+      <point x="-400" y="362" type="line" smooth="yes"/>
+      <point x="-400" y="590"/>
+      <point x="-497" y="668"/>
+      <point x="-711" y="700" type="curve"/>
+      <point x="-508" y="730"/>
+      <point x="-404" y="812"/>
+      <point x="-400" y="1038" type="curve" smooth="yes"/>
+      <point x="-396" y="1285" type="line" smooth="yes"/>
+      <point x="-394" y="1385"/>
+      <point x="-367" y="1412"/>
+      <point x="-245" y="1412" type="curve"/>
+      <point x="136" y="1412" type="line"/>
+      <point x="136" y="1647" type="line"/>
+    </contour>
+    <contour>
+      <point x="726" y="1647" type="line"/>
+      <point x="432" y="1647" type="line"/>
+      <point x="432" y="-247" type="line"/>
+      <point x="726" y="-247" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_colon.liga" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="530" y="1141" type="line"/>
+      <point x="476" y="755" type="line"/>
+      <point x="868" y="755" type="line"/>
+      <point x="922" y="1141" type="line"/>
+    </contour>
+    <contour>
+      <point x="450" y="551" type="line"/>
+      <point x="396" y="165" type="line"/>
+      <point x="788" y="165" type="line"/>
+      <point x="842" y="551" type="line"/>
+    </contour>
+    <component base="numbersign" xOffset="-1000"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

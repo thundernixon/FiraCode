@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegapsiliprosgegrammeni" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1FA8"/>
+  <anchor x="752.0625" y="-381.8125" name="bottom"/>
+  <anchor x="37.875" y="1398.5625" name="top"/>
+  <anchor x="206.91666666666666" y="1378.25" name="topleft"/>
+  <outline>
+    <component base="Omegapsili"/>
+    <component base="ypogegrammenicomb" xOffset="131.9375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:23</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

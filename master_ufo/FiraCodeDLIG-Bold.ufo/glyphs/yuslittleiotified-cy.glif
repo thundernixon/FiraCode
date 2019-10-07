@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yuslittleiotified-cy" format="2">
+  <advance width="1200"/>
+  <unicode hex="0469"/>
+  <anchor x="600" y="0" name="bottom"/>
+  <anchor x="600" y="1062" name="top"/>
+  <outline>
+    <contour>
+      <point x="678" y="0" type="line"/>
+      <point x="867" y="0" type="line"/>
+      <point x="867" y="379" type="line"/>
+      <point x="678" y="379" type="line"/>
+    </contour>
+    <contour>
+      <point x="28" y="0" type="line"/>
+      <point x="274" y="0" type="line"/>
+      <point x="274" y="357" type="line"/>
+      <point x="966" y="357" type="line"/>
+      <point x="966" y="546" type="line"/>
+      <point x="274" y="546" type="line"/>
+      <point x="274" y="1062" type="line"/>
+      <point x="28" y="1062" type="line"/>
+    </contour>
+    <contour>
+      <point x="311" y="0" type="line"/>
+      <point x="543" y="0" type="line"/>
+      <point x="774" y="920" type="line"/>
+      <point x="1014" y="0" type="line"/>
+      <point x="1244" y="0" type="line"/>
+      <point x="942" y="1062" type="line"/>
+      <point x="604" y="1062" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

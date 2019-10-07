@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_hyphen_greater.liga" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="398" y="1298" type="line"/>
+      <point x="191" y="1120" type="line"/>
+      <point x="331" y="968" type="line" smooth="yes"/>
+      <point x="414" y="879"/>
+      <point x="486" y="808"/>
+      <point x="571" y="755" type="curve"/>
+      <point x="-1771" y="755" type="line"/>
+      <point x="-1686" y="808"/>
+      <point x="-1614" y="879"/>
+      <point x="-1531" y="968" type="curve" smooth="yes"/>
+      <point x="-1391" y="1120" type="line"/>
+      <point x="-1598" y="1298" type="line"/>
+      <point x="-2203" y="626" type="line"/>
+      <point x="-1598" y="-46" type="line"/>
+      <point x="-1391" y="132" type="line"/>
+      <point x="-1531" y="284" type="line" smooth="yes"/>
+      <point x="-1611" y="373"/>
+      <point x="-1686" y="442"/>
+      <point x="-1768" y="497" type="curve"/>
+      <point x="568" y="497" type="line"/>
+      <point x="486" y="442"/>
+      <point x="411" y="373"/>
+      <point x="331" y="284" type="curve" smooth="yes"/>
+      <point x="191" y="132" type="line"/>
+      <point x="398" y="-46" type="line"/>
+      <point x="1003" y="626" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

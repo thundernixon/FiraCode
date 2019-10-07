@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Epsilondasia" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1F19"/>
+  <anchor x="646.7083333333334" y="0.0" name="bottom"/>
+  <anchor x="955.4375" y="0.0" name="ogonek"/>
+  <anchor x="-3.145833333333343" y="1403.0625" name="top"/>
+  <anchor x="206.25" y="1380.25" name="topleft"/>
+  <outline>
+    <component base="Epsilon"/>
+    <component base="dasia" xOffset="-612.7291666666666" yOffset="-222.0625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Epsilontonos</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:23</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

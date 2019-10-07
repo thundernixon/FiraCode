@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasia" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1FFE"/>
+  <anchor x="673.2083333333334" y="1052.75" name="_top"/>
+  <anchor x="798.2708333333334" y="1576.9375" name="_topleft"/>
+  <anchor x="601.4166666666666" y="1595.375" name="top"/>
+  <outline>
+    <contour>
+      <point x="593.375" y="1610.9375" type="curve" smooth="yes"/>
+      <point x="532.8958333333334" y="1610.9375"/>
+      <point x="484.9375" y="1565.2083333333333"/>
+      <point x="484.9375" y="1503.7291666666667" type="curve" smooth="yes"/>
+      <point x="484.9375" y="1469.0625"/>
+      <point x="493.6875" y="1440.5833333333333"/>
+      <point x="515.2083333333334" y="1393.6875" type="curve" smooth="yes"/>
+      <point x="614.75" y="1179.4166666666667" type="line"/>
+      <point x="717.25" y="1179.4166666666667" type="line"/>
+      <point x="658.625" y="1414.2708333333333" type="line"/>
+      <point x="685.0625" y="1434.7916666666667"/>
+      <point x="702.2708333333334" y="1468.3125"/>
+      <point x="702.2708333333334" y="1503.7291666666667" type="curve" smooth="yes"/>
+      <point x="702.2708333333334" y="1565.0625"/>
+      <point x="654.3125" y="1610.9375"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

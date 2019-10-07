@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Alphapsilivariaprosgegrammeni" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1F8A"/>
+  <anchor x="746.1875" y="-381.8125" name="bottom"/>
+  <anchor x="1095.0416666666667" y="0.0" name="ogonek"/>
+  <anchor x="-137.875" y="1386.3125" name="top"/>
+  <anchor x="390.0625" y="1378.25" name="topleft"/>
+  <outline>
+    <component base="Alphapsilivaria"/>
+    <component base="ypogegrammenicomb" xOffset="126.0625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Alphatonos</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>A</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:23</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kahook-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="04C4"/>
+  <anchor x="600.0" y="-406.1875" name="bottom"/>
+  <anchor x="600.0" y="1054.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="202.0" y="0.0" type="line"/>
+      <point x="394.0" y="0.0" type="line"/>
+      <point x="394.0" y="456.9791666666667" type="line"/>
+      <point x="607.0416666666666" y="456.9791666666667" type="line"/>
+      <point x="673.0416666666666" y="539.9375" type="line"/>
+      <point x="1002.9791666666666" y="1054.25" type="line"/>
+      <point x="803.1458333333334" y="1054.25" type="line"/>
+      <point x="527.0416666666666" y="604.9791666666666" type="line"/>
+      <point x="394.0" y="604.9791666666666" type="line"/>
+      <point x="394.0" y="1054.25" type="line"/>
+      <point x="202.0" y="1054.25" type="line"/>
+    </contour>
+    <contour>
+      <point x="802.0" y="0.0" type="line"/>
+      <point x="994.0" y="0.0" type="line"/>
+      <point x="994.0" y="274.8541666666667" type="line" smooth="yes"/>
+      <point x="994.0" y="496.0"/>
+      <point x="866.8541666666666" y="604.25"/>
+      <point x="650.125" y="604.25" type="curve"/>
+      <point x="601.875" y="456.9791666666667" type="line"/>
+      <point x="744.9791666666666" y="456.9791666666667"/>
+      <point x="802.0" y="406.125"/>
+      <point x="802.0" y="258.8541666666667" type="curve" smooth="yes"/>
+    </contour>
+    <component base="hookHELPER" xOffset="391.0208333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

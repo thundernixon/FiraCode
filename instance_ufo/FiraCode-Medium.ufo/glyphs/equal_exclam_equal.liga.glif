@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal_exclam_equal.liga" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="-915.6875" y="911.4375" type="line"/>
+      <point x="-2213.75" y="911.4375" type="line"/>
+      <point x="-2213.75" y="727.6875" type="line"/>
+      <point x="-915.6875" y="727.6875" type="line"/>
+    </contour>
+    <contour>
+      <point x="-915.6875" y="516.3125" type="line"/>
+      <point x="-2213.75" y="516.3125" type="line"/>
+      <point x="-2213.75" y="333.125" type="line"/>
+      <point x="-915.6875" y="333.125" type="line"/>
+    </contour>
+    <contour>
+      <point x="1013.75" y="911.4375" type="line"/>
+      <point x="-284.3125" y="911.4375" type="line"/>
+      <point x="-284.3125" y="727.6875" type="line"/>
+      <point x="1013.75" y="727.6875" type="line"/>
+    </contour>
+    <contour>
+      <point x="1013.75" y="516.3125" type="line"/>
+      <point x="-284.3125" y="516.3125" type="line"/>
+      <point x="-284.3125" y="333.125" type="line"/>
+      <point x="1013.75" y="333.125" type="line"/>
+    </contour>
+    <component base="exclam" xOffset="-1200.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

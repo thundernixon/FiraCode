@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilivaria" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1FCD"/>
+  <anchor x="612.5833333333334" y="1052.75" name="_top"/>
+  <anchor x="925.375" y="1587.6875" name="_topleft"/>
+  <anchor x="435.375" y="1595.375" name="top"/>
+  <outline>
+    <contour>
+      <point x="767.7291666666666" y="1584.8958333333333" type="line"/>
+      <point x="613.7291666666666" y="1545.7291666666667" type="line"/>
+      <point x="749.7291666666666" y="1148.8958333333333" type="line"/>
+      <point x="863.0625" y="1179.7291666666667" type="line"/>
+    </contour>
+    <component base="psili" xOffset="-163.6875" yOffset="-14.791666666666668"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

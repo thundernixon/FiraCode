@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowupleft" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="2196"/>
+  <outline>
+    <contour>
+      <point x="1004.25" y="144.0" type="line"/>
+      <point x="1130.8541666666667" y="271.0208333333333" type="line"/>
+      <point x="378.1875" y="1025.9375" type="line"/>
+      <point x="461.0416666666667" y="1009.9375"/>
+      <point x="503.875" y="1007.75"/>
+      <point x="589.0208333333334" y="1011.75" type="curve" smooth="yes"/>
+      <point x="956.9166666666666" y="1030.9791666666667" type="line"/>
+      <point x="947.0208333333334" y="1203.0208333333333" type="line"/>
+      <point x="113.14583333333333" y="1159.0208333333333" type="line"/>
+      <point x="69.14583333333333" y="309.9375" type="line"/>
+      <point x="249.75" y="299.0416666666667" type="line"/>
+      <point x="273.1458333333333" y="685.875" type="line" smooth="yes"/>
+      <point x="276.8541666666667" y="756.9791666666666"/>
+      <point x="272.1875" y="819.1458333333334"/>
+      <point x="254.0625" y="899.1458333333334" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

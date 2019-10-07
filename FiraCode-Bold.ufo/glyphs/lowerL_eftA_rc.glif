@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lowerLeftArc" format="2">
+  <advance width="1200"/>
+  <unicode hex="25DF"/>
+  <outline>
+    <contour>
+      <point x="220" y="540" type="curve"/>
+      <point x="60" y="540" type="line"/>
+      <point x="60" y="240"/>
+      <point x="300" y="0"/>
+      <point x="600" y="0" type="curve"/>
+      <point x="600" y="160" type="line"/>
+      <point x="390" y="160"/>
+      <point x="220" y="330"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/21 14:39:30</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

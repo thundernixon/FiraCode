@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.bar" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="653" y="1445" type="line"/>
+      <point x="545" y="1445" type="line"/>
+      <point x="545" y="-201" type="line"/>
+      <point x="653" y="-201" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+    </dict>
+  </lib>
+</glyph>

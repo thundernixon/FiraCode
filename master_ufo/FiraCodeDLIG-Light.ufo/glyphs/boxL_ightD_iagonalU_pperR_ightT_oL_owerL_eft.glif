@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxLightDiagonalUpperRightToLowerLeft" format="2">
+  <advance width="1200"/>
+  <unicode hex="2571"/>
+  <outline>
+    <contour>
+      <point x="974" y="1188" type="line"/>
+      <point x="112" y="326" type="line"/>
+      <point x="226" y="212" type="line"/>
+      <point x="1088" y="1074" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

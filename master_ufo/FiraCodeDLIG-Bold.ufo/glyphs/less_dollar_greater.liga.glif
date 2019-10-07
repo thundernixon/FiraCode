@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_dollar_greater.liga" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="-502" y="1712" type="line"/>
+      <point x="-663" y="1712" type="line"/>
+      <point x="-663" y="1468" type="line"/>
+      <point x="-911" y="1442"/>
+      <point x="-1066" y="1239"/>
+      <point x="-1066" y="1023" type="curve" smooth="yes"/>
+      <point x="-1066" y="833"/>
+      <point x="-952" y="711"/>
+      <point x="-663" y="616" type="curve"/>
+      <point x="-663" y="118" type="line"/>
+      <point x="-782" y="125"/>
+      <point x="-903" y="157"/>
+      <point x="-1079" y="256" type="curve"/>
+      <point x="-1079" y="-58" type="line"/>
+      <point x="-939" y="-141"/>
+      <point x="-861" y="-169"/>
+      <point x="-663" y="-182" type="curve"/>
+      <point x="-663" y="-324" type="line"/>
+      <point x="-502" y="-324" type="line"/>
+      <point x="-502" y="-168" type="line"/>
+      <point x="-182" y="-140"/>
+      <point x="-29" y="143"/>
+      <point x="-29" y="368" type="curve" smooth="yes"/>
+      <point x="-29" y="583"/>
+      <point x="-234" y="755"/>
+      <point x="-502" y="845" type="curve"/>
+      <point x="-502" y="1194" type="line"/>
+      <point x="-420" y="1188"/>
+      <point x="-276" y="1122"/>
+      <point x="-61" y="998" type="curve"/>
+      <point x="-61" y="1312" type="line"/>
+      <point x="-236" y="1425"/>
+      <point x="-338" y="1456"/>
+      <point x="-502" y="1470" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-502" y="552" type="line"/>
+      <point x="-403" y="502"/>
+      <point x="-324" y="435"/>
+      <point x="-324" y="323" type="curve" smooth="yes"/>
+      <point x="-324" y="232"/>
+      <point x="-421" y="138"/>
+      <point x="-502" y="120" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-663" y="1192" type="curve"/>
+      <point x="-663" y="906" type="line"/>
+      <point x="-769" y="955"/>
+      <point x="-783" y="993"/>
+      <point x="-783" y="1060" type="curve" smooth="yes"/>
+      <point x="-783" y="1123"/>
+      <point x="-744" y="1178"/>
+    </contour>
+    <contour>
+      <point x="-1155" y="1268" type="line"/>
+      <point x="-2001" y="739" type="line"/>
+      <point x="-2001" y="515" type="line"/>
+      <point x="-1079" y="-58" type="line"/>
+      <point x="-1079" y="256" type="line"/>
+      <point x="-1728" y="628" type="line"/>
+      <point x="-1218" y="928" type="line"/>
+    </contour>
+    <contour>
+      <point x="-61" y="1312" type="line"/>
+      <point x="-61" y="998" type="line"/>
+      <point x="589" y="628" type="line"/>
+      <point x="99" y="343" type="line"/>
+      <point x="-2" y="-19" type="line"/>
+      <point x="861" y="515" type="line"/>
+      <point x="861" y="741" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

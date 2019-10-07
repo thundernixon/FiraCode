@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tetse-cy" format="2">
+  <advance width="1200"/>
+  <unicode hex="04B5"/>
+  <anchor x="600" y="-443" name="bottom"/>
+  <anchor x="600" y="1062" name="top"/>
+  <outline>
+    <contour>
+      <point x="649" y="1062" type="line"/>
+      <point x="0" y="1062" type="line"/>
+      <point x="0" y="858" type="line"/>
+      <point x="170" y="858" type="line"/>
+      <point x="467" y="858" type="line"/>
+      <point x="600" y="858" type="line"/>
+    </contour>
+    <contour>
+      <point x="719" y="1062" type="line"/>
+      <point x="719" y="233" type="line"/>
+      <point x="467" y="233" type="line"/>
+      <point x="467" y="1062" type="line"/>
+      <point x="172" y="1062" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="1013" y="0" type="line"/>
+      <point x="1013" y="1062" type="line"/>
+    </contour>
+    <contour>
+      <point x="1133" y="233" type="line"/>
+      <point x="765" y="233" type="line"/>
+      <point x="788" y="0" type="line"/>
+      <point x="868" y="0" type="line"/>
+      <point x="908" y="-349" type="line"/>
+      <point x="1133" y="-349" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

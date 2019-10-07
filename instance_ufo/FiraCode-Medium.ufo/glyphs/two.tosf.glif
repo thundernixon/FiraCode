@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.tosf" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="572.0" y="1152.9791666666667" type="curve" smooth="yes"/>
+      <point x="378.5625" y="1152.9791666666667"/>
+      <point x="239.85416666666666" y="1076.25"/>
+      <point x="129.85416666666666" y="932.7083333333334" type="curve"/>
+      <point x="267.8541666666667" y="822.25" type="line"/>
+      <point x="358.875" y="934.3125"/>
+      <point x="444.4166666666667" y="976.3125"/>
+      <point x="559.125" y="976.3125" type="curve" smooth="yes"/>
+      <point x="689.6875" y="976.3125"/>
+      <point x="775.125" y="900.9791666666666"/>
+      <point x="775.125" y="783.0208333333334" type="curve" smooth="yes"/>
+      <point x="775.125" y="632.4166666666666"/>
+      <point x="708.1458333333334" y="545.75"/>
+      <point x="162.875" y="169.85416666666669" type="curve"/>
+      <point x="162.875" y="0.0" type="line"/>
+      <point x="1004.875" y="0.0" type="line"/>
+      <point x="1030.25" y="179.02083333333334" type="line"/>
+      <point x="446.4166666666667" y="179.02083333333334" type="line"/>
+      <point x="949.125" y="486.9791666666667"/>
+      <point x="1008.0" y="610.3125"/>
+      <point x="1008.0" y="794.5625" type="curve" smooth="yes"/>
+      <point x="1008.0" y="996.5625"/>
+      <point x="840.1458333333334" y="1152.9791666666667"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

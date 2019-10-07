@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine" format="2">
+  <advance width="1200"/>
+  <unicode hex="00BA"/>
+  <outline>
+    <contour>
+      <point x="600" y="1517" type="curve" smooth="yes"/>
+      <point x="325" y="1517"/>
+      <point x="157" y="1322"/>
+      <point x="157" y="1064" type="curve" smooth="yes"/>
+      <point x="157" y="792"/>
+      <point x="323" y="608"/>
+      <point x="600" y="608" type="curve" smooth="yes"/>
+      <point x="875" y="608"/>
+      <point x="1043" y="794"/>
+      <point x="1043" y="1064" type="curve" smooth="yes"/>
+      <point x="1043" y="1324"/>
+      <point x="875" y="1517"/>
+    </contour>
+    <contour>
+      <point x="1013" y="216" type="line"/>
+      <point x="187" y="216" type="line"/>
+      <point x="187" y="0" type="line"/>
+      <point x="1013" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="600" y="1321" type="curve" smooth="yes"/>
+      <point x="703" y="1321"/>
+      <point x="766" y="1249"/>
+      <point x="766" y="1064" type="curve" smooth="yes"/>
+      <point x="766" y="877"/>
+      <point x="703" y="806"/>
+      <point x="600" y="806" type="curve" smooth="yes"/>
+      <point x="497" y="806"/>
+      <point x="434" y="877"/>
+      <point x="434" y="1064" type="curve" smooth="yes"/>
+      <point x="434" y="1249"/>
+      <point x="497" y="1321"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

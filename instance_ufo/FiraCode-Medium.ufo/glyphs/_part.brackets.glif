@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.brackets" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="653.0208333333334" y="1636.4166666666667" type="line"/>
+      <point x="-1853.0208333333333" y="1636.4166666666667" type="line"/>
+      <point x="-1853.0208333333333" y="-236.41666666666666" type="line"/>
+      <point x="653.0208333333334" y="-236.41666666666666" type="line"/>
+    </contour>
+    <contour>
+      <point x="441.75" y="-58.87499999999999" type="line"/>
+      <point x="-1641.75" y="-59.43749999999999" type="line"/>
+      <point x="-1641.75" y="1457.4375" type="line"/>
+      <point x="441.75" y="1457.4375" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+    </dict>
+  </lib>
+</glyph>

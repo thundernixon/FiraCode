@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psili" format="2">
+  <advance width="1200"/>
+  <unicode hex="1FBF"/>
+  <anchor x="532" y="1062" name="_top"/>
+  <anchor x="822" y="1644" name="_topleft"/>
+  <anchor x="600" y="1674" name="top"/>
+  <outline>
+    <component base="commaaccent" yOffset="1808"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

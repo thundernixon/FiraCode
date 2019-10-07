@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="heta" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0371"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="600.0" y="1052.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="1045.7291666666667" y="469.1041666666667" type="line"/>
+      <point x="1045.7291666666667" y="615.2083333333334" type="line"/>
+      <point x="388.7916666666667" y="615.2083333333334" type="line"/>
+      <point x="388.7916666666667" y="469.1041666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="371.1041666666667" y="1076.8958333333333" type="curve"/>
+      <point x="218.625" y="1054.625" type="line"/>
+      <point x="246.79166666666666" y="964.2708333333334"/>
+      <point x="271.1041666666667" y="867.2083333333334"/>
+      <point x="271.1041666666667" y="707.7291666666666" type="curve" smooth="yes"/>
+      <point x="271.1041666666667" y="0.0" type="line"/>
+      <point x="439.1041666666667" y="0.0" type="line"/>
+      <point x="439.1041666666667" y="676.8958333333334" type="line" smooth="yes"/>
+      <point x="439.1041666666667" y="901.2083333333334"/>
+      <point x="405.25" y="1004.75"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

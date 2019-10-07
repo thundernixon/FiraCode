@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegapsili" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1F68"/>
+  <anchor x="601.4375" y="0.0" name="bottom"/>
+  <anchor x="20.874999999999993" y="1403.0625" name="top"/>
+  <anchor x="203.58333333333334" y="1380.25" name="topleft"/>
+  <outline>
+    <component base="Omega"/>
+    <component base="psili" xOffset="-583.4375" yOffset="-222.0625"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Omegatonos</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Omega</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:23</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

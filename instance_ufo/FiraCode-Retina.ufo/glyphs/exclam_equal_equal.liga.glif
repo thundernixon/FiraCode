@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam_equal_equal.liga" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="-993.0416666666666" y="-192.95833333333334" type="line"/>
+      <point x="-60.1875" y="1378.25" type="line"/>
+      <point x="-205.8125" y="1450.8541666666667" type="line"/>
+      <point x="-1142.9583333333333" y="-118.0" type="line"/>
+    </contour>
+    <component base="equal_equal_equal.liga"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.plus" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="660" y="1171" type="line"/>
+      <point x="535" y="1171" type="line"/>
+      <point x="535" y="676" type="line"/>
+      <point x="50" y="676" type="line"/>
+      <point x="50" y="565" type="line"/>
+      <point x="535" y="565" type="line"/>
+      <point x="535" y="74" type="line"/>
+      <point x="660" y="74" type="line"/>
+      <point x="660" y="565" type="line"/>
+      <point x="1150" y="565" type="line"/>
+      <point x="1150" y="676" type="line"/>
+      <point x="660" y="676" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+    </dict>
+  </lib>
+</glyph>

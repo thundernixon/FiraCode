@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon_colon_equal.liga" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="892.0" y="895.9375" type="line"/>
+      <point x="-428.0" y="895.9375" type="line"/>
+      <point x="-428.0" y="734.1875" type="line"/>
+      <point x="892.0" y="734.1875" type="line"/>
+    </contour>
+    <contour>
+      <point x="892.0" y="509.8125" type="line"/>
+      <point x="-428.0" y="509.8125" type="line"/>
+      <point x="-428.0" y="348.125" type="line"/>
+      <point x="892.0" y="348.125" type="line"/>
+    </contour>
+    <component base="colon_colon.liga" xOffset="-1414.0" yOffset="99.08333333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

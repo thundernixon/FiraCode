@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ka-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="043A"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="1038.1875" y="0.0" name="bottomright"/>
+  <anchor x="640.0" y="1054.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="200.25" y="0.0" type="line"/>
+      <point x="392.25" y="0.0" type="line"/>
+      <point x="392.25" y="483.8125" type="line"/>
+      <point x="589.0208333333334" y="483.8125" type="line"/>
+      <point x="919.0833333333334" y="0.0" type="line"/>
+      <point x="1143.9375" y="0.0" type="line"/>
+      <point x="748.9583333333334" y="566.125" type="line"/>
+      <point x="1092.9791666666667" y="1054.25" type="line"/>
+      <point x="885.1458333333334" y="1054.25" type="line"/>
+      <point x="593.1458333333334" y="631.8125" type="line"/>
+      <point x="392.25" y="631.8125" type="line"/>
+      <point x="392.25" y="1054.25" type="line"/>
+      <point x="200.25" y="1054.25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

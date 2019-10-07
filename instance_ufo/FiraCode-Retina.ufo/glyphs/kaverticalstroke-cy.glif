@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kaverticalstroke-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="049D"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="600.0" y="1054.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="200.25" y="0.0" type="line"/>
+      <point x="391.0416666666667" y="0.0" type="line"/>
+      <point x="391.0416666666667" y="485.1458333333333" type="line"/>
+      <point x="478.125" y="485.1458333333333" type="line"/>
+      <point x="478.125" y="239.8125" type="line"/>
+      <point x="573.0833333333334" y="239.8125" type="line"/>
+      <point x="573.0833333333334" y="485.1458333333333" type="line"/>
+      <point x="625.875" y="485.1458333333333" type="line"/>
+      <point x="936.0" y="0.0" type="line"/>
+      <point x="1143.9375" y="0.0" type="line"/>
+      <point x="779.875" y="568.0625" type="line"/>
+      <point x="1092.9791666666667" y="1054.25" type="line"/>
+      <point x="896.1875" y="1054.25" type="line"/>
+      <point x="625.875" y="630.1875" type="line"/>
+      <point x="573.0833333333334" y="630.1875" type="line"/>
+      <point x="573.0833333333334" y="860.1875" type="line"/>
+      <point x="478.125" y="860.1875" type="line"/>
+      <point x="478.125" y="630.1875" type="line"/>
+      <point x="391.0416666666667" y="630.1875" type="line"/>
+      <point x="391.0416666666667" y="1054.25" type="line"/>
+      <point x="200.25" y="1054.25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

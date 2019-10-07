@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="SF430000" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="2550"/>
+  <outline>
+    <contour>
+      <point x="1210.0" y="940.0" type="line"/>
+      <point x="-10.0" y="940.0" type="line"/>
+      <point x="-10.0" y="780.0" type="line"/>
+      <point x="1210.0" y="780.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1210.0" y="620.0" type="line"/>
+      <point x="-10.0" y="620.0" type="line"/>
+      <point x="-10.0" y="460.0" type="line"/>
+      <point x="1210.0" y="460.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

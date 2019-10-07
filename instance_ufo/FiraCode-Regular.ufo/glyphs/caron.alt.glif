@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caron.alt" format="2">
+  <advance width="1200.0"/>
+  <anchor x="487.25" y="1378.0" name="_topright"/>
+  <outline>
+    <contour>
+      <point x="557.0625" y="1394.7916666666667" type="line"/>
+      <point x="508.2708333333333" y="1034.625" type="line"/>
+      <point x="602.75" y="1020.5833333333334" type="line"/>
+      <point x="709.7291666666666" y="1377.2083333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

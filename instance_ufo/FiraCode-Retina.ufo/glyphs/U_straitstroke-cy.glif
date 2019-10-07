@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ustraitstroke-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="04B0"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="605.8125" y="1378.25" name="top"/>
+  <anchor x="36.95833333333333" y="1378.25" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="953.0833333333334" y="628.9791666666666" type="line"/>
+      <point x="442.9166666666667" y="628.9791666666666" type="line"/>
+      <point x="246.91666666666666" y="628.9791666666666" type="line"/>
+      <point x="246.91666666666666" y="486.9583333333333" type="line"/>
+      <point x="700.0625" y="486.9583333333333" type="line"/>
+      <point x="953.0833333333334" y="486.9583333333333" type="line"/>
+    </contour>
+    <component base="Y"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

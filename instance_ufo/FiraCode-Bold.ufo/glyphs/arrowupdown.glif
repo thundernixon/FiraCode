@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowupdown" format="2">
+  <advance width="1200"/>
+  <unicode hex="2195"/>
+  <outline>
+    <contour>
+      <point x="600" y="1783" type="line"/>
+      <point x="-34" y="1188" type="line"/>
+      <point x="148" y="994" type="line"/>
+      <point x="291" y="1134" type="line" smooth="yes"/>
+      <point x="374" y="1217"/>
+      <point x="416" y="1266"/>
+      <point x="454" y="1338" type="curve"/>
+      <point x="454" y="-11" type="line"/>
+      <point x="416" y="60"/>
+      <point x="374" y="110"/>
+      <point x="291" y="193" type="curve" smooth="yes"/>
+      <point x="148" y="333" type="line"/>
+      <point x="-34" y="139" type="line"/>
+      <point x="600" y="-456" type="line"/>
+      <point x="1234" y="139" type="line"/>
+      <point x="1052" y="333" type="line"/>
+      <point x="911" y="195" type="line" smooth="yes"/>
+      <point x="828" y="112"/>
+      <point x="790" y="66"/>
+      <point x="746" y="-13" type="curve"/>
+      <point x="746" y="1340" type="line"/>
+      <point x="790" y="1261"/>
+      <point x="828" y="1215"/>
+      <point x="911" y="1132" type="curve" smooth="yes"/>
+      <point x="1052" y="994" type="line"/>
+      <point x="1234" y="1188" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

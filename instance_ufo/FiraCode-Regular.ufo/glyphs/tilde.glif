@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tilde" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="02DC"/>
+  <anchor x="600.0" y="1052.75" name="_top"/>
+  <outline>
+    <contour>
+      <point x="716.625" y="1316.7916666666667" type="curve" smooth="yes"/>
+      <point x="803.25" y="1316.7916666666667"/>
+      <point x="877.0625" y="1370.0"/>
+      <point x="929.0625" y="1481.4166666666667" type="curve"/>
+      <point x="823.25" y="1534.75" type="line"/>
+      <point x="786.9375" y="1475.2083333333333"/>
+      <point x="756.3125" y="1447.2083333333333"/>
+      <point x="716.9375" y="1447.2083333333333" type="curve" smooth="yes"/>
+      <point x="642.0" y="1447.2083333333333"/>
+      <point x="595.375" y="1543.375"/>
+      <point x="484.9375" y="1543.375" type="curve" smooth="yes"/>
+      <point x="387.0625" y="1543.375"/>
+      <point x="316.7916666666667" y="1469.0625"/>
+      <point x="271.4166666666667" y="1375.2083333333333" type="curve"/>
+      <point x="378.0" y="1321.1041666666667" type="line"/>
+      <point x="410.0" y="1381.4166666666667"/>
+      <point x="438.625" y="1413.7291666666667"/>
+      <point x="484.0" y="1413.7291666666667" type="curve" smooth="yes"/>
+      <point x="556.9375" y="1413.7291666666667"/>
+      <point x="611.4166666666666" y="1316.7916666666667"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

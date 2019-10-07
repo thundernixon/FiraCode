@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisgravecomb" format="2">
+  <advance width="1200.0"/>
+  <anchor x="600.5625" y="1056.25" name="_top"/>
+  <outline>
+    <contour>
+      <point x="818.5625" y="1489.2916666666667" type="curve" smooth="yes"/>
+      <point x="747.8541666666666" y="1489.2916666666667"/>
+      <point x="690.1458333333334" y="1432.7083333333333"/>
+      <point x="690.1458333333334" y="1361.4375" type="curve" smooth="yes"/>
+      <point x="690.1458333333334" y="1290.25"/>
+      <point x="747.8541666666666" y="1233.5833333333333"/>
+      <point x="818.5625" y="1233.5833333333333" type="curve" smooth="yes"/>
+      <point x="892.875" y="1233.5833333333333"/>
+      <point x="948.9791666666666" y="1290.25"/>
+      <point x="948.9791666666666" y="1361.4375" type="curve" smooth="yes"/>
+      <point x="948.9791666666666" y="1432.7083333333333"/>
+      <point x="892.875" y="1489.2916666666667"/>
+    </contour>
+    <contour>
+      <point x="380.0" y="1489.2916666666667" type="curve" smooth="yes"/>
+      <point x="307.2916666666667" y="1489.2916666666667"/>
+      <point x="249.58333333333331" y="1432.7083333333333"/>
+      <point x="249.58333333333331" y="1361.4375" type="curve" smooth="yes"/>
+      <point x="249.58333333333331" y="1290.25"/>
+      <point x="307.2916666666667" y="1233.5833333333333"/>
+      <point x="380.0" y="1233.5833333333333" type="curve" smooth="yes"/>
+      <point x="452.3125" y="1233.5833333333333"/>
+      <point x="508.4166666666667" y="1290.25"/>
+      <point x="508.4166666666667" y="1361.4375" type="curve" smooth="yes"/>
+      <point x="508.4166666666667" y="1432.7083333333333"/>
+      <point x="452.3125" y="1489.2916666666667"/>
+    </contour>
+    <contour>
+      <point x="446.7083333333333" y="1820.4166666666667" type="line"/>
+      <point x="316.875" y="1694.1458333333333" type="line"/>
+      <point x="601.6875" y="1433.75" type="line"/>
+      <point x="691.0208333333334" y="1514.875" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.75,0.75,0.75,1</string>
+    </dict>
+  </lib>
+</glyph>

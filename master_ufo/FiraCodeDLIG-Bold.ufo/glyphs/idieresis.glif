@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresis" format="2">
+  <advance width="1200"/>
+  <unicode hex="00EF"/>
+  <anchor x="809" y="0" name="ogonek"/>
+  <anchor x="598" y="1435" name="top"/>
+  <outline>
+    <component base="dotlessi"/>
+    <component base="dieresis" xOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

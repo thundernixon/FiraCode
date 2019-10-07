@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="etadasiaperispomeniypogegrammeni" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1F97"/>
+  <anchor x="421.8333333333333" y="-388.3125" name="bottom"/>
+  <anchor x="609.5833333333334" y="1788.875" name="top"/>
+  <outline>
+    <component base="eta"/>
+    <component base="dasiaperispomeni" xOffset="13.020833333333334"/>
+    <component base="ypogegrammenicomb" xOffset="-199.29166666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:23</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

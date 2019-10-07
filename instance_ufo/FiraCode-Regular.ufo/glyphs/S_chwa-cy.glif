@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Schwa-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="04D8"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="586.3125" y="1377.2083333333333" name="top"/>
+  <outline>
+    <contour>
+      <point x="89.10416666666667" y="663.2083333333334" type="curve" smooth="yes"/>
+      <point x="89.10416666666667" y="206.9375"/>
+      <point x="283.0625" y="-23.208333333333332"/>
+      <point x="594.3125" y="-23.208333333333332" type="curve" smooth="yes"/>
+      <point x="908.3125" y="-23.208333333333332"/>
+      <point x="1102.8958333333333" y="248.27083333333334"/>
+      <point x="1102.8958333333333" y="706.625" type="curve" smooth="yes"/>
+      <point x="1102.8958333333333" y="1166.75"/>
+      <point x="921.25" y="1399.4166666666667"/>
+      <point x="586.3125" y="1399.4166666666667" type="curve" smooth="yes"/>
+      <point x="410.8958333333333" y="1399.4166666666667"/>
+      <point x="281.6875" y="1335.4166666666667"/>
+      <point x="176.27083333333334" y="1245.6875" type="curve"/>
+      <point x="265.375" y="1143.0625" type="line"/>
+      <point x="357.25" y="1210.625"/>
+      <point x="446.5833333333333" y="1260.0"/>
+      <point x="581.2083333333334" y="1260.0" type="curve" smooth="yes"/>
+      <point x="787.2083333333334" y="1260.0"/>
+      <point x="912.2708333333334" y="1121.1041666666667"/>
+      <point x="924.8958333333334" y="760.75" type="curve"/>
+      <point x="95.25" y="760.75" type="line"/>
+      <point x="90.79166666666667" y="725.375"/>
+      <point x="89.10416666666667" y="686.625"/>
+    </contour>
+    <contour>
+      <point x="596.625" y="118.75" type="curve" smooth="yes"/>
+      <point x="383.1041666666667" y="118.75"/>
+      <point x="273.0625" y="257.2083333333333"/>
+      <point x="258.2708333333333" y="617.375" type="curve"/>
+      <point x="924.8958333333334" y="617.375" type="line"/>
+      <point x="905.1041666666666" y="272.3125"/>
+      <point x="790.2708333333334" y="118.75"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Izhitsadblgrave-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0476"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="470.1041666666667" y="2007.2916666666667" name="top"/>
+  <outline>
+    <component base="Izhitsa-cy"/>
+    <component base="dblgravecomb" xOffset="-118.3125" yOffset="324.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:23</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

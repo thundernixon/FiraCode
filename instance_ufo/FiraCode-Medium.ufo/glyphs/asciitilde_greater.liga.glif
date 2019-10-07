@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciitilde_greater.liga" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="-694.5625" y="773.125" type="curve"/>
+      <point x="-869.8541666666666" y="689.6875" type="line"/>
+      <point x="-822.3125" y="562.5625"/>
+      <point x="-659.4375" y="430.1458333333333"/>
+      <point x="-514.0" y="430.1458333333333" type="curve" smooth="yes"/>
+      <point x="-267.75" y="430.1458333333333"/>
+      <point x="-241.85416666666666" y="630.1458333333334"/>
+      <point x="-114.0" y="630.1458333333334" type="curve" smooth="yes"/>
+      <point x="13.291666666666664" y="630.1458333333334"/>
+      <point x="40.3125" y="418.1458333333333"/>
+      <point x="286.0" y="418.1458333333333" type="curve" smooth="yes"/>
+      <point x="539.4375" y="418.1458333333333"/>
+      <point x="528.875" y="576.8958333333334"/>
+      <point x="701.5208333333334" y="581.5" type="curve"/>
+      <point x="701.5208333333334" y="781.2916666666666" type="line"/>
+      <point x="423.5" y="796.875"/>
+      <point x="415.5833333333333" y="613.8541666666666"/>
+      <point x="286.0" y="613.8541666666666" type="curve" smooth="yes"/>
+      <point x="158.14583333333334" y="613.8541666666666"/>
+      <point x="132.25" y="813.8541666666666"/>
+      <point x="-114.0" y="813.8541666666666" type="curve" smooth="yes"/>
+      <point x="-360.25" y="813.8541666666666"/>
+      <point x="-386.1458333333333" y="613.8541666666666"/>
+      <point x="-514.0" y="613.8541666666666" type="curve" smooth="yes"/>
+      <point x="-582.7083333333334" y="613.8541666666666"/>
+      <point x="-654.4166666666666" y="686.4166666666666"/>
+    </contour>
+    <component base="_part.arrowhead1" xOffset="-153.85416666666666"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

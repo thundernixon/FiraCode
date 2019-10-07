@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhedescender-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0497"/>
+  <outline>
+    <contour>
+      <point x="520.125" y="0.0" type="line"/>
+      <point x="679.875" y="0.0" type="line"/>
+      <point x="679.875" y="488.25" type="line"/>
+      <point x="779.0208333333334" y="488.25" type="line"/>
+      <point x="970.25" y="0.0" type="line"/>
+      <point x="1158.125" y="0.0" type="line"/>
+      <point x="925.0833333333334" y="566.125" type="line"/>
+      <point x="1141.0833333333333" y="1054.25" type="line"/>
+      <point x="958.9791666666666" y="1054.25" type="line"/>
+      <point x="783.0208333333334" y="627.0833333333334" type="line"/>
+      <point x="679.875" y="627.0833333333334" type="line"/>
+      <point x="679.875" y="1054.25" type="line"/>
+      <point x="520.125" y="1054.25" type="line"/>
+      <point x="520.125" y="627.0833333333334" type="line"/>
+      <point x="416.9791666666667" y="627.0833333333334" type="line"/>
+      <point x="247.08333333333334" y="1054.25" type="line"/>
+      <point x="58.916666666666664" y="1054.25" type="line"/>
+      <point x="274.9791666666667" y="566.125" type="line"/>
+      <point x="41.9375" y="0.0" type="line"/>
+      <point x="226.125" y="0.0" type="line"/>
+      <point x="417.75" y="488.25" type="line"/>
+      <point x="520.125" y="488.25" type="line"/>
+    </contour>
+    <contour>
+      <point x="1207.8125" y="152.91666666666669" type="line"/>
+      <point x="967.9375" y="152.91666666666669" type="line"/>
+      <point x="970.25" y="0.0" type="line"/>
+      <point x="1043.1458333333333" y="0.0" type="line"/>
+      <point x="1073.75" y="-303.1458333333333" type="line"/>
+      <point x="1207.8125" y="-303.1458333333333" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_dollar_greater.liga" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="-508.9375" y="1696.5833333333333" type="line"/>
+      <point x="-643.7291666666666" y="1696.5833333333333" type="line"/>
+      <point x="-643.7291666666666" y="1404.7916666666667" type="line"/>
+      <point x="-889.4166666666666" y="1381.1041666666667"/>
+      <point x="-1009.7291666666666" y="1215.1041666666667"/>
+      <point x="-1009.7291666666666" y="1055.375" type="curve" smooth="yes"/>
+      <point x="-1009.7291666666666" y="870.0"/>
+      <point x="-878.0" y="752.625"/>
+      <point x="-643.7291666666666" y="674.5833333333334" type="curve"/>
+      <point x="-643.7291666666666" y="39.375" type="line"/>
+      <point x="-775.0625" y="31.729166666666664"/>
+      <point x="-879.1041666666666" y="48.3125"/>
+      <point x="-1113.6875" y="188.9375" type="curve"/>
+      <point x="-1113.6875" y="9.0625" type="line"/>
+      <point x="-915.1041666666666" y="-94.75"/>
+      <point x="-817.0625" y="-121.20833333333333"/>
+      <point x="-643.7291666666666" y="-114.9375" type="curve"/>
+      <point x="-643.7291666666666" y="-306.2708333333333" type="line"/>
+      <point x="-508.9375" y="-306.2708333333333" type="line"/>
+      <point x="-508.9375" y="-109.41666666666666" type="line"/>
+      <point x="-260.625" y="-75.25"/>
+      <point x="-75.25" y="101.375"/>
+      <point x="-75.25" y="354.8958333333333" type="curve" smooth="yes"/>
+      <point x="-75.25" y="602.2708333333334"/>
+      <point x="-308.0" y="735.7291666666666"/>
+      <point x="-508.9375" y="801.0625" type="curve"/>
+      <point x="-508.9375" y="1272.625" type="line"/>
+      <point x="-409.2083333333333" y="1259.6875"/>
+      <point x="-265.2083333333333" y="1213.7291666666667"/>
+      <point x="-24.0" y="1061.2083333333333" type="curve"/>
+      <point x="-24.0" y="1238.0" type="line"/>
+      <point x="-159.6875" y="1324.7916666666667"/>
+      <point x="-348.7916666666667" y="1388.9375"/>
+      <point x="-508.9375" y="1405.25" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-508.9375" y="628.3125" type="line"/>
+      <point x="-356.75" y="565.2083333333334"/>
+      <point x="-256.9375" y="461.2083333333333"/>
+      <point x="-256.9375" y="353.0625" type="curve" smooth="yes"/>
+      <point x="-256.9375" y="151.0625"/>
+      <point x="-374.75" y="74.79166666666666"/>
+      <point x="-508.9375" y="48.3125" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-643.7291666666666" y="1268.3125" type="curve"/>
+      <point x="-643.7291666666666" y="845.1041666666666" type="line"/>
+      <point x="-790.5833333333334" y="904.8958333333334"/>
+      <point x="-830.7916666666666" y="965.25"/>
+      <point x="-830.7916666666666" y="1057.6875" type="curve" smooth="yes"/>
+      <point x="-830.7916666666666" y="1170.7916666666667"/>
+      <point x="-753.25" y="1249.6875"/>
+    </contour>
+    <contour>
+      <point x="-1196.625" y="1187.0625" type="line"/>
+      <point x="-1964.0" y="712.7916666666666" type="line"/>
+      <point x="-1964.0" y="541.2083333333334" type="line"/>
+      <point x="-1113.6875" y="9.0625" type="line"/>
+      <point x="-1113.6875" y="188.9375" type="line"/>
+      <point x="-1819.7291666666667" y="625.6875" type="line"/>
+      <point x="-1227.25" y="988.8958333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="-24.0" y="1238.0" type="line"/>
+      <point x="-24.0" y="1061.2083333333333" type="line"/>
+      <point x="682.2708333333334" y="625.6875" type="line"/>
+      <point x="129.0625" y="290.5833333333333" type="line"/>
+      <point x="85.10416666666667" y="74.27083333333334" type="line"/>
+      <point x="826.3125" y="541.2083333333334" type="line"/>
+      <point x="826.3125" y="713.25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

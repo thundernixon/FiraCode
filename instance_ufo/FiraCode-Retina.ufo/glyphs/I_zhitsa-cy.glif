@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Izhitsa-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0474"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="581.1458333333334" y="1378.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="1134.9166666666667" y="1240.0625" type="curve"/>
+      <point x="1188.25" y="1370.25" type="line"/>
+      <point x="1148.9791666666667" y="1389.875"/>
+      <point x="1104.8541666666667" y="1403.0416666666667"/>
+      <point x="1046.8541666666667" y="1403.0416666666667" type="curve" smooth="yes"/>
+      <point x="914.1875" y="1403.0416666666667"/>
+      <point x="838.9583333333334" y="1337.1458333333333"/>
+      <point x="798.9583333333334" y="1176.0" type="curve" smooth="yes"/>
+      <point x="561.1458333333334" y="209.02083333333334" type="line"/>
+      <point x="263.0208333333333" y="1378.25" type="line"/>
+      <point x="50.0" y="1378.25" type="line"/>
+      <point x="449.0208333333333" y="0.0" type="line"/>
+      <point x="674.25" y="0.0" type="line"/>
+      <point x="978.9791666666666" y="1152.25" type="line" smooth="yes"/>
+      <point x="999.0208333333334" y="1222.9583333333333"/>
+      <point x="1024.125" y="1253.75"/>
+      <point x="1072.9166666666667" y="1253.75" type="curve" smooth="yes"/>
+      <point x="1096.25" y="1253.75"/>
+      <point x="1114.0" y="1247.875"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

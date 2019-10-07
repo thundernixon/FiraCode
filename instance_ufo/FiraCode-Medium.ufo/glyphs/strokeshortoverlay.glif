@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="strokeshortoverlay" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0335"/>
+  <outline>
+    <contour>
+      <point x="962.9791666666666" y="558.25" type="line"/>
+      <point x="962.9791666666666" y="712.1458333333334" type="line"/>
+      <point x="236.14583333333331" y="712.1458333333334" type="line"/>
+      <point x="236.14583333333331" y="558.25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

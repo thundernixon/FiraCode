@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Lje-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0409"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="600.0" y="1380.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="716.9791666666666" y="1380.25" type="line"/>
+      <point x="169.4375" y="1380.25" type="line"/>
+      <point x="116.97916666666666" y="632.9791666666666" type="line" smooth="yes"/>
+      <point x="89.75" y="247.4375"/>
+      <point x="50.0" y="174.0"/>
+      <point x="-8.875" y="113.02083333333334" type="curve"/>
+      <point x="90.875" y="-28.979166666666668" type="line"/>
+      <point x="222.875" y="66.875"/>
+      <point x="285.2916666666667" y="134.25"/>
+      <point x="316.875" y="616.1458333333334" type="curve" smooth="yes"/>
+      <point x="355.8541666666667" y="1212.9791666666667" type="line"/>
+      <point x="515.8541666666666" y="1212.9791666666667" type="line"/>
+      <point x="515.8541666666666" y="0.0" type="line"/>
+      <point x="727.125" y="0.0" type="line" smooth="yes"/>
+      <point x="1017.4375" y="0.0"/>
+      <point x="1200.0" y="133.58333333333334"/>
+      <point x="1200.0" y="453.75" type="curve" smooth="yes"/>
+      <point x="1200.0" y="750.5625"/>
+      <point x="1033.75" y="886.4166666666666"/>
+      <point x="716.9791666666666" y="886.4166666666666" type="curve"/>
+    </contour>
+    <contour>
+      <point x="743.6875" y="724.9791666666666" type="line" smooth="yes"/>
+      <point x="906.3125" y="724.9791666666666"/>
+      <point x="985.5833333333334" y="643.6875"/>
+      <point x="985.5833333333334" y="451.75" type="curve" smooth="yes"/>
+      <point x="985.5833333333334" y="239.4375"/>
+      <point x="904.0" y="167.4375"/>
+      <point x="746.9791666666666" y="167.4375" type="curve" smooth="yes"/>
+      <point x="716.9791666666666" y="167.4375" type="line"/>
+      <point x="716.9791666666666" y="724.9791666666666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

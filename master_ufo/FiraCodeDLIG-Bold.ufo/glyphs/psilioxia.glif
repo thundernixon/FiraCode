@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="psilioxia" format="2">
+  <advance width="1200"/>
+  <unicode hex="1FCE"/>
+  <anchor x="503" y="1062" name="_top"/>
+  <anchor x="999" y="1664" name="_topleft"/>
+  <anchor x="545" y="1670" name="top"/>
+  <outline>
+    <contour>
+      <point x="678" y="1672" type="line"/>
+      <point x="596" y="1199" type="line"/>
+      <point x="770" y="1162" type="line"/>
+      <point x="943" y="1602" type="line"/>
+    </contour>
+    <component base="psili" xOffset="-203" yOffset="-4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

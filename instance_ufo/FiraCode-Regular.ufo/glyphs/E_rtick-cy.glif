@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ertick-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="048E"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="600.0" y="1376.75" name="top"/>
+  <outline>
+    <contour>
+      <point x="572.8958333333334" y="958.0" type="line"/>
+      <point x="952.8958333333334" y="336.0" type="line"/>
+      <point x="1110.8958333333333" y="336.0" type="line"/>
+      <point x="730.8958333333334" y="958.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="925.7291666666666" y="947.1041666666666" type="curve" smooth="yes"/>
+      <point x="925.7291666666666" y="729.4166666666666"/>
+      <point x="815.0625" y="651.2083333333334"/>
+      <point x="595.0625" y="651.2083333333334" type="curve" smooth="yes"/>
+      <point x="405.2083333333333" y="651.2083333333334" type="line"/>
+      <point x="405.2083333333333" y="1239.1041666666667" type="line"/>
+      <point x="601.7291666666666" y="1239.1041666666667" type="line" smooth="yes"/>
+      <point x="788.0" y="1239.1041666666667"/>
+      <point x="925.7291666666666" y="1165.25"/>
+    </contour>
+    <contour>
+      <point x="1113.6875" y="949.4166666666666" type="curve" smooth="yes"/>
+      <point x="1113.6875" y="1242.625"/>
+      <point x="910.7916666666666" y="1376.75"/>
+      <point x="582.5833333333334" y="1376.75" type="curve" smooth="yes"/>
+      <point x="231.375" y="1376.75" type="line"/>
+      <point x="231.375" y="0.0" type="line"/>
+      <point x="405.2083333333333" y="0.0" type="line"/>
+      <point x="405.2083333333333" y="511.1041666666667" type="line"/>
+      <point x="581.4166666666666" y="511.1041666666667" type="line" smooth="yes"/>
+      <point x="894.2708333333334" y="511.1041666666667"/>
+      <point x="1113.6875" y="663.0625"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

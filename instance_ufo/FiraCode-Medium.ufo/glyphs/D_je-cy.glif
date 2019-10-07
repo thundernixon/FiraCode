@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dje-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0402"/>
+  <anchor x="600.0" y="-415.6875" name="bottom"/>
+  <anchor x="600.0" y="1380.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="517.6875" y="1202.3125" type="line"/>
+      <point x="822.5625" y="1202.3125" type="line"/>
+      <point x="846.9791666666666" y="1380.25" type="line"/>
+      <point x="-11.6875" y="1380.25" type="line"/>
+      <point x="-11.6875" y="1202.3125" type="line"/>
+      <point x="293.5833333333333" y="1202.3125" type="line"/>
+      <point x="293.5833333333333" y="0.0" type="line"/>
+      <point x="517.6875" y="0.0" type="line"/>
+      <point x="517.6875" y="641.4375" type="line"/>
+      <point x="564.3125" y="684.1458333333334"/>
+      <point x="628.5625" y="732.3125"/>
+      <point x="731.0208333333334" y="732.3125" type="curve" smooth="yes"/>
+      <point x="868.3125" y="732.3125"/>
+      <point x="920.25" y="666.1458333333334"/>
+      <point x="920.25" y="500.4166666666667" type="curve" smooth="yes"/>
+      <point x="920.25" y="195.85416666666666" type="line" smooth="yes"/>
+      <point x="920.25" y="20.145833333333336"/>
+      <point x="882.9791666666666" y="-56.14583333333333"/>
+      <point x="711.75" y="-125.58333333333333" type="curve"/>
+      <point x="770.875" y="-296.875" type="line"/>
+      <point x="995.2916666666666" y="-221.75"/>
+      <point x="1144.3125" y="-103.6875"/>
+      <point x="1144.3125" y="193.6875" type="curve" smooth="yes"/>
+      <point x="1144.3125" y="497.2916666666667" type="line" smooth="yes"/>
+      <point x="1144.3125" y="772.0"/>
+      <point x="1025.5833333333333" y="915.125"/>
+      <point x="787.75" y="915.125" type="curve" smooth="yes"/>
+      <point x="676.4166666666666" y="915.125"/>
+      <point x="587.4375" y="868.1458333333334"/>
+      <point x="517.6875" y="807.4375" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="overlinecomb" format="2">
+  <unicode hex="0305"/>
+  <anchor x="600" y="1050" name="_top"/>
+  <outline>
+    <contour>
+      <point x="1020" y="1246" type="line"/>
+      <point x="1020" y="1347" type="line"/>
+      <point x="183" y="1347" type="line"/>
+      <point x="183" y="1246" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>1200</integer>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

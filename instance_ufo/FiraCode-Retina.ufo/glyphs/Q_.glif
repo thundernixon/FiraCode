@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0051"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="600.0" y="1378.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="1114.125" y="688.1875" type="curve" smooth="yes"/>
+      <point x="1114.125" y="1117.8125"/>
+      <point x="939.9375" y="1402.9166666666667"/>
+      <point x="600.1875" y="1402.9166666666667" type="curve" smooth="yes"/>
+      <point x="261.0833333333333" y="1402.9166666666667"/>
+      <point x="86.95833333333333" y="1107.8125"/>
+      <point x="86.95833333333333" y="686.25" type="curve" smooth="yes"/>
+      <point x="86.95833333333333" y="256.9166666666667"/>
+      <point x="258.1875" y="-20.25"/>
+      <point x="580.0" y="-20.25" type="curve" smooth="yes"/>
+      <point x="818.125" y="-20.25"/>
+      <point x="917.8125" y="-134.125"/>
+      <point x="1001.9375" y="-346.0" type="curve"/>
+      <point x="1198.25" y="-271.1458333333333" type="line"/>
+      <point x="1130.0" y="-65.875"/>
+      <point x="1024.9166666666667" y="19.75"/>
+      <point x="827.9375" y="57.04166666666667" type="curve"/>
+      <point x="1040.1875" y="172.91666666666666"/>
+      <point x="1114.125" y="399.0416666666667"/>
+    </contour>
+    <contour>
+      <point x="907.75" y="688.1875" type="curve" smooth="yes"/>
+      <point x="907.75" y="326.0"/>
+      <point x="820.25" y="136.25"/>
+      <point x="600.1875" y="136.25" type="curve" smooth="yes"/>
+      <point x="386.125" y="136.25"/>
+      <point x="292.9166666666667" y="324.0"/>
+      <point x="292.9166666666667" y="686.25" type="curve" smooth="yes"/>
+      <point x="292.9166666666667" y="1049.0833333333333"/>
+      <point x="380.25" y="1242.0"/>
+      <point x="600.1875" y="1242.0" type="curve" smooth="yes"/>
+      <point x="820.1875" y="1242.0"/>
+      <point x="907.75" y="1051.0833333333333"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dasiaperispomeni" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1FDF"/>
+  <anchor x="592.5625" y="1056.25" name="_top"/>
+  <anchor x="952.7083333333334" y="1765.5833333333333" name="_topleft"/>
+  <anchor x="596.5625" y="1788.875" name="top"/>
+  <outline>
+    <contour>
+      <point x="685.8541666666666" y="1157.6875" type="line"/>
+      <point x="651.75" y="1281.6875" type="line"/>
+      <point x="699.125" y="1309.2916666666667"/>
+      <point x="721.8541666666666" y="1343.5833333333333"/>
+      <point x="721.8541666666666" y="1392.5625" type="curve" smooth="yes"/>
+      <point x="721.8541666666666" y="1462.7083333333333"/>
+      <point x="666.875" y="1517.8541666666667"/>
+      <point x="592.5625" y="1517.8541666666667" type="curve" smooth="yes"/>
+      <point x="519.2916666666666" y="1517.8541666666667"/>
+      <point x="465.75" y="1464.3125"/>
+      <point x="465.75" y="1392.5625" type="curve" smooth="yes"/>
+      <point x="465.75" y="1353.0208333333333"/>
+      <point x="477.4375" y="1317.8541666666667"/>
+      <point x="524.3125" y="1234.1458333333333" type="curve" smooth="yes"/>
+      <point x="566.5625" y="1157.6875" type="line"/>
+    </contour>
+    <component base="perispomeni" xOffset="-1.4375" yOffset="230.3125"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

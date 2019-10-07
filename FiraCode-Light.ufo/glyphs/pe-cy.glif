@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pe-cy" format="2">
+  <advance width="1200"/>
+  <unicode hex="043F"/>
+  <anchor x="600" y="0" name="bottom"/>
+  <anchor x="1001" y="0" name="bottomright"/>
+  <anchor x="600" y="1050" name="top"/>
+  <outline>
+    <contour>
+      <point x="856" y="0" type="line"/>
+      <point x="981" y="0" type="line"/>
+      <point x="981" y="1050" type="line"/>
+      <point x="219" y="1050" type="line"/>
+      <point x="219" y="0" type="line"/>
+      <point x="344" y="0" type="line"/>
+      <point x="344" y="941" type="line"/>
+      <point x="856" y="941" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

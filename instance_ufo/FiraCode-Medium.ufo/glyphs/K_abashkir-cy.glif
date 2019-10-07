@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Kabashkir-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="04A0"/>
+  <outline>
+    <contour>
+      <point x="589.75" y="634.875" type="line"/>
+      <point x="940.1458333333334" y="0.0" type="line"/>
+      <point x="1203.2916666666667" y="0.0" type="line"/>
+      <point x="779.0208333333334" y="739.75" type="line"/>
+      <point x="1165.8541666666667" y="1380.25" type="line"/>
+      <point x="930.5625" y="1380.25" type="line"/>
+      <point x="589.5833333333334" y="812.0" type="line"/>
+      <point x="460.4166666666667" y="812.0" type="line"/>
+      <point x="460.4166666666667" y="1380.25" type="line"/>
+      <point x="14.416666666666666" y="1380.25" type="line"/>
+      <point x="14.416666666666666" y="1194.875" type="line"/>
+      <point x="235.4375" y="1194.875" type="line"/>
+      <point x="235.4375" y="0.0" type="line"/>
+      <point x="460.4166666666667" y="0.0" type="line"/>
+      <point x="460.4166666666667" y="634.875" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

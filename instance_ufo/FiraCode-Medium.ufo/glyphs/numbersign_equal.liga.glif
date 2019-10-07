@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_equal.liga" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="-277.125" y="763.0208333333334" type="line"/>
+      <point x="-110.875" y="763.0208333333334" type="line"/>
+      <point x="-110.875" y="924.1458333333334" type="line"/>
+      <point x="-256.3125" y="924.1458333333334" type="line"/>
+      <point x="-193.6875" y="1380.25" type="line"/>
+      <point x="-381.8541666666667" y="1380.25" type="line"/>
+      <point x="-442.5625" y="924.1458333333334" type="line"/>
+      <point x="-697.2916666666666" y="924.1458333333334" type="line"/>
+      <point x="-634.1458333333334" y="1380.25" type="line"/>
+      <point x="-822.875" y="1380.25" type="line"/>
+      <point x="-883.0208333333334" y="924.1458333333334" type="line"/>
+      <point x="-1052.3125" y="924.1458333333334" type="line"/>
+      <point x="-1052.3125" y="763.0208333333334" type="line"/>
+      <point x="-904.3125" y="763.0208333333334" type="line"/>
+      <point x="-938.1458333333334" y="513.5833333333334" type="line"/>
+      <point x="-1102.875" y="513.5833333333334" type="line"/>
+      <point x="-1102.875" y="354.9791666666667" type="line"/>
+      <point x="-959.4375" y="354.9791666666667" type="line"/>
+      <point x="-1005.75" y="0.0" type="line"/>
+      <point x="-817.5833333333334" y="0.0" type="line"/>
+      <point x="-770.7083333333334" y="354.9791666666667" type="line"/>
+      <point x="-518.4166666666666" y="354.9791666666667" type="line"/>
+      <point x="-565.2916666666666" y="0.0" type="line"/>
+      <point x="-377.125" y="0.0" type="line"/>
+      <point x="-331.6875" y="354.9791666666667" type="line"/>
+      <point x="-161.4375" y="354.9791666666667" type="line"/>
+      <point x="-161.4375" y="513.5833333333334" type="line"/>
+      <point x="-309.4375" y="513.5833333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="-750.9791666666666" y="513.5833333333334" type="line"/>
+      <point x="-717.5833333333334" y="763.0208333333334" type="line"/>
+      <point x="-463.8541666666667" y="763.0208333333334" type="line"/>
+      <point x="-497.6875" y="513.5833333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="964.1458333333334" y="901.0208333333334" type="line"/>
+      <point x="45.4375" y="901.0208333333334" type="line"/>
+      <point x="45.4375" y="743.0208333333334" type="line"/>
+      <point x="964.1458333333334" y="743.0208333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="913.5833333333334" y="533.5833333333334" type="line"/>
+      <point x="-5.125" y="533.5833333333334" type="line"/>
+      <point x="-5.125" y="374.9791666666667" type="line"/>
+      <point x="913.5833333333334" y="374.9791666666667" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

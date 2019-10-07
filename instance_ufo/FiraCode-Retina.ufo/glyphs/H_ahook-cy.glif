@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Hahook-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="04FC"/>
+  <anchor x="570.9791666666666" y="0.0" name="bottom"/>
+  <anchor x="1028.9166666666667" y="0.0" name="bottomright"/>
+  <anchor x="570.9791666666666" y="1378.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="960.1875" y="0.0" type="line"/>
+      <point x="1163.75" y="0.0" type="line"/>
+      <point x="1163.75" y="160.97916666666669" type="line"/>
+      <point x="960.1875" y="160.97916666666669" type="line"/>
+    </contour>
+    <component base="X" xOffset="-29.020833333333332"/>
+    <component base="hookHELPER.case" xOffset="559.75"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

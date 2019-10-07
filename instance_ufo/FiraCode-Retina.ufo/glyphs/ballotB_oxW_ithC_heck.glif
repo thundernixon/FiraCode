@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ballotBoxWithCheck" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="2611"/>
+  <anchor x="633.0416666666666" y="284.25" name="bottom"/>
+  <anchor x="633.0416666666666" y="1670.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="590.0" y="494.9791666666667" type="line"/>
+      <point x="498.0" y="764.125" type="line"/>
+      <point x="300.9583333333333" y="764.125" type="line"/>
+      <point x="479.1458333333333" y="284.25" type="line"/>
+      <point x="703.0416666666666" y="284.25" type="line"/>
+      <point x="1027.0208333333333" y="1297.75" type="line"/>
+      <point x="834.125" y="1297.75" type="line"/>
+    </contour>
+    <component base="ballotBox"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/21 14:40:55</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

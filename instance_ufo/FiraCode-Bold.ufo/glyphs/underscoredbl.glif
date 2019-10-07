@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscoredbl" format="2">
+  <advance width="1200"/>
+  <unicode hex="2017"/>
+  <outline>
+    <contour>
+      <point x="1100" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="100" y="-160" type="line"/>
+      <point x="1100" y="-160" type="line"/>
+    </contour>
+    <contour>
+      <point x="1100" y="-270" type="line"/>
+      <point x="100" y="-270" type="line"/>
+      <point x="100" y="-430" type="line"/>
+      <point x="1100" y="-430" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

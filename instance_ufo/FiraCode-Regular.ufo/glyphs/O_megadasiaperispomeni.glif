@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omegadasiaperispomeni" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1F6F"/>
+  <anchor x="602.3125" y="0.0" name="bottom"/>
+  <anchor x="-123.6875" y="1395.9583333333333" name="top"/>
+  <anchor x="209.41666666666666" y="1376.75" name="topleft"/>
+  <outline>
+    <component base="Omega"/>
+    <component base="dasiaperispomeni" xOffset="-719.375" yOffset="-324.6666666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Omegatonos</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>Omega</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:23</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

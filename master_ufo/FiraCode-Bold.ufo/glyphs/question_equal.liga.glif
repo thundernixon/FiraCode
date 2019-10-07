@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="question_equal.liga" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="954" y="956" type="line"/>
+      <point x="129" y="956" type="line"/>
+      <point x="-81" y="709" type="line"/>
+      <point x="954" y="709" type="line"/>
+    </contour>
+    <contour>
+      <point x="954" y="535" type="line"/>
+      <point x="-199" y="535" type="line"/>
+      <point x="-199" y="290" type="line"/>
+      <point x="954" y="290" type="line"/>
+    </contour>
+    <component base="question" xOffset="-1100"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

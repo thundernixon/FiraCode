@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tonos.case" format="2">
+  <advance width="1200.0"/>
+  <anchor x="765.75" y="1378.25" name="_topleft"/>
+  <outline>
+    <contour>
+      <point x="528.9791666666666" y="1416.0625" type="line"/>
+      <point x="454.9166666666667" y="1000.0" type="line"/>
+      <point x="596.8541666666666" y="976.9166666666666" type="line"/>
+      <point x="745.0833333333334" y="1378.25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

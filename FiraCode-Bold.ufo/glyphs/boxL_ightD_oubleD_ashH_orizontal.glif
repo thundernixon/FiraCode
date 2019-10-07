@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="boxLightDoubleDashHorizontal" format="2">
+  <advance width="1200"/>
+  <unicode hex="254C"/>
+  <outline>
+    <contour>
+      <point x="1120" y="780" type="line"/>
+      <point x="680" y="780" type="line"/>
+      <point x="680" y="620" type="line"/>
+      <point x="1120" y="620" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="780" type="line"/>
+      <point x="80" y="780" type="line"/>
+      <point x="80" y="620" type="line"/>
+      <point x="520" y="620" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/05/21 17:11:25</string>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

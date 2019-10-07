@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="numbersign_numbersign_numbersign.liga" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="1094.0" y="912.2708333333334" type="line"/>
+      <point x="1094.0" y="1043.4166666666667" type="line"/>
+      <point x="933.6875" y="1043.4166666666667" type="line"/>
+      <point x="980.9375" y="1376.75" type="line"/>
+      <point x="837.1041666666666" y="1376.75" type="line"/>
+      <point x="792.9375" y="1043.4166666666667" type="line"/>
+      <point x="499.4166666666667" y="1043.4166666666667" type="line"/>
+      <point x="546.8958333333334" y="1376.75" type="line"/>
+      <point x="403.375" y="1376.75" type="line"/>
+      <point x="358.8958333333333" y="1043.4166666666667" type="line"/>
+      <point x="-266.3125" y="1043.4166666666667" type="line"/>
+      <point x="-219.0625" y="1376.75" type="line"/>
+      <point x="-362.8958333333333" y="1376.75" type="line"/>
+      <point x="-407.0625" y="1043.4166666666667" type="line"/>
+      <point x="-700.5833333333334" y="1043.4166666666667" type="line"/>
+      <point x="-653.1041666666666" y="1376.75" type="line"/>
+      <point x="-796.625" y="1376.75" type="line"/>
+      <point x="-841.1041666666666" y="1043.4166666666667" type="line"/>
+      <point x="-1466.3125" y="1043.4166666666667" type="line"/>
+      <point x="-1419.0625" y="1376.75" type="line"/>
+      <point x="-1562.8958333333333" y="1376.75" type="line"/>
+      <point x="-1607.0625" y="1043.4166666666667" type="line"/>
+      <point x="-1900.5833333333333" y="1043.4166666666667" type="line"/>
+      <point x="-1853.1041666666667" y="1376.75" type="line"/>
+      <point x="-1996.625" y="1376.75" type="line"/>
+      <point x="-2041.1041666666667" y="1043.4166666666667" type="line"/>
+      <point x="-2220.3125" y="1043.4166666666667" type="line"/>
+      <point x="-2220.3125" y="912.2708333333334" type="line"/>
+      <point x="-2058.3125" y="912.2708333333334" type="line"/>
+      <point x="-2118.7916666666665" y="469.25" type="line"/>
+      <point x="-2294.3125" y="469.25" type="line"/>
+      <point x="-2294.3125" y="339.1041666666667" type="line"/>
+      <point x="-2136.0" y="339.1041666666667" type="line"/>
+      <point x="-2181.25" y="0.0" type="line"/>
+      <point x="-2037.4166666666667" y="0.0" type="line"/>
+      <point x="-1993.25" y="339.1041666666667" type="line"/>
+      <point x="-1702.2708333333333" y="339.1041666666667" type="line"/>
+      <point x="-1747.2083333333333" y="0.0" type="line"/>
+      <point x="-1603.375" y="0.0" type="line"/>
+      <point x="-1560.75" y="339.1041666666667" type="line"/>
+      <point x="-936.0" y="339.1041666666667" type="line"/>
+      <point x="-981.25" y="0.0" type="line"/>
+      <point x="-837.4166666666666" y="0.0" type="line"/>
+      <point x="-793.25" y="339.1041666666667" type="line"/>
+      <point x="-502.2708333333333" y="339.1041666666667" type="line"/>
+      <point x="-547.2083333333334" y="0.0" type="line"/>
+      <point x="-403.375" y="0.0" type="line"/>
+      <point x="-360.75" y="339.1041666666667" type="line"/>
+      <point x="264.0" y="339.1041666666667" type="line"/>
+      <point x="218.75" y="0.0" type="line"/>
+      <point x="362.5833333333333" y="0.0" type="line"/>
+      <point x="406.75" y="339.1041666666667" type="line"/>
+      <point x="697.7291666666666" y="339.1041666666667" type="line"/>
+      <point x="652.7916666666666" y="0.0" type="line"/>
+      <point x="796.625" y="0.0" type="line"/>
+      <point x="839.25" y="339.1041666666667" type="line"/>
+      <point x="1020.0" y="339.1041666666667" type="line"/>
+      <point x="1020.0" y="469.25" type="line"/>
+      <point x="858.0" y="469.25" type="line"/>
+      <point x="917.25" y="912.2708333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="-1684.75" y="469.25" type="line"/>
+      <point x="-1975.7291666666667" y="469.25" type="line"/>
+      <point x="-1916.7916666666667" y="912.2708333333334" type="line"/>
+      <point x="-1624.2708333333333" y="912.2708333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="-918.7916666666666" y="469.25" type="line"/>
+      <point x="-1542.0" y="469.25" type="line"/>
+      <point x="-1482.75" y="912.2708333333334" type="line"/>
+      <point x="-858.3125" y="912.2708333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="-484.75" y="469.25" type="line"/>
+      <point x="-775.7291666666666" y="469.25" type="line"/>
+      <point x="-716.7916666666666" y="912.2708333333334" type="line"/>
+      <point x="-424.2708333333333" y="912.2708333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="281.2083333333333" y="469.25" type="line"/>
+      <point x="-342.0" y="469.25" type="line"/>
+      <point x="-282.75" y="912.2708333333334" type="line"/>
+      <point x="341.6875" y="912.2708333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="715.25" y="469.25" type="line"/>
+      <point x="424.2708333333333" y="469.25" type="line"/>
+      <point x="483.2083333333333" y="912.2708333333334" type="line"/>
+      <point x="775.7291666666666" y="912.2708333333334" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

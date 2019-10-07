@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="1200"/>
+  <unicode hex="00D0"/>
+  <anchor x="617" y="0" name="bottom"/>
+  <anchor x="617" y="688" name="center"/>
+  <anchor x="582" y="1374" name="top"/>
+  <outline>
+    <contour>
+      <point x="669" y="763" type="line"/>
+      <point x="47" y="763" type="line"/>
+      <point x="47" y="649" type="line"/>
+      <point x="669" y="649" type="line"/>
+    </contour>
+    <component base="D" xOffset="17"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/27 17:29:18</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

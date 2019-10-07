@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_greater.liga" format="2">
+  <advance width="1200"/>
+  <outline>
+    <contour>
+      <point x="0" y="1270" type="line"/>
+      <point x="-913" y="705" type="line"/>
+      <point x="-913" y="549" type="line"/>
+      <point x="0" y="-24" type="line"/>
+      <point x="916" y="549" type="line"/>
+      <point x="916" y="705" type="line"/>
+    </contour>
+    <contour>
+      <point x="0" y="115" type="line"/>
+      <point x="-807" y="625" type="line"/>
+      <point x="0" y="1129" type="line"/>
+      <point x="810" y="625" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

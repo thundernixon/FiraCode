@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less_slash.liga" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="-258.9166666666667" y="1194.0" type="line"/>
+      <point x="-1030.0" y="717.0416666666666" type="line"/>
+      <point x="-1030.0" y="536.9583333333334" type="line"/>
+      <point x="-6.916666666666668" y="-99.9375" type="line"/>
+      <point x="91.8125" y="39.8125" type="line"/>
+      <point x="-864.8541666666666" y="626.0625" type="line"/>
+      <point x="-168.0625" y="1050.9166666666667" type="line"/>
+    </contour>
+    <contour>
+      <point x="4.958333333333336" y="-305.0208333333333" type="line"/>
+      <point x="902.9583333333334" y="1548.125" type="line"/>
+      <point x="750.9583333333334" y="1621.0833333333333" type="line"/>
+      <point x="-149.04166666666666" y="-235.9375" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

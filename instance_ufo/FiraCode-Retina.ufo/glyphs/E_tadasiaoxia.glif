@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Etadasiaoxia" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1F2D"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="1063.0416666666667" y="0.0" name="bottomright"/>
+  <anchor x="600.0" y="690.125" name="center"/>
+  <anchor x="-373.3541666666667" y="1386.3125" name="top"/>
+  <anchor x="136.95833333333334" y="1378.25" name="topleft"/>
+  <outline>
+    <component base="Eta"/>
+    <component base="dasiaoxia" xOffset="-763.2291666666666" yOffset="-221.8125"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>Etatonos</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:23</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sampi" format="2">
+  <advance width="1200"/>
+  <unicode hex="03E1"/>
+  <anchor x="600" y="-386" name="bottom"/>
+  <anchor x="600" y="1475" name="top"/>
+  <outline>
+    <contour>
+      <point x="77" y="0" type="line"/>
+      <point x="227" y="0" type="line"/>
+      <point x="725" y="1017" type="line"/>
+      <point x="640" y="1133" type="line"/>
+    </contour>
+    <contour>
+      <point x="483" y="0" type="line"/>
+      <point x="623" y="0" type="line"/>
+      <point x="904" y="658" type="line"/>
+      <point x="815" y="761" type="line"/>
+    </contour>
+    <contour>
+      <point x="205" y="1495" type="curve"/>
+      <point x="155" y="1397" type="line"/>
+      <point x="637" y="1107"/>
+      <point x="849" y="761"/>
+      <point x="849" y="202" type="curve" smooth="yes"/>
+      <point x="849" y="-36"/>
+      <point x="822" y="-243"/>
+      <point x="787" y="-400" type="curve"/>
+      <point x="924" y="-416" type="line"/>
+      <point x="966" y="-261"/>
+      <point x="1003" y="-17"/>
+      <point x="1003" y="202" type="curve" smooth="yes"/>
+      <point x="1003" y="829"/>
+      <point x="746" y="1209"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/28 18:17:09</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

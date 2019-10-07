@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rhodasia" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="1FE5"/>
+  <anchor x="600.0" y="-406.1875" name="bottom"/>
+  <anchor x="544.2083333333334" y="1608.125" name="top"/>
+  <outline>
+    <component base="rho"/>
+    <component base="dasia" xOffset="-60.708333333333336"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

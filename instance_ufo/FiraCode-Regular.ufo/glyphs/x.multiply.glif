@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="x.multiply" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="895.0625" y="1052.0" type="line"/>
+      <point x="600.0" y="757.25" type="line"/>
+      <point x="300.3125" y="1052.0" type="line"/>
+      <point x="193.375" y="945.0625" type="line"/>
+      <point x="493.2083333333333" y="649.6875" type="line"/>
+      <point x="193.375" y="350.3125" type="line"/>
+      <point x="300.3125" y="243.375" type="line"/>
+      <point x="600.0" y="542.8958333333334" type="line"/>
+      <point x="895.0625" y="243.375" type="line"/>
+      <point x="1002.0" y="350.3125" type="line"/>
+      <point x="706.7916666666666" y="649.6875" type="line"/>
+      <point x="1002.0" y="945.0625" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.5,0.09,0.79,1</string>
+    </dict>
+  </lib>
+</glyph>

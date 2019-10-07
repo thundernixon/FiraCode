@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="trademark" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="1133.875" y="1379.0833333333333" type="line"/>
+      <point x="935.0208333333334" y="1379.0833333333333" type="line"/>
+      <point x="849.0833333333334" y="829.0833333333334" type="line"/>
+      <point x="747.8125" y="1379.0833333333333" type="line"/>
+      <point x="16.916666666666664" y="1379.0833333333333" type="line"/>
+      <point x="16.916666666666664" y="1257.75" type="line"/>
+      <point x="208.91666666666666" y="1257.75" type="line"/>
+      <point x="208.91666666666666" y="595.8125" type="line"/>
+      <point x="348.0625" y="595.8125" type="line"/>
+      <point x="348.0625" y="1257.75" type="line"/>
+      <point x="549.4791666666666" y="1257.75" type="line"/>
+      <point x="522.9583333333334" y="595.8125" type="line"/>
+      <point x="651.1458333333334" y="595.8125" type="line"/>
+      <point x="666.125" y="1028.8541666666667" type="line" smooth="yes"/>
+      <point x="668.125" y="1102.1875"/>
+      <point x="668.0625" y="1173.0833333333333"/>
+      <point x="662.9791666666666" y="1241.0833333333333" type="curve"/>
+      <point x="669.0416666666666" y="1241.0833333333333" type="line"/>
+      <point x="780.0" y="680.9166666666666" type="line"/>
+      <point x="915.875" y="680.9166666666666" type="line"/>
+      <point x="1007.0416666666666" y="1241.0833333333333" type="line"/>
+      <point x="1013.75" y="1241.0833333333333" type="line"/>
+      <point x="1009.0208333333334" y="1169.0833333333333"/>
+      <point x="1010.25" y="1098.1875"/>
+      <point x="1012.25" y="1026.9166666666667" type="curve" smooth="yes"/>
+      <point x="1029.8125" y="595.8125" type="line"/>
+      <point x="1163.75" y="595.8125" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater_hyphen_greater.liga" format="2">
+  <advance width="1200.0"/>
+  <outline>
+    <contour>
+      <point x="413.6875" y="1234.7916666666667" type="line"/>
+      <point x="304.9375" y="1143.25" type="line"/>
+      <point x="604.625" y="815.375" type="line" smooth="yes"/>
+      <point x="659.1041666666666" y="754.8958333333334"/>
+      <point x="675.0625" y="736.3125"/>
+      <point x="732.3125" y="700.2708333333334" type="curve"/>
+      <point x="-1628.2708333333333" y="700.2708333333334" type="line"/>
+      <point x="-1628.2708333333333" y="551.7291666666666" type="line"/>
+      <point x="732.9375" y="551.7291666666666" type="line"/>
+      <point x="684.3125" y="520.625"/>
+      <point x="644.0" y="479.375"/>
+      <point x="604.625" y="436.625" type="curve" smooth="yes"/>
+      <point x="304.9375" y="108.75" type="line"/>
+      <point x="413.6875" y="17.208333333333336" type="line"/>
+      <point x="956.7916666666666" y="626.0" type="line"/>
+    </contour>
+    <component base="_part.arrowhead" xOffset="-2400.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/04/04 19:13:18</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

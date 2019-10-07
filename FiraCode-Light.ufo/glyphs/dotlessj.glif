@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessj" format="2">
+  <advance width="1200"/>
+  <unicode hex="0237"/>
+  <anchor x="734" y="1050" name="top"/>
+  <outline>
+    <contour>
+      <point x="874" y="1050" type="line"/>
+      <point x="295" y="1050" type="line"/>
+      <point x="295" y="942" type="line"/>
+      <point x="750" y="942" type="line"/>
+      <point x="750" y="119" type="line" smooth="yes"/>
+      <point x="750" y="-156"/>
+      <point x="515" y="-276"/>
+      <point x="207" y="-321" type="curve"/>
+      <point x="228" y="-418" type="line"/>
+      <point x="631" y="-355"/>
+      <point x="874" y="-192"/>
+      <point x="874" y="128" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

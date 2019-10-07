@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Upsilondasiavaria" format="2">
+  <advance width="1200"/>
+  <unicode hex="1F5B"/>
+  <anchor x="600" y="0" name="bottom"/>
+  <anchor x="-95" y="1392" name="top"/>
+  <anchor x="66" y="1374" name="topleft"/>
+  <outline>
+    <component base="Upsilon"/>
+    <component base="dasiavaria" xOffset="-753" yOffset="-191"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>0</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

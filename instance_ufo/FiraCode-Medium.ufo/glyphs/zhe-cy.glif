@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zhe-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="0436"/>
+  <anchor x="600.0" y="0.0" name="bottom"/>
+  <anchor x="1119.2916666666667" y="0.0" name="bottomright"/>
+  <anchor x="600.0" y="1056.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="513.125" y="0.0" type="line"/>
+      <point x="686.875" y="0.0" type="line"/>
+      <point x="686.875" y="482.25" type="line"/>
+      <point x="773.8541666666666" y="482.25" type="line"/>
+      <point x="969.0208333333334" y="0.0" type="line"/>
+      <point x="1180.4166666666667" y="0.0" type="line"/>
+      <point x="936.4166666666666" y="567.125" type="line"/>
+      <point x="1164.7083333333333" y="1056.25" type="line"/>
+      <point x="961.4375" y="1056.25" type="line"/>
+      <point x="777.8541666666666" y="630.4166666666666" type="line"/>
+      <point x="686.875" y="630.4166666666666" type="line"/>
+      <point x="686.875" y="1056.25" type="line"/>
+      <point x="513.125" y="1056.25" type="line"/>
+      <point x="513.125" y="630.4166666666666" type="line"/>
+      <point x="422.1458333333333" y="630.4166666666666" type="line"/>
+      <point x="245.125" y="1056.25" type="line"/>
+      <point x="35.291666666666664" y="1056.25" type="line"/>
+      <point x="264.1458333333333" y="567.125" type="line"/>
+      <point x="20.14583333333333" y="0.0" type="line"/>
+      <point x="230.3125" y="0.0" type="line"/>
+      <point x="423.75" y="482.25" type="line"/>
+      <point x="513.125" y="482.25" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

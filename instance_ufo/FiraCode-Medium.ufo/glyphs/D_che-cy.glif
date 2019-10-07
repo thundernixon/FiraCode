@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dche-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="052C"/>
+  <anchor x="600.0" y="-415.6875" name="bottom"/>
+  <anchor x="600.0" y="1380.25" name="top"/>
+  <outline>
+    <contour>
+      <point x="188.3125" y="0.0" type="line"/>
+      <point x="1062.1458333333333" y="0.0" type="line"/>
+      <point x="1062.1458333333333" y="1380.25" type="line"/>
+      <point x="479.75" y="1380.25" type="line"/>
+      <point x="439.0208333333333" y="983.0208333333334" type="line" smooth="yes"/>
+      <point x="389.0208333333333" y="505.0208333333333"/>
+      <point x="281.4375" y="296.5625"/>
+      <point x="184.41666666666666" y="180.97916666666669" type="curve"/>
+    </contour>
+    <contour>
+      <point x="395.4375" y="182.14583333333334" type="line"/>
+      <point x="526.875" y="322.3125"/>
+      <point x="602.3125" y="511.2916666666667"/>
+      <point x="649.75" y="974.4166666666666" type="curve" smooth="yes"/>
+      <point x="673.2916666666666" y="1205.2916666666667" type="line"/>
+      <point x="852.0" y="1205.2916666666667" type="line"/>
+      <point x="852.0" y="182.14583333333334" type="line"/>
+    </contour>
+    <contour>
+      <point x="88.70833333333333" y="1380.25" type="line"/>
+      <point x="88.70833333333333" y="1099.75" type="line" smooth="yes"/>
+      <point x="90.14583333333333" y="780.0"/>
+      <point x="236.25" y="637.5833333333334"/>
+      <point x="579.125" y="637.5833333333334" type="curve"/>
+      <point x="896.5625" y="637.0208333333334" type="line"/>
+      <point x="896.5625" y="814.0" type="line"/>
+      <point x="583.75" y="814.0" type="line" smooth="yes"/>
+      <point x="361.8541666666667" y="814.0"/>
+      <point x="298.875" y="902.1458333333334"/>
+      <point x="298.875" y="1104.7083333333333" type="curve" smooth="yes"/>
+      <point x="298.875" y="1380.25" type="line"/>
+    </contour>
+    <component base="descStraight-cy.case" xScale="-1.0" xOffset="844.0"/>
+    <component base="descStraight-cy.case" xOffset="405.8541666666667"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

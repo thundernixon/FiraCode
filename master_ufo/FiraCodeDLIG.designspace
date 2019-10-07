@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="300" maximum="700" default="300">
+      <map input="300" output="62"/>
+      <map input="400" output="84"/>
+      <map input="450" output="96"/>
+      <map input="500" output="112"/>
+      <map input="700" output="158"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="FiraCodeDLIG-Light.ufo" name="Fira Code DLIG Light" familyname="Fira Code DLIG" stylename="Light">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="62"/>
+      </location>
+    </source>
+    <source filename="FiraCodeDLIG-Bold.ufo" name="Fira Code DLIG Bold" familyname="Fira Code DLIG" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="158"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Fira Code DLIG Light" familyname="Fira Code DLIG" stylename="Light" filename="../instance_ufo/FiraCodeDLIG-Light.ufo" stylemapfamilyname="Fira Code DLIG Light" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="62"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Remove Features</string>
+              <array>
+                <string>cpsp</string>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Fira Code DLIG Regular" familyname="Fira Code DLIG" stylename="Regular" filename="../instance_ufo/FiraCodeDLIG-Regular.ufo" stylemapfamilyname="Fira Code DLIG" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="84"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Remove Features</string>
+              <array>
+                <string>cpsp</string>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Fira Code DLIG Retina" familyname="Fira Code DLIG" stylename="Retina" filename="../instance_ufo/FiraCodeDLIG-Retina.ufo" stylemapfamilyname="Fira Code DLIG Retina" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="96"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Remove Features</string>
+              <array>
+                <string>cpsp</string>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Fira Code DLIG Medium" familyname="Fira Code DLIG" stylename="Medium" filename="../instance_ufo/FiraCodeDLIG-Medium.ufo" stylemapfamilyname="Fira Code DLIG Medium" stylemapstylename="regular">
+      <location>
+        <dimension name="Weight" xvalue="112"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Remove Features</string>
+              <array>
+                <string>cpsp</string>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Fira Code DLIG Bold" familyname="Fira Code DLIG" stylename="Bold" filename="../instance_ufo/FiraCodeDLIG-Bold.ufo" stylemapfamilyname="Fira Code DLIG" stylemapstylename="bold">
+      <location>
+        <dimension name="Weight" xvalue="158"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Remove Features</string>
+              <array>
+                <string>cpsp</string>
+              </array>
+            </array>
+          </array>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>BF448B58-7A35-489E-A1C9-12628F60690C</key>
+        <dict>
+          <key>HH</key>
+          <integer>141</integer>
+          <key>HV</key>
+          <integer>166</integer>
+          <key>OH</key>
+          <integer>121</integer>
+          <key>OV</key>
+          <integer>170</integer>
+          <key>nV</key>
+          <integer>160</integer>
+          <key>oH</key>
+          <integer>118</integer>
+          <key>oV</key>
+          <integer>165</integer>
+        </dict>
+        <key>UUID0</key>
+        <dict>
+          <key>HH</key>
+          <integer>78</integer>
+          <key>HV</key>
+          <integer>95</integer>
+          <key>OH</key>
+          <integer>78</integer>
+          <key>OV</key>
+          <integer>99</integer>
+          <key>nV</key>
+          <integer>92</integer>
+          <key>oH</key>
+          <integer>74</integer>
+          <key>oV</key>
+          <integer>98</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</designspace>

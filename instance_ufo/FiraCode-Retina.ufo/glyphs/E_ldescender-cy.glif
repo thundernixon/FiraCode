@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eldescender-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="052E"/>
+  <outline>
+    <contour>
+      <point x="984.0" y="1378.25" type="line"/>
+      <point x="307.875" y="1378.25" type="line"/>
+      <point x="235.875" y="799.0416666666666" type="line" smooth="yes"/>
+      <point x="168.95833333333334" y="258.25"/>
+      <point x="98.91666666666667" y="197.14583333333334"/>
+      <point x="3.083333333333332" y="117.875" type="curve"/>
+      <point x="87.8125" y="-25.145833333333336" type="line"/>
+      <point x="283.1458333333333" y="99.75"/>
+      <point x="361.0416666666667" y="193.75"/>
+      <point x="436.9583333333333" y="834.8541666666666" type="curve" smooth="yes"/>
+      <point x="480.8541666666667" y="1212.8541666666667" type="line"/>
+      <point x="785.8125" y="1212.8541666666667" type="line"/>
+      <point x="785.8125" y="0.0" type="line"/>
+      <point x="984.0" y="0.0" type="line"/>
+    </contour>
+    <component base="descStraight-cy.case" xOffset="381.0208333333333"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottomright</string>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>descStraight-cy.case</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

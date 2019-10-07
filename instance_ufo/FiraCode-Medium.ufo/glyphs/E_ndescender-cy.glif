@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Endescender-cy" format="2">
+  <advance width="1200.0"/>
+  <unicode hex="04A2"/>
+  <anchor x="593.2916666666666" y="0.0" name="bottom"/>
+  <anchor x="1070.0" y="0.0" name="bottomright"/>
+  <anchor x="593.2916666666666" y="691.125" name="center"/>
+  <anchor x="593.2916666666666" y="1380.25" name="top"/>
+  <anchor x="116.58333333333333" y="1380.25" name="topleft"/>
+  <outline>
+    <component base="H" xOffset="-6.708333333333336"/>
+    <component base="descStraight-cy.case" xOffset="431.4375"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>anchor</key>
+          <string>bottomright</string>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>descStraight-cy.case</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/03/25 21:13:22</string>
+      <key>com.schriftgestaltung.componentsAlignment</key>
+      <array>
+        <integer>-1</integer>
+        <integer>-1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.18,0.16,0.78,1</string>
+    </dict>
+  </lib>
+</glyph>

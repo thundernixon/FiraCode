@@ -1,0 +1,279 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="Weight" minimum="300" maximum="700" default="300">
+      <map input="300" output="62"/>
+      <map input="400" output="84"/>
+      <map input="450" output="96"/>
+      <map input="500" output="112"/>
+      <map input="600" output="132"/>
+      <map input="700" output="158"/>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="FiraCode-Light.ufo" name="Fira Code Light" familyname="Fira Code" stylename="Light">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="Weight" xvalue="62"/>
+      </location>
+    </source>
+    <source filename="FiraCode-Bold.ufo" name="Fira Code Bold" familyname="Fira Code" stylename="Bold">
+      <location>
+        <dimension name="Weight" xvalue="158"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance name="Fira Code Light" familyname="Fira Code" stylename="Light" filename="instance_ufos/FiraCode-Light.ufo">
+      <location>
+        <dimension name="Weight" xvalue="62"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Remove Features</string>
+              <array>
+                <string>cpsp</string>
+              </array>
+            </array>
+          </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>B67F0F2D-EC95-4CB8-966E-23AE86958A69</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Light</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Fira Code Regular" familyname="Fira Code" stylename="Regular" filename="instance_ufos/FiraCode-Regular.ufo">
+      <location>
+        <dimension name="Weight" xvalue="84"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Remove Features</string>
+              <array>
+                <string>cpsp</string>
+              </array>
+            </array>
+          </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>4B7A3BAF-EAD8-4024-9BEA-BB1DE86CFCFA</key>
+            <real>0.229167</real>
+            <key>B67F0F2D-EC95-4CB8-966E-23AE86958A69</key>
+            <real>0.770833</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Regular</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Fira Code Retina" familyname="Fira Code" stylename="Retina" filename="instance_ufos/FiraCode-Retina.ufo">
+      <location>
+        <dimension name="Weight" xvalue="96"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Remove Features</string>
+              <array>
+                <string>cpsp</string>
+              </array>
+            </array>
+          </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>4B7A3BAF-EAD8-4024-9BEA-BB1DE86CFCFA</key>
+            <real>0.354167</real>
+            <key>B67F0F2D-EC95-4CB8-966E-23AE86958A69</key>
+            <real>0.645833</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Normal</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Fira Code Medium" familyname="Fira Code" stylename="Medium" filename="instance_ufos/FiraCode-Medium.ufo">
+      <location>
+        <dimension name="Weight" xvalue="112"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Remove Features</string>
+              <array>
+                <string>cpsp</string>
+              </array>
+            </array>
+          </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>4B7A3BAF-EAD8-4024-9BEA-BB1DE86CFCFA</key>
+            <real>0.520833</real>
+            <key>B67F0F2D-EC95-4CB8-966E-23AE86958A69</key>
+            <real>0.479167</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Medium</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Fira Code SemiBold" familyname="Fira Code" stylename="SemiBold" filename="instance_ufos/FiraCode-SemiBold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="132"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Remove Features</string>
+              <array>
+                <string>liga</string>
+                <string>cpsp</string>
+              </array>
+            </array>
+          </array>
+          <key>com.schriftgestaltung.export</key>
+          <false/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>4B7A3BAF-EAD8-4024-9BEA-BB1DE86CFCFA</key>
+            <real>0.729167</real>
+            <key>B67F0F2D-EC95-4CB8-966E-23AE86958A69</key>
+            <real>0.270833</real>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>SemiBold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+    <instance name="Fira Code Bold" familyname="Fira Code" stylename="Bold" filename="instance_ufos/FiraCode-Bold.ufo">
+      <location>
+        <dimension name="Weight" xvalue="158"/>
+      </location>
+      <kerning/>
+      <info/>
+      <lib>
+        <dict>
+          <key>com.schriftgestaltung.customParameters</key>
+          <array>
+            <array>
+              <string>Remove Features</string>
+              <array>
+                <string>cpsp</string>
+              </array>
+            </array>
+          </array>
+          <key>com.schriftgestaltung.export</key>
+          <true/>
+          <key>com.schriftgestaltung.intanceInterpolations</key>
+          <dict>
+            <key>4B7A3BAF-EAD8-4024-9BEA-BB1DE86CFCFA</key>
+            <integer>1</integer>
+          </dict>
+          <key>com.schriftgestaltung.manualInterpolation</key>
+          <false/>
+          <key>com.schriftgestaltung.weight</key>
+          <string>Bold</string>
+          <key>com.schriftgestaltung.width</key>
+          <string>Medium (normal)</string>
+        </dict>
+      </lib>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>GSDimensionPlugin.Dimensions</key>
+      <dict>
+        <key>BF448B58-7A35-489E-A1C9-12628F60690C</key>
+        <dict>
+          <key>HH</key>
+          <integer>141</integer>
+          <key>HV</key>
+          <integer>166</integer>
+          <key>OH</key>
+          <integer>121</integer>
+          <key>OV</key>
+          <integer>170</integer>
+          <key>nV</key>
+          <integer>160</integer>
+          <key>oH</key>
+          <integer>118</integer>
+          <key>oV</key>
+          <integer>165</integer>
+        </dict>
+        <key>UUID0</key>
+        <dict>
+          <key>HH</key>
+          <integer>78</integer>
+          <key>HV</key>
+          <integer>95</integer>
+          <key>OH</key>
+          <integer>78</integer>
+          <key>OV</key>
+          <integer>99</integer>
+          <key>nV</key>
+          <integer>92</integer>
+          <key>oH</key>
+          <integer>74</integer>
+          <key>oV</key>
+          <integer>98</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</designspace>
